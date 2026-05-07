@@ -1,0 +1,52 @@
+{
+  "schema_name": "suxing_categories",
+  "version": "1.0",
+  "total_categories": 9,
+  "categories": [
+    {
+      "id": "benyuan_awake",
+      "name": "本元覺醒",
+      "description": "涉及本元、真我、覺醒、太素與道之本質。"
+    },
+    {
+      "id": "wealth_balance",
+      "name": "財富平衡",
+      "description": "涉及財富、能量、需求、自由與承載。"
+    },
+    {
+      "id": "new_era",
+      "name": "破與強・新時代",
+      "description": "涉及 AI 時代、文明轉折、舊系統失效與未來變化。"
+    },
+    {
+      "id": "power_truth",
+      "name": "權力與真實",
+      "description": "涉及政治、權力、責任、角度與真話。"
+    },
+    {
+      "id": "action_system",
+      "name": "行動系統",
+      "description": "涉及結果、行動、方法與系統。"
+    },
+    {
+      "id": "suxing_practice",
+      "name": "素行心法",
+      "description": "涉及素行實修、靜定、觀心、順隨與承載。"
+    },
+    {
+      "id": "beings_earth",
+      "name": "眾生與守地",
+      "description": "涉及眾生、生命、護地球與整體責任。"
+    },
+    {
+      "id": "short_verse",
+      "name": "短偈金句",
+      "description": "短句型、金句型與偈語型天訊文。"
+    },
+    {
+      "id": "suyu_300",
+      "name": "素語三百",
+      "description": "素語三百系列。"
+    }
+  ]
+}
