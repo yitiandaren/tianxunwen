@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-05-07T13:05:15.525099",
+  "generated_at": "2026-05-07T13:28:08.445998",
   "total_missing_items": 177,
   "missing_field_counts": {
     "editor_intro": 0,
     "open_question": 0,
-    "related_ids": 115,
+    "related_ids": 0,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 62,
+    "og_image": 177,
     "published_platforms": 177
   },
   "checked_fields": [
@@ -29,7 +29,7 @@
       "show_time": "'2026-01-11T11:19:21'",
       "file": "archive/TX-20260111-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -40,7 +40,7 @@
       "show_time": "'2026-02-22T12:59:31'",
       "file": "archive/TX-20260222-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -51,7 +51,7 @@
       "show_time": "'2026-02-07T09:55:28'",
       "file": "archive/TX-20260207-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -62,7 +62,7 @@
       "show_time": "'2026-02-25T12:50:57'",
       "file": "archive/TX-20260225-014.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -73,7 +73,7 @@
       "show_time": "'2026-03-17T11:32:29'",
       "file": "archive/TX-20260317-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -84,7 +84,7 @@
       "show_time": "'2026-02-25T12:15:13'",
       "file": "archive/TX-20260225-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -106,7 +106,7 @@
       "show_time": "'2026-01-30T09:00:58'",
       "file": "archive/TX-20260130-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -128,7 +128,7 @@
       "show_time": "'2026-02-14T14:21:32'",
       "file": "archive/TX-20260214-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -139,7 +139,7 @@
       "show_time": "'2026-02-02T11:35:35'",
       "file": "archive/TX-20260202-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -150,7 +150,7 @@
       "show_time": "'2026-01-30T09:06:10'",
       "file": "archive/TX-20260130-008.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -161,7 +161,7 @@
       "show_time": "'2026-02-07T13:17:38'",
       "file": "archive/TX-20260207-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -172,7 +172,7 @@
       "show_time": "'2026-01-28T08:49:37'",
       "file": "archive/TX-20260128-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -183,7 +183,7 @@
       "show_time": "'2026-02-25T12:16:44'",
       "file": "archive/TX-20260225-008.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -205,7 +205,7 @@
       "show_time": "'2026-03-10T10:13:34'",
       "file": "archive/TX-20260310-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -216,7 +216,7 @@
       "show_time": "'2026-02-25T12:17:50'",
       "file": "archive/TX-20260225-011.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -238,7 +238,7 @@
       "show_time": "'2026-02-25T14:02:22'",
       "file": "archive/TX-20260225-021.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -249,7 +249,7 @@
       "show_time": "'2026-01-12T09:47:07'",
       "file": "archive/TX-20260112-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -260,7 +260,7 @@
       "show_time": "'2026-01-29T07:16:03'",
       "file": "archive/TX-20260129-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -271,7 +271,7 @@
       "show_time": "'2026-03-22T19:18:37'",
       "file": "archive/TX-20260322-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -282,7 +282,7 @@
       "show_time": "'2026-02-20T14:20:51'",
       "file": "archive/TX-20260220-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -304,7 +304,7 @@
       "show_time": "'2026-03-18T10:18:34'",
       "file": "archive/TX-20260318-007.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -315,7 +315,7 @@
       "show_time": "'2026-01-21T11:32:33'",
       "file": "archive/TX-20260121-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -359,7 +359,7 @@
       "show_time": "'2026-02-20T13:48:24'",
       "file": "archive/TX-20260220-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -370,7 +370,7 @@
       "show_time": "'2026-02-25T12:20:05'",
       "file": "archive/TX-20260225-013.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -414,7 +414,7 @@
       "show_time": "'2026-02-18T10:11:53'",
       "file": "archive/TX-20260218-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -436,7 +436,7 @@
       "show_time": "'2026-02-02T11:35:07'",
       "file": "archive/TX-20260202-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -447,7 +447,7 @@
       "show_time": "'2026-02-03T14:10:45'",
       "file": "archive/TX-20260203-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -458,7 +458,7 @@
       "show_time": "'2026-03-26T20:40:22'",
       "file": "archive/TX-20260326-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -469,7 +469,7 @@
       "show_time": "'2026-03-18T10:04:04'",
       "file": "archive/TX-20260318-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -513,7 +513,7 @@
       "show_time": "'2026-03-22T12:28:19'",
       "file": "archive/TX-20260322-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -535,7 +535,7 @@
       "show_time": "'2026-01-21T10:47:30'",
       "file": "archive/TX-20260121-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -546,7 +546,7 @@
       "show_time": "'2026-02-25T14:00:47'",
       "file": "archive/TX-20260225-019.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -557,7 +557,7 @@
       "show_time": "'2026-02-06T13:39:50'",
       "file": "archive/TX-20260206-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -568,7 +568,7 @@
       "show_time": "'2026-02-28T09:08:55'",
       "file": "archive/TX-20260228-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -590,7 +590,7 @@
       "show_time": "'2026-03-18T09:58:47'",
       "file": "archive/TX-20260318-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -612,7 +612,7 @@
       "show_time": "'2026-01-30T08:56:51'",
       "file": "archive/TX-20260130-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -634,7 +634,7 @@
       "show_time": "'2026-02-04T13:00:28'",
       "file": "archive/TX-20260204-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -656,7 +656,7 @@
       "show_time": "'2026-03-14T11:31:13'",
       "file": "archive/TX-20260314-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -667,7 +667,7 @@
       "show_time": "'2026-03-10T11:03:01'",
       "file": "archive/TX-20260310-007.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -689,7 +689,7 @@
       "show_time": "'2026-03-14T11:21:22'",
       "file": "archive/TX-20260314-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -722,7 +722,7 @@
       "show_time": "'2026-02-25T12:14:35'",
       "file": "archive/TX-20260225-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -733,7 +733,7 @@
       "show_time": "'2026-03-18T10:17:57'",
       "file": "archive/TX-20260318-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -744,7 +744,7 @@
       "show_time": "'2026-03-26T20:37:12'",
       "file": "archive/TX-20260326-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -755,7 +755,7 @@
       "show_time": "'2026-03-10T10:40:19'",
       "file": "archive/TX-20260310-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -799,7 +799,7 @@
       "show_time": "'2026-02-14T14:21:20'",
       "file": "archive/TX-20260214-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -810,7 +810,7 @@
       "show_time": "'2026-02-16T17:10:30'",
       "file": "archive/TX-20260216-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -843,7 +843,7 @@
       "show_time": "'2026-03-18T10:04:35'",
       "file": "archive/TX-20260318-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -865,7 +865,7 @@
       "show_time": "'2026-01-21T20:28:16'",
       "file": "archive/TX-20260121-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -887,7 +887,7 @@
       "show_time": "'2026-03-18T09:21:03'",
       "file": "archive/TX-20260318-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -898,7 +898,7 @@
       "show_time": "'2026-02-22T12:52:10'",
       "file": "archive/TX-20260222-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -909,7 +909,7 @@
       "show_time": "'2026-03-22T11:25:40'",
       "file": "archive/TX-20260322-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -920,7 +920,7 @@
       "show_time": "'2026-02-15T22:54:35'",
       "file": "archive/TX-20260215-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -942,7 +942,7 @@
       "show_time": "'2026-02-28T10:15:17'",
       "file": "archive/TX-20260228-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -953,7 +953,7 @@
       "show_time": "'2026-01-27T16:19:24'",
       "file": "archive/TX-20260127-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -964,7 +964,7 @@
       "show_time": "'2026-02-25T13:51:00'",
       "file": "archive/TX-20260225-018.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -986,7 +986,7 @@
       "show_time": "'2026-03-10T07:48:05'",
       "file": "archive/TX-20260310-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -997,7 +997,7 @@
       "show_time": "'2026-01-27T11:42:46'",
       "file": "archive/TX-20260127-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1008,7 +1008,7 @@
       "show_time": "'2026-02-28T09:11:38'",
       "file": "archive/TX-20260228-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1030,7 +1030,7 @@
       "show_time": "'2026-02-25T10:24:44'",
       "file": "archive/TX-20260225-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1041,7 +1041,7 @@
       "show_time": "'2026-02-02T11:34:31'",
       "file": "archive/TX-20260202-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1063,7 +1063,7 @@
       "show_time": "'2026-03-18T10:19:44'",
       "file": "archive/TX-20260318-008.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1074,7 +1074,7 @@
       "show_time": "'2026-01-23T09:16:46'",
       "file": "archive/TX-20260123-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1085,7 +1085,7 @@
       "show_time": "'2026-02-25T12:52:18'",
       "file": "archive/TX-20260225-016.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1096,7 +1096,7 @@
       "show_time": "'2026-01-21T11:21:15'",
       "file": "archive/TX-20260121-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1107,7 +1107,7 @@
       "show_time": "'2026-02-17T11:58:29'",
       "file": "archive/TX-20260217-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1118,7 +1118,7 @@
       "show_time": "'2026-02-25T14:02:45'",
       "file": "archive/TX-20260225-022.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1129,7 +1129,7 @@
       "show_time": "'2026-02-28T09:34:04'",
       "file": "archive/TX-20260228-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1140,7 +1140,7 @@
       "show_time": "'2026-02-25T12:51:14'",
       "file": "archive/TX-20260225-015.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1151,7 +1151,7 @@
       "show_time": "'2026-02-25T14:03:08'",
       "file": "archive/TX-20260225-023.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1162,7 +1162,7 @@
       "show_time": "'2026-03-10T10:05:16'",
       "file": "archive/TX-20260310-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1173,7 +1173,7 @@
       "show_time": "'2026-01-22T21:19:44'",
       "file": "archive/TX-20260122-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1195,7 +1195,7 @@
       "show_time": "'2026-03-18T10:02:18'",
       "file": "archive/TX-20260318-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1206,7 +1206,7 @@
       "show_time": "'2026-03-26T20:37:58'",
       "file": "archive/TX-20260326-003.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1217,7 +1217,7 @@
       "show_time": "'2026-02-25T13:08:59'",
       "file": "archive/TX-20260225-017.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1228,7 +1228,7 @@
       "show_time": "'2026-03-26T20:35:05'",
       "file": "archive/TX-20260326-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1239,7 +1239,7 @@
       "show_time": "'2026-02-25T12:14:47'",
       "file": "archive/TX-20260225-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1250,7 +1250,7 @@
       "show_time": "'2026-02-25T12:18:55'",
       "file": "archive/TX-20260225-012.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1272,7 +1272,7 @@
       "show_time": "'2026-02-02T11:36:32'",
       "file": "archive/TX-20260202-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1283,7 +1283,7 @@
       "show_time": "'2026-03-22T19:41:19'",
       "file": "archive/TX-20260322-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1294,7 +1294,7 @@
       "show_time": "'2026-03-10T18:34:19'",
       "file": "archive/TX-20260310-009.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1305,7 +1305,7 @@
       "show_time": "'2026-02-20T14:09:24'",
       "file": "archive/TX-20260220-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1316,7 +1316,7 @@
       "show_time": "'2026-03-11T11:22:13'",
       "file": "archive/TX-20260311-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1338,7 +1338,7 @@
       "show_time": "'2026-02-25T14:01:50'",
       "file": "archive/TX-20260225-020.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1349,7 +1349,7 @@
       "show_time": "'2026-02-02T11:36:14'",
       "file": "archive/TX-20260202-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1360,7 +1360,7 @@
       "show_time": "'2026-01-30T08:56:30'",
       "file": "archive/TX-20260130-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1382,7 +1382,7 @@
       "show_time": "'2026-01-30T21:41:13'",
       "file": "archive/TX-20260130-009.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1404,7 +1404,7 @@
       "show_time": "'2026-02-28T10:16:15'",
       "file": "archive/TX-20260228-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1415,7 +1415,7 @@
       "show_time": "'2026-03-18T10:23:06'",
       "file": "archive/TX-20260318-009.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1448,7 +1448,7 @@
       "show_time": "'2026-02-25T14:10:37'",
       "file": "archive/TX-20260225-025.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1459,7 +1459,7 @@
       "show_time": "'2026-03-11T11:23:33'",
       "file": "archive/TX-20260311-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1470,7 +1470,7 @@
       "show_time": "'2026-02-25T10:23:16'",
       "file": "archive/TX-20260225-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1481,7 +1481,7 @@
       "show_time": "'2026-02-28T18:23:05'",
       "file": "archive/TX-20260228-007.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1503,7 +1503,7 @@
       "show_time": "'2026-02-28T10:17:11'",
       "file": "archive/TX-20260228-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1514,7 +1514,7 @@
       "show_time": "'2026-02-25T10:23:20'",
       "file": "archive/TX-20260225-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1525,7 +1525,7 @@
       "show_time": "'2026-02-03T14:39:07'",
       "file": "archive/TX-20260203-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1536,7 +1536,7 @@
       "show_time": "'2026-02-25T12:17:17'",
       "file": "archive/TX-20260225-010.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1580,7 +1580,7 @@
       "show_time": "'2026-03-18T10:41:13'",
       "file": "archive/TX-20260318-010.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1602,7 +1602,7 @@
       "show_time": "'2026-02-03T05:14:34'",
       "file": "archive/TX-20260203-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1624,7 +1624,7 @@
       "show_time": "'2026-03-10T10:03:08'",
       "file": "archive/TX-20260310-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1646,7 +1646,7 @@
       "show_time": "'2026-02-25T12:15:43'",
       "file": "archive/TX-20260225-007.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1668,7 +1668,7 @@
       "show_time": "'2026-03-26T20:42:52'",
       "file": "archive/TX-20260326-005.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1712,7 +1712,7 @@
       "show_time": "'2026-01-22T19:50:47'",
       "file": "archive/TX-20260122-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1723,7 +1723,7 @@
       "show_time": "'2026-03-22T12:36:55'",
       "file": "archive/TX-20260322-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1745,7 +1745,7 @@
       "show_time": "'2026-01-30T08:56:12'",
       "file": "archive/TX-20260130-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1756,7 +1756,7 @@
       "show_time": "'2026-03-16T12:52:36'",
       "file": "archive/TX-20260316-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1778,7 +1778,7 @@
       "show_time": "'2026-01-30T08:57:20'",
       "file": "archive/TX-20260130-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1789,7 +1789,7 @@
       "show_time": "'2026-02-25T14:03:26'",
       "file": "archive/TX-20260225-024.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1800,7 +1800,7 @@
       "show_time": "'2026-01-30T09:05:35'",
       "file": "archive/TX-20260130-007.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1866,7 +1866,7 @@
       "show_time": "'2026-03-22T10:54:48'",
       "file": "archive/TX-20260322-001.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1899,7 +1899,7 @@
       "show_time": "'2026-02-09T10:06:49'",
       "file": "archive/TX-20260209-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1921,7 +1921,7 @@
       "show_time": "'2026-03-10T11:33:45'",
       "file": "archive/TX-20260310-008.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1932,7 +1932,7 @@
       "show_time": "'2026-03-10T10:07:22'",
       "file": "archive/TX-20260310-004.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1943,7 +1943,7 @@
       "show_time": "'2026-01-30T09:03:42'",
       "file": "archive/TX-20260130-006.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1954,7 +1954,7 @@
       "show_time": "'2026-02-06T13:41:47'",
       "file": "archive/TX-20260206-002.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     },
@@ -1965,7 +1965,7 @@
       "show_time": "'2026-02-25T12:17:00'",
       "file": "archive/TX-20260225-009.md",
       "missing_fields": [
-        "related_ids",
+        "og_image",
         "published_platforms"
       ]
     }
