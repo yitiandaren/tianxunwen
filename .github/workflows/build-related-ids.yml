@@ -39,6 +39,6 @@ jobs:
         with:
           commit_message: auto build related TX IDs
           file_pattern: |
-            archive/*.md
+            archive/**/*.md
             data/tx_index.json
             data/metadata_audit.json
