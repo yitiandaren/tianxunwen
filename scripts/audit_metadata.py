@@ -25,7 +25,6 @@ def parse_frontmatter(content):
 
     block = match.group(1)
     data = {}
-
     current_key = None
 
     for line in block.splitlines():
@@ -55,6 +54,7 @@ def parse_frontmatter(content):
     return data
 
 items = []
+missing_field_counts = {field: 0 for field in fields_to_check}
 
 for root, dirs, files in os.walk(ARCHIVE_DIR):
     for file in files:
@@ -75,6 +75,7 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
             if value is None or value == "" or value == []:
                 missing.append(field)
+                missing_field_counts[field] += 1
 
         if missing:
             items.append({
@@ -88,9 +89,10 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
 output = {
     "schema_name": "suxing_metadata_audit",
-    "version": "1.0",
+    "version": "1.1",
     "generated_at": datetime.utcnow().isoformat(),
     "total_missing_items": len(items),
+    "missing_field_counts": missing_field_counts,
     "checked_fields": fields_to_check,
     "items": items
 }
@@ -101,3 +103,6 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
 print("Metadata audit completed")
 print(f"Output: {OUTPUT_FILE}")
 print(f"Items with missing metadata: {len(items)}")
+print("Missing field counts:")
+for field, count in missing_field_counts.items():
+    print(f"- {field}: {count}")
