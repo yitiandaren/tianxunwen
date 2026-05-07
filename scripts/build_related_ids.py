@@ -1,7 +1,6 @@
 import os
 import re
 import yaml
-from collections import defaultdict
 
 ARCHIVE_DIR = "archive"
 
@@ -61,10 +60,10 @@ updated_count = 0
 for item in items:
     metadata = item["metadata"]
 
-existing_related = metadata.get("related_ids")
+    existing_related = metadata.get("related_ids")
 
-if isinstance(existing_related, list) and len(existing_related) > 0:
-    continue
+    if isinstance(existing_related, list) and len(existing_related) > 0:
+        continue
 
     scored = []
 
