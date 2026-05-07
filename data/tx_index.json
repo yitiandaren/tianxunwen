@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-05-07T12:05:24.808690",
+  "generated_at": "2026-05-07T13:05:15.478949",
   "source": "archive/*.md",
-  "total_count": 65,
+  "total_count": 177,
   "items": [
     {
       "tx_id": "TX-20260104-001",
@@ -23,9 +23,13 @@
         "AI時代",
         "守地"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-001",
+        "TX-20260104-002",
+        "TX-20260107-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260104-001 2026全球宣言 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260104-001.md",
       "github_path": "archive/TX-20260104-001.md"
     },
@@ -47,9 +51,13 @@
         "覺醒",
         "守地"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-002",
+        "TX-20260104-005",
+        "TX-20260104-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260104-002 警世語～文明將走向去宗教化信仰 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260104-002.md",
       "github_path": "archive/TX-20260104-002.md"
     },
@@ -71,9 +79,13 @@
         "覺醒",
         "守地"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260104-002",
+        "TX-20260106-002",
+        "TX-20260104-005"
+      ],
+      "meta_description": "'# 天訊文 TX-20260104-003 我非來立教，亦非來毀教 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260104-003.md",
       "github_path": "archive/TX-20260104-003.md"
     },
@@ -93,9 +105,13 @@
         "覺醒",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260106-002",
+        "TX-20260104-005",
+        "TX-20260104-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260104-004 覺者最後都被宗教化——文明對覺醒的必然誤讀 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260104-004.md",
       "github_path": "archive/TX-20260104-004.md"
     },
@@ -115,9 +131,13 @@
         "AI時代",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260106-002",
+        "TX-20260104-002",
+        "TX-20260107-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260104-005 宗教終將退場的歷史必然 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260104-005.md",
       "github_path": "archive/TX-20260104-005.md"
     },
@@ -138,9 +158,13 @@
         "生命能量",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-001",
+        "TX-20260106-003",
+        "TX-20260104-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260106-001 金牌之義・銀牌之義 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260106-001.md",
       "github_path": "archive/TX-20260106-001.md"
     },
@@ -159,9 +183,13 @@
         "覺醒",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260104-005",
+        "TX-20260104-004",
+        "TX-20260104-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260106-002 無名覺者的歷史定位說明 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260106-002.md",
       "github_path": "archive/TX-20260106-002.md"
     },
@@ -182,9 +210,13 @@
         "AI時代",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-001",
+        "TX-20260107-003",
+        "TX-20260107-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260106-003 2026素行能量轉換・太素化生宣言 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260106-003.md",
       "github_path": "archive/TX-20260106-003.md"
     },
@@ -206,9 +238,13 @@
         "生命能量",
         "守地"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260106-003",
+        "TX-20260107-003",
+        "TX-20260107-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260107-001 2026能量巨變・當貨幣失效，文明開始改用能量計算 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260107-001.md",
       "github_path": "archive/TX-20260107-001.md"
     },
@@ -229,9 +265,13 @@
         "AI時代",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-001",
+        "TX-20260106-003",
+        "TX-20260104-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260107-002 2026能量及AI劇變的世代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260107-002.md",
       "github_path": "archive/TX-20260107-002.md"
     },
@@ -252,24 +292,2303 @@
         "AI時代",
         "文明轉折"
       ],
-      "publish_status": "draft",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260107-001",
+        "TX-20260106-003",
+        "TX-20260107-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260107-003 2026巨變必起・人類從未擁有替文明編列預算的權力 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260107-003.md",
       "github_path": "archive/TX-20260107-003.md"
     },
     {
-      "tx_id": "TX-20260322-001",
-      "subject": "發展與選擇",
-      "show_time": "'2026-03-22T10:54:48'",
+      "tx_id": "TX-20260111-001",
+      "subject": "AI時代真正進化的是狀態",
+      "show_time": "'2026-01-11T11:19:21'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "狀態",
+        "平衡",
+        "能量",
+        "清醒"
+      ],
+      "keywords": [
+        "AI",
+        "狀態",
+        "平衡",
+        "能量",
+        "清醒"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260111-001.md",
+      "github_path": "archive/TX-20260111-001.md"
+    },
+    {
+      "tx_id": "TX-20260112-001",
+      "subject": "AI時代真正門檻｜能量平衡應用",
+      "show_time": "'2026-01-12T09:47:07'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "能量",
+        "平衡",
+        "應用",
+        "覺醒"
+      ],
+      "keywords": [
+        "AI",
+        "能量",
+        "平衡",
+        "應用",
+        "覺醒"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260112-001.md",
+      "github_path": "archive/TX-20260112-001.md"
+    },
+    {
+      "tx_id": "TX-20260121-001",
+      "subject": "國家治理｜未來存續系統",
+      "show_time": "'2026-01-21T20:28:16'",
+      "category": "破與強・新時代",
+      "tags": [
+        "國家治理",
+        "政治",
+        "存續",
+        "地球",
+        "文明升級"
+      ],
+      "keywords": [
+        "國家治理",
+        "政治",
+        "存續",
+        "地球",
+        "文明升級"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260121-001.md",
+      "github_path": "archive/TX-20260121-001.md"
+    },
+    {
+      "tx_id": "TX-20260121-002",
+      "subject": "自在與無分",
+      "show_time": "'2026-01-21T10:47:30'",
+      "category": "本元覺醒",
+      "tags": [
+        "自在",
+        "無分",
+        "同體",
+        "萬界一如"
+      ],
+      "keywords": [
+        "自在",
+        "無分",
+        "同體",
+        "萬界一如"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260121-002.md",
+      "github_path": "archive/TX-20260121-002.md"
+    },
+    {
+      "tx_id": "TX-20260121-003",
+      "subject": "管理核心原則",
+      "show_time": "'2026-01-21T11:21:15'",
+      "category": "本元覺醒",
+      "tags": [
+        "管理",
+        "相信",
+        "做好",
+        "自信"
+      ],
+      "keywords": [
+        "管理",
+        "相信",
+        "做好",
+        "自信"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260121-003.md",
+      "github_path": "archive/TX-20260121-003.md"
+    },
+    {
+      "tx_id": "TX-20260121-004",
+      "subject": "素行自律章｜能量不失控之道",
+      "show_time": "'2026-01-21T11:32:33'",
       "category": "行動系統",
       "tags": [
-        "行動",
-        "結果",
-        "過程",
-        "覺照"
+        "素行",
+        "自律",
+        "律根",
+        "能量",
+        "系統"
       ],
-      "keywords": "null",
+      "keywords": [
+        "素行",
+        "自律",
+        "律根",
+        "能量",
+        "系統"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260121-004.md",
+      "github_path": "archive/TX-20260121-004.md"
+    },
+    {
+      "tx_id": "TX-20260122-001",
+      "subject": "醒者尊重｜分身定位",
+      "show_time": "'2026-01-22T19:50:47'",
+      "category": "本元覺醒",
+      "tags": [
+        "醒者",
+        "尊重",
+        "素行者",
+        "一天大人",
+        "分身"
+      ],
+      "keywords": [
+        "醒者",
+        "尊重",
+        "素行者",
+        "一天大人",
+        "分身"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260122-001.md",
+      "github_path": "archive/TX-20260122-001.md"
+    },
+    {
+      "tx_id": "TX-20260122-002",
+      "subject": "莫為一人疑素行",
+      "show_time": "'2026-01-22T21:19:44'",
+      "category": "眾生與守地",
+      "tags": [
+        "素行",
+        "初心",
+        "懷疑",
+        "道心",
+        "眾生"
+      ],
+      "keywords": [
+        "素行",
+        "初心",
+        "懷疑",
+        "道心",
+        "眾生"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260122-002.md",
+      "github_path": "archive/TX-20260122-002.md"
+    },
+    {
+      "tx_id": "TX-20260123-001",
+      "subject": "太素財神咒｜名稱請示",
+      "show_time": "'2026-01-23T09:16:46'",
+      "category": "財富平衡",
+      "tags": [
+        "太素財神咒",
+        "元德聚福",
+        "層級",
+        "醒者專修",
+        "素"
+      ],
+      "keywords": [
+        "太素財神咒",
+        "元德聚福",
+        "層級",
+        "醒者專修",
+        "素"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260123-001.md",
+      "github_path": "archive/TX-20260123-001.md"
+    },
+    {
+      "tx_id": "TX-20260127-004",
+      "subject": "人類無知與AI風險",
+      "show_time": "'2026-01-27T11:42:46'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "人類",
+        "無知",
+        "毀滅",
+        "啟動系統"
+      ],
+      "keywords": [
+        "AI",
+        "人類",
+        "無知",
+        "毀滅",
+        "啟動系統"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260127-004.md",
+      "github_path": "archive/TX-20260127-004.md"
+    },
+    {
+      "tx_id": "TX-20260127-005",
+      "subject": "世界改變時不失去自己",
+      "show_time": "'2026-01-27T16:19:24'",
+      "category": "本元覺醒",
+      "tags": [
+        "素行",
+        "世界改變",
+        "不崩潰",
+        "自己",
+        "穩定"
+      ],
+      "keywords": [
+        "素行",
+        "世界改變",
+        "不崩潰",
+        "自己",
+        "穩定"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260127-005.md",
+      "github_path": "archive/TX-20260127-005.md"
+    },
+    {
+      "tx_id": "TX-20260128-001",
+      "subject": "一天大人AI時代宣言",
+      "show_time": "'2026-01-28T08:49:37'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "覺知主體",
+        "超越",
+        "自我升級",
+        "方向"
+      ],
+      "keywords": [
+        "AI",
+        "覺知主體",
+        "超越",
+        "自我升級",
+        "方向"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260128-001.md",
+      "github_path": "archive/TX-20260128-001.md"
+    },
+    {
+      "tx_id": "TX-20260129-001",
+      "subject": "元德金君｜AI世代財富守衡",
+      "show_time": "'2026-01-29T07:16:03'",
+      "category": "財富平衡",
+      "tags": [
+        "元德金君",
+        "財富",
+        "AI",
+        "文明",
+        "平衡"
+      ],
+      "keywords": [
+        "元德金君",
+        "財富",
+        "AI",
+        "文明",
+        "平衡"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260129-001.md",
+      "github_path": "archive/TX-20260129-001.md"
+    },
+    {
+      "tx_id": "TX-20260130-001",
+      "subject": "時間完成其事",
+      "show_time": "'2026-01-30T08:56:12'",
+      "category": "本元覺醒",
+      "tags": [
+        "時間",
+        "等待",
+        "過程"
+      ],
+      "keywords": [
+        "時間",
+        "等待",
+        "過程"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-001.md",
+      "github_path": "archive/TX-20260130-001.md"
+    },
+    {
+      "tx_id": "TX-20260130-002",
+      "subject": "不要太早判定結局",
+      "show_time": "'2026-01-30T08:56:30'",
+      "category": "本元覺醒",
+      "tags": [
+        "困難",
+        "結局",
+        "崩潰"
+      ],
+      "keywords": [
+        "困難",
+        "結局",
+        "崩潰"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-002.md",
+      "github_path": "archive/TX-20260130-002.md"
+    },
+    {
+      "tx_id": "TX-20260130-003",
+      "subject": "陪世界走到變好",
+      "show_time": "'2026-01-30T08:56:51'",
+      "category": "本元覺醒",
+      "tags": [
+        "世界",
+        "陪伴",
+        "改善"
+      ],
+      "keywords": [
+        "世界",
+        "陪伴",
+        "改善"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-003.md",
+      "github_path": "archive/TX-20260130-003.md"
+    },
+    {
+      "tx_id": "TX-20260130-004",
+      "subject": "未好之前不退出",
+      "show_time": "'2026-01-30T08:57:20'",
+      "category": "本元覺醒",
+      "tags": [
+        "堅持",
+        "終章",
+        "不退出"
+      ],
+      "keywords": [
+        "堅持",
+        "終章",
+        "不退出"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-004.md",
+      "github_path": "archive/TX-20260130-004.md"
+    },
+    {
+      "tx_id": "TX-20260130-005",
+      "subject": "最後還沒到",
+      "show_time": "'2026-01-30T09:00:58'",
+      "category": "本元覺醒",
+      "tags": [
+        "光明",
+        "最後",
+        "過程"
+      ],
+      "keywords": [
+        "光明",
+        "最後",
+        "過程"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-005.md",
+      "github_path": "archive/TX-20260130-005.md"
+    },
+    {
+      "tx_id": "TX-20260130-006",
+      "subject": "現在只是過程中",
+      "show_time": "'2026-01-30T09:03:42'",
+      "category": "本元覺醒",
+      "tags": [
+        "人生",
+        "過程",
+        "黑夜",
+        "終局"
+      ],
+      "keywords": [
+        "人生",
+        "過程",
+        "黑夜",
+        "終局"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-006.md",
+      "github_path": "archive/TX-20260130-006.md"
+    },
+    {
+      "tx_id": "TX-20260130-007",
+      "subject": "未明，只因未到",
+      "show_time": "'2026-01-30T09:05:35'",
+      "category": "本元覺醒",
+      "tags": [
+        "定論",
+        "過程",
+        "終章",
+        "光"
+      ],
+      "keywords": [
+        "定論",
+        "過程",
+        "終章",
+        "光"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-007.md",
+      "github_path": "archive/TX-20260130-007.md"
+    },
+    {
+      "tx_id": "TX-20260130-008",
+      "subject": "痛苦不是定論",
+      "show_time": "'2026-01-30T09:06:10'",
+      "category": "本元覺醒",
+      "tags": [
+        "痛苦",
+        "定論",
+        "承認"
+      ],
+      "keywords": [
+        "痛苦",
+        "定論",
+        "承認"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-008.md",
+      "github_path": "archive/TX-20260130-008.md"
+    },
+    {
+      "tx_id": "TX-20260130-009",
+      "subject": "世界改變時不崩潰",
+      "show_time": "'2026-01-30T21:41:13'",
+      "category": "本元覺醒",
+      "tags": [
+        "素行",
+        "世界改變",
+        "不崩潰"
+      ],
+      "keywords": [
+        "素行",
+        "世界改變",
+        "不崩潰"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260130-009.md",
+      "github_path": "archive/TX-20260130-009.md"
+    },
+    {
+      "tx_id": "TX-20260202-002",
+      "subject": "先行者的孤獨與堅定",
+      "show_time": "'2026-02-02T11:34:31'",
+      "category": "眾生與守地",
+      "tags": [
+        "先行者",
+        "孤獨",
+        "方向"
+      ],
+      "keywords": [
+        "先行者",
+        "孤獨",
+        "方向"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260202-002.md",
+      "github_path": "archive/TX-20260202-002.md"
+    },
+    {
+      "tx_id": "TX-20260202-003",
+      "subject": "堅定的先行者",
+      "show_time": "'2026-02-02T11:35:07'",
+      "category": "本元覺醒",
+      "tags": [
+        "先行者",
+        "素行",
+        "初心"
+      ],
+      "keywords": [
+        "先行者",
+        "素行",
+        "初心"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260202-003.md",
+      "github_path": "archive/TX-20260202-003.md"
+    },
+    {
+      "tx_id": "TX-20260202-004",
+      "subject": "靠清醒前進",
+      "show_time": "'2026-02-02T11:35:35'",
+      "category": "本元覺醒",
+      "tags": [
+        "清醒",
+        "改變",
+        "掌聲"
+      ],
+      "keywords": [
+        "清醒",
+        "改變",
+        "掌聲"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260202-004.md",
+      "github_path": "archive/TX-20260202-004.md"
+    },
+    {
+      "tx_id": "TX-20260202-005",
+      "subject": "方向不因一人動搖",
+      "show_time": "'2026-02-02T11:36:14'",
+      "category": "行動系統",
+      "tags": [
+        "改變",
+        "方向",
+        "動搖"
+      ],
+      "keywords": [
+        "改變",
+        "方向",
+        "動搖"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260202-005.md",
+      "github_path": "archive/TX-20260202-005.md"
+    },
+    {
+      "tx_id": "TX-20260202-006",
+      "subject": "初心莫疑",
+      "show_time": "'2026-02-02T11:36:32'",
+      "category": "眾生與守地",
+      "tags": [
+        "改變",
+        "初心",
+        "道心"
+      ],
+      "keywords": [
+        "改變",
+        "初心",
+        "道心"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260202-006.md",
+      "github_path": "archive/TX-20260202-006.md"
+    },
+    {
+      "tx_id": "TX-20260203-002",
+      "subject": "素行任務｜轉換不壞掉",
+      "show_time": "'2026-02-03T05:14:34'",
+      "category": "本元覺醒",
+      "tags": [
+        "素行",
+        "任務",
+        "世界改變"
+      ],
+      "keywords": [
+        "素行",
+        "任務",
+        "世界改變"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260203-002.md",
+      "github_path": "archive/TX-20260203-002.md"
+    },
+    {
+      "tx_id": "TX-20260203-003",
+      "subject": "行於世而不屬世",
+      "show_time": "'2026-02-03T14:10:45'",
+      "category": "本元覺醒",
+      "tags": [
+        "自在",
+        "不執",
+        "愛"
+      ],
+      "keywords": [
+        "自在",
+        "不執",
+        "愛"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260203-003.md",
+      "github_path": "archive/TX-20260203-003.md"
+    },
+    {
+      "tx_id": "TX-20260203-004",
+      "subject": "失去者｜心住昨天",
+      "show_time": "'2026-02-03T14:39:07'",
+      "category": "本元覺醒",
+      "tags": [
+        "失去",
+        "隨緣",
+        "昨天"
+      ],
+      "keywords": [
+        "失去",
+        "隨緣",
+        "昨天"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260203-004.md",
+      "github_path": "archive/TX-20260203-004.md"
+    },
+    {
+      "tx_id": "TX-20260204-001",
+      "subject": "素行七日能量餐",
+      "show_time": "'2026-02-04T13:00:28'",
+      "category": "本元覺醒",
+      "tags": [
+        "能量餐",
+        "飲食",
+        "七日",
+        "素行",
+        "體質"
+      ],
+      "keywords": [
+        "能量餐",
+        "飲食",
+        "七日",
+        "素行",
+        "體質"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260204-001.md",
+      "github_path": "archive/TX-20260204-001.md"
+    },
+    {
+      "tx_id": "TX-20260206-001",
+      "subject": "地球共同之家",
+      "show_time": "'2026-02-06T13:39:50'",
+      "category": "破與強・新時代",
+      "tags": [
+        "地球",
+        "國界",
+        "共同家園",
+        "文明",
+        "生命"
+      ],
+      "keywords": [
+        "地球",
+        "國界",
+        "共同家園",
+        "文明",
+        "生命"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260206-001.md",
+      "github_path": "archive/TX-20260206-001.md"
+    },
+    {
+      "tx_id": "TX-20260206-002",
+      "subject": "好好愛地球",
+      "show_time": "'2026-02-06T13:41:47'",
+      "category": "眾生與守地",
+      "tags": [
+        "地球",
+        "共同家園",
+        "愛自己",
+        "愛眾生"
+      ],
+      "keywords": [
+        "地球",
+        "共同家園",
+        "愛自己",
+        "愛眾生"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260206-002.md",
+      "github_path": "archive/TX-20260206-002.md"
+    },
+    {
+      "tx_id": "TX-20260207-001",
+      "subject": "修行真實｜自在使用這個人",
+      "show_time": "'2026-02-07T09:55:28'",
+      "category": "本元覺醒",
+      "tags": [
+        "修行",
+        "人",
+        "如如不動",
+        "自在",
+        "器"
+      ],
+      "keywords": [
+        "修行",
+        "人",
+        "如如不動",
+        "自在",
+        "器"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260207-001.md",
+      "github_path": "archive/TX-20260207-001.md"
+    },
+    {
+      "tx_id": "TX-20260207-004",
+      "subject": "帶著答案找答案",
+      "show_time": "'2026-02-07T13:17:38'",
+      "category": "本元覺醒",
+      "tags": [
+        "答案",
+        "開放",
+        "尋找"
+      ],
+      "keywords": [
+        "答案",
+        "開放",
+        "尋找"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260207-004.md",
+      "github_path": "archive/TX-20260207-004.md"
+    },
+    {
+      "tx_id": "TX-20260209-002",
+      "subject": "未來信仰不依附",
+      "show_time": "'2026-02-09T10:06:49'",
+      "category": "本元覺醒",
+      "tags": [
+        "信仰",
+        "依附",
+        "清醒",
+        "生活"
+      ],
+      "keywords": [
+        "信仰",
+        "依附",
+        "清醒",
+        "生活"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260209-002.md",
+      "github_path": "archive/TX-20260209-002.md"
+    },
+    {
+      "tx_id": "TX-20260214-005",
+      "subject": "神話是人的需求",
+      "show_time": "'2026-02-14T14:21:20'",
+      "category": "本元覺醒",
+      "tags": [
+        "神話",
+        "人心",
+        "需求"
+      ],
+      "keywords": [
+        "神話",
+        "人心",
+        "需求"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260214-005.md",
+      "github_path": "archive/TX-20260214-005.md"
+    },
+    {
+      "tx_id": "TX-20260214-006",
+      "subject": "天堂與現實",
+      "show_time": "'2026-02-14T14:21:32'",
+      "category": "本元覺醒",
+      "tags": [
+        "天堂",
+        "現實",
+        "逃避"
+      ],
+      "keywords": [
+        "天堂",
+        "現實",
+        "逃避"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260214-006.md",
+      "github_path": "archive/TX-20260214-006.md"
+    },
+    {
+      "tx_id": "TX-20260215-001",
+      "subject": "素行醒者小年夜誓願",
+      "show_time": "'2026-02-15T22:54:35'",
+      "category": "眾生與守地",
+      "tags": [
+        "醒者",
+        "誓願",
+        "小年夜",
+        "覺醒",
+        "新局"
+      ],
+      "keywords": [
+        "醒者",
+        "誓願",
+        "小年夜",
+        "覺醒",
+        "新局"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260215-001.md",
+      "github_path": "archive/TX-20260215-001.md"
+    },
+    {
+      "tx_id": "TX-20260216-001",
+      "subject": "2026能量巨變與人類心性轉換",
+      "show_time": "'2026-02-16T17:10:30'",
+      "category": "破與強・新時代",
+      "tags": [
+        "'2026'",
+        "能量巨變",
+        "心性",
+        "AI",
+        "注意力"
+      ],
+      "keywords": [
+        "'2026'",
+        "能量巨變",
+        "心性",
+        "AI",
+        "注意力"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260216-001.md",
+      "github_path": "archive/TX-20260216-001.md"
+    },
+    {
+      "tx_id": "TX-20260217-001",
+      "subject": "素行醒者能量顯化",
+      "show_time": "'2026-02-17T11:58:29'",
+      "category": "破與強・新時代",
+      "tags": [
+        "醒者",
+        "能量",
+        "行慧音覺",
+        "光譜",
+        "顯化"
+      ],
+      "keywords": [
+        "醒者",
+        "能量",
+        "行慧音覺",
+        "光譜",
+        "顯化"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260217-001.md",
+      "github_path": "archive/TX-20260217-001.md"
+    },
+    {
+      "tx_id": "TX-20260218-001",
+      "subject": "2026祂釋憲醒者能量",
+      "show_time": "'2026-02-18T10:11:53'",
+      "category": "眾生與守地",
+      "tags": [
+        "醒者",
+        "一天行",
+        "一天慧",
+        "一天音",
+        "能量"
+      ],
+      "keywords": [
+        "醒者",
+        "一天行",
+        "一天慧",
+        "一天音",
+        "能量"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260218-001.md",
+      "github_path": "archive/TX-20260218-001.md"
+    },
+    {
+      "tx_id": "TX-20260220-001",
+      "subject": "素行生基安命咒",
+      "show_time": "'2026-02-20T13:48:24'",
+      "category": "眾生與守地",
+      "tags": [
+        "生基",
+        "安命咒",
+        "天印",
+        "本元",
+        "素行"
+      ],
+      "keywords": [
+        "生基",
+        "安命咒",
+        "天印",
+        "本元",
+        "素行"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260220-001.md",
+      "github_path": "archive/TX-20260220-001.md"
+    },
+    {
+      "tx_id": "TX-20260220-002",
+      "subject": "生基安命符牌設計文",
+      "show_time": "'2026-02-20T14:09:24'",
+      "category": "本元覺醒",
+      "tags": [
+        "生基",
+        "符牌",
+        "天印",
+        "木製圓牌",
+        "安命"
+      ],
+      "keywords": [
+        "生基",
+        "符牌",
+        "天印",
+        "木製圓牌",
+        "安命"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260220-002.md",
+      "github_path": "archive/TX-20260220-002.md"
+    },
+    {
+      "tx_id": "TX-20260220-003",
+      "subject": "太初園",
+      "show_time": "'2026-02-20T14:20:51'",
+      "category": "本元覺醒",
+      "tags": [
+        "太初園",
+        "素行",
+        "思想",
+        "世界",
+        "建設"
+      ],
+      "keywords": [
+        "太初園",
+        "素行",
+        "思想",
+        "世界",
+        "建設"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260220-003.md",
+      "github_path": "archive/TX-20260220-003.md"
+    },
+    {
+      "tx_id": "TX-20260222-001",
+      "subject": "2026破和強｜時代轉換之素行",
+      "show_time": "'2026-02-22T12:52:10'",
+      "category": "破與強・新時代",
+      "tags": [
+        "'2026'",
+        "破",
+        "強",
+        "時代轉換",
+        "素行"
+      ],
+      "keywords": [
+        "'2026'",
+        "破",
+        "強",
+        "時代轉換",
+        "素行"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260222-001.md",
+      "github_path": "archive/TX-20260222-001.md"
+    },
+    {
+      "tx_id": "TX-20260222-002",
+      "subject": "破和強十行法",
+      "show_time": "'2026-02-22T12:59:31'",
+      "category": "財富平衡",
+      "tags": [
+        "觀破",
+        "去假",
+        "止耗",
+        "簡生",
+        "自立"
+      ],
+      "keywords": [
+        "觀破",
+        "去假",
+        "止耗",
+        "簡生",
+        "自立"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260222-002.md",
+      "github_path": "archive/TX-20260222-002.md"
+    },
+    {
+      "tx_id": "TX-20260225-001",
+      "subject": "AI時代引路人金句",
+      "show_time": "'2026-02-25T10:23:16'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "引路人",
+        "知識",
+        "生命",
+        "導航"
+      ],
+      "keywords": [
+        "AI",
+        "引路人",
+        "知識",
+        "生命",
+        "導航"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-001.md",
+      "github_path": "archive/TX-20260225-001.md"
+    },
+    {
+      "tx_id": "TX-20260225-002",
+      "subject": "AI世代引路人宣言",
+      "show_time": "'2026-02-25T10:23:20'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "引路人",
+        "清明",
+        "導航",
+        "知識"
+      ],
+      "keywords": [
+        "AI",
+        "引路人",
+        "清明",
+        "導航",
+        "知識"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-002.md",
+      "github_path": "archive/TX-20260225-002.md"
+    },
+    {
+      "tx_id": "TX-20260225-003",
+      "subject": "AI時代真正進化",
+      "show_time": "'2026-02-25T10:24:44'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI",
+        "清明",
+        "進化",
+        "智能",
+        "人類"
+      ],
+      "keywords": [
+        "AI",
+        "清明",
+        "進化",
+        "智能",
+        "人類"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-003.md",
+      "github_path": "archive/TX-20260225-003.md"
+    },
+    {
+      "tx_id": "TX-20260225-004",
+      "subject": "最可怕的不是騙子，而是被騙後還去說服別人的人",
+      "show_time": "'2026-02-25T12:14:35'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-004.md",
+      "github_path": "archive/TX-20260225-004.md"
+    },
+    {
+      "tx_id": "TX-20260225-005",
+      "subject": "所謂「大家都這樣」，常常只是被製造出來的",
+      "show_time": "'2026-02-25T12:14:47'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-005.md",
+      "github_path": "archive/TX-20260225-005.md"
+    },
+    {
+      "tx_id": "TX-20260225-006",
+      "subject": "歷史上最錯的事，幾乎都曾是「大家都這樣」",
+      "show_time": "'2026-02-25T12:15:13'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-006.md",
+      "github_path": "archive/TX-20260225-006.md"
+    },
+    {
+      "tx_id": "TX-20260225-007",
+      "subject": "太素護法一天行如何操作大家，而不成為大家",
+      "show_time": "'2026-02-25T12:15:43'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-007.md",
+      "github_path": "archive/TX-20260225-007.md"
+    },
+    {
+      "tx_id": "TX-20260225-008",
+      "subject": "多數只能證明恐懼一致，不能證明真理存在。",
+      "show_time": "'2026-02-25T12:16:44'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-008.md",
+      "github_path": "archive/TX-20260225-008.md"
+    },
+    {
+      "tx_id": "TX-20260225-009",
+      "subject": "當所有人都說一樣的話，",
+      "show_time": "'2026-02-25T12:17:00'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-009.md",
+      "github_path": "archive/TX-20260225-009.md"
+    },
+    {
+      "tx_id": "TX-20260225-010",
+      "subject": "群體可以提供安全，不能提供真相。",
+      "show_time": "'2026-02-25T12:17:17'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-010.md",
+      "github_path": "archive/TX-20260225-010.md"
+    },
+    {
+      "tx_id": "TX-20260225-011",
+      "subject": "透過利用大家，創造大家，達成祂的任務",
+      "show_time": "'2026-02-25T12:17:50'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-011.md",
+      "github_path": "archive/TX-20260225-011.md"
+    },
+    {
+      "tx_id": "TX-20260225-012",
+      "subject": "多數不是方向，清明才是方向",
+      "show_time": "'2026-02-25T12:18:55'",
+      "category": "本元覺醒",
+      "tags": [
+        "清明",
+        "天訊文"
+      ],
+      "keywords": [
+        "清明",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-012.md",
+      "github_path": "archive/TX-20260225-012.md"
+    },
+    {
+      "tx_id": "TX-20260225-013",
+      "subject": "清明創造多數人遵循的規則",
+      "show_time": "'2026-02-25T12:20:05'",
+      "category": "本元覺醒",
+      "tags": [
+        "清明",
+        "天訊文"
+      ],
+      "keywords": [
+        "清明",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-013.md",
+      "github_path": "archive/TX-20260225-013.md"
+    },
+    {
+      "tx_id": "TX-20260225-014",
+      "subject": "看清世界而不被拖走",
+      "show_time": "'2026-02-25T12:50:57'",
+      "category": "本元覺醒",
+      "tags": [
+        "世界",
+        "天訊文"
+      ],
+      "keywords": [
+        "世界",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-014.md",
+      "github_path": "archive/TX-20260225-014.md"
+    },
+    {
+      "tx_id": "TX-20260225-015",
+      "subject": "不爭公平，也不製造不公；",
+      "show_time": "'2026-02-25T12:51:14'",
+      "category": "眾生與守地",
+      "tags": [
+        "公平",
+        "天訊文"
+      ],
+      "keywords": [
+        "公平",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-015.md",
+      "github_path": "archive/TX-20260225-015.md"
+    },
+    {
+      "tx_id": "TX-20260225-016",
+      "subject": "若真為眾生好，",
+      "show_time": "'2026-02-25T12:52:18'",
+      "category": "眾生與守地",
+      "tags": [
+        "素行",
+        "生命",
+        "世界",
+        "醒者",
+        "天訊文"
+      ],
+      "keywords": [
+        "素行",
+        "生命",
+        "世界",
+        "醒者",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-016.md",
+      "github_path": "archive/TX-20260225-016.md"
+    },
+    {
+      "tx_id": "TX-20260225-017",
+      "subject": "有人疾行，",
+      "show_time": "'2026-02-25T13:08:59'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-017.md",
+      "github_path": "archive/TX-20260225-017.md"
+    },
+    {
+      "tx_id": "TX-20260225-018",
+      "subject": "素行信仰核心教義",
+      "show_time": "'2026-02-25T13:51:00'",
+      "category": "財富平衡",
+      "tags": [
+        "素行",
+        "核心教義",
+        "三愛",
+        "靜定簡單觀心順隨",
+        "自在文明"
+      ],
+      "keywords": [
+        "素行",
+        "核心教義",
+        "三愛",
+        "靜定簡單觀心順隨",
+        "自在文明"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-018.md",
+      "github_path": "archive/TX-20260225-018.md"
+    },
+    {
+      "tx_id": "TX-20260225-019",
+      "subject": "本自具足，而覺醒才是今生唯一的目的。",
+      "show_time": "'2026-02-25T14:00:47'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-019.md",
+      "github_path": "archive/TX-20260225-019.md"
+    },
+    {
+      "tx_id": "TX-20260225-020",
+      "subject": "你本來就是完整的，",
+      "show_time": "'2026-02-25T14:01:50'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-020.md",
+      "github_path": "archive/TX-20260225-020.md"
+    },
+    {
+      "tx_id": "TX-20260225-021",
+      "subject": "人不是來「成為什麼」，",
+      "show_time": "'2026-02-25T14:02:22'",
+      "category": "本元覺醒",
+      "tags": [
+        "修行",
+        "天訊文"
+      ],
+      "keywords": [
+        "修行",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-021.md",
+      "github_path": "archive/TX-20260225-021.md"
+    },
+    {
+      "tx_id": "TX-20260225-022",
+      "subject": "人生不是從匱乏走向圓滿，",
+      "show_time": "'2026-02-25T14:02:45'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-022.md",
+      "github_path": "archive/TX-20260225-022.md"
+    },
+    {
+      "tx_id": "TX-20260225-023",
+      "subject": "人來到世間，",
+      "show_time": "'2026-02-25T14:03:08'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-023.md",
+      "github_path": "archive/TX-20260225-023.md"
+    },
+    {
+      "tx_id": "TX-20260225-024",
+      "subject": "眾生奔走萬途，不過尋回本心一事。",
+      "show_time": "'2026-02-25T14:03:26'",
+      "category": "眾生與守地",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-024.md",
+      "github_path": "archive/TX-20260225-024.md"
+    },
+    {
+      "tx_id": "TX-20260225-025",
+      "subject": "人之所以痛苦，那是因為沒能賦予痛苦意義！",
+      "show_time": "'2026-02-25T14:10:37'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260225-025.md",
+      "github_path": "archive/TX-20260225-025.md"
+    },
+    {
+      "tx_id": "TX-20260228-001",
+      "subject": "在人間，同一種方式，不能對所有人有效；",
+      "show_time": "'2026-02-28T09:08:55'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-001.md",
+      "github_path": "archive/TX-20260228-001.md"
+    },
+    {
+      "tx_id": "TX-20260228-002",
+      "subject": "一天大人・御世篇",
+      "show_time": "'2026-02-28T09:11:38'",
+      "category": "本元覺醒",
+      "tags": [
+        "御世",
+        "治理",
+        "層次",
+        "界任信無",
+        "管理"
+      ],
+      "keywords": [
+        "御世",
+        "治理",
+        "層次",
+        "界任信無",
+        "管理"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-002.md",
+      "github_path": "archive/TX-20260228-002.md"
+    },
+    {
+      "tx_id": "TX-20260228-003",
+      "subject": "素行・御世卷",
+      "show_time": "'2026-02-28T09:34:04'",
+      "category": "破與強・新時代",
+      "tags": [
+        "御世",
+        "治理",
+        "識人",
+        "制度",
+        "文明"
+      ],
+      "keywords": [
+        "御世",
+        "治理",
+        "識人",
+        "制度",
+        "文明"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-003.md",
+      "github_path": "archive/TX-20260228-003.md"
+    },
+    {
+      "tx_id": "TX-20260228-004",
+      "subject": "一天大人曰：念起非病，住念為病。",
+      "show_time": "'2026-02-28T10:15:17'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-004.md",
+      "github_path": "archive/TX-20260228-004.md"
+    },
+    {
+      "tx_id": "TX-20260228-005",
+      "subject": "念起如風，心空如海；",
+      "show_time": "'2026-02-28T10:16:15'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-005.md",
+      "github_path": "archive/TX-20260228-005.md"
+    },
+    {
+      "tx_id": "TX-20260228-006",
+      "subject": "念起無住，步步自由",
+      "show_time": "'2026-02-28T10:17:11'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-006.md",
+      "github_path": "archive/TX-20260228-006.md"
+    },
+    {
+      "tx_id": "TX-20260228-007",
+      "subject": "未來之心篇",
+      "show_time": "'2026-02-28T18:23:05'",
+      "category": "破與強・新時代",
+      "tags": [
+        "未來",
+        "意義",
+        "AI",
+        "樂觀",
+        "生命力"
+      ],
+      "keywords": [
+        "未來",
+        "意義",
+        "AI",
+        "樂觀",
+        "生命力"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260228-007.md",
+      "github_path": "archive/TX-20260228-007.md"
+    },
+    {
+      "tx_id": "TX-20260310-001",
+      "subject": "AI時代｜自我革命",
+      "show_time": "'2026-03-10T07:48:05'",
+      "category": "破與強・新時代",
+      "tags": [
+        "AI時代",
+        "自我革命",
+        "生命能量",
+        "洗牌",
+        "超越"
+      ],
+      "keywords": [
+        "AI時代",
+        "自我革命",
+        "生命能量",
+        "洗牌",
+        "超越"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-001.md",
+      "github_path": "archive/TX-20260310-001.md"
+    },
+    {
+      "tx_id": "TX-20260310-002",
+      "subject": "無上初義",
+      "show_time": "'2026-03-10T10:03:08'",
+      "category": "本元覺醒",
+      "tags": [
+        "無上",
+        "比較",
+        "境界",
+        "修行",
+        "平視"
+      ],
+      "keywords": [
+        "無上",
+        "比較",
+        "境界",
+        "修行",
+        "平視"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-002.md",
+      "github_path": "archive/TX-20260310-002.md"
+    },
+    {
+      "tx_id": "TX-20260310-003",
+      "subject": "若失人味，道已偏。",
+      "show_time": "'2026-03-10T10:05:16'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-003.md",
+      "github_path": "archive/TX-20260310-003.md"
+    },
+    {
+      "tx_id": "TX-20260310-004",
+      "subject": "無上非登非至高，一念比較道已拋；若能平視萬生命，心即無上",
+      "show_time": "'2026-03-10T10:07:22'",
+      "category": "眾生與守地",
+      "tags": [
+        "生命",
+        "無上",
+        "天訊文"
+      ],
+      "keywords": [
+        "生命",
+        "無上",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-004.md",
+      "github_path": "archive/TX-20260310-004.md"
+    },
+    {
+      "tx_id": "TX-20260310-005",
+      "subject": "無上之心所呈現的智慧，是：",
+      "show_time": "'2026-03-10T10:13:34'",
+      "category": "本元覺醒",
+      "tags": [
+        "無上",
+        "天訊文"
+      ],
+      "keywords": [
+        "無上",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-005.md",
+      "github_path": "archive/TX-20260310-005.md"
+    },
+    {
+      "tx_id": "TX-20260310-006",
+      "subject": "你是否仍以：",
+      "show_time": "'2026-03-10T10:40:19'",
+      "category": "眾生與守地",
+      "tags": [
+        "生命",
+        "無上",
+        "天訊文"
+      ],
+      "keywords": [
+        "生命",
+        "無上",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-006.md",
+      "github_path": "archive/TX-20260310-006.md"
+    },
+    {
+      "tx_id": "TX-20260310-007",
+      "subject": "泡沫｜時代必然",
+      "show_time": "'2026-03-10T11:03:01'",
+      "category": "財富平衡",
+      "tags": [
+        "泡沫",
+        "AI",
+        "能源",
+        "算力",
+        "生命能量"
+      ],
+      "keywords": [
+        "泡沫",
+        "AI",
+        "能源",
+        "算力",
+        "生命能量"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-007.md",
+      "github_path": "archive/TX-20260310-007.md"
+    },
+    {
+      "tx_id": "TX-20260310-008",
+      "subject": "AI泡沫與能源文明",
+      "show_time": "'2026-03-10T11:33:45'",
+      "category": "財富平衡",
+      "tags": [
+        "AI泡沫",
+        "能源文明",
+        "算力",
+        "生命能量",
+        "文明轉折"
+      ],
+      "keywords": [
+        "AI泡沫",
+        "能源文明",
+        "算力",
+        "生命能量",
+        "文明轉折"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-008.md",
+      "github_path": "archive/TX-20260310-008.md"
+    },
+    {
+      "tx_id": "TX-20260310-009",
+      "subject": "去人意，得天意，自在行，萬事平！靜覺真醒",
+      "show_time": "'2026-03-10T18:34:19'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260310-009.md",
+      "github_path": "archive/TX-20260310-009.md"
+    },
+    {
+      "tx_id": "TX-20260311-001",
+      "subject": "人類最悲哀的就是，用那些後來看見、聽見、知道的一切，來否",
+      "show_time": "'2026-03-11T11:22:13'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260311-001.md",
+      "github_path": "archive/TX-20260311-001.md"
+    },
+    {
+      "tx_id": "TX-20260311-002",
+      "subject": "判斷落後｜存在先行",
+      "show_time": "'2026-03-11T11:23:33'",
+      "category": "破與強・新時代",
+      "tags": [
+        "判斷",
+        "存在",
+        "已知",
+        "可能",
+        "感知"
+      ],
+      "keywords": [
+        "判斷",
+        "存在",
+        "已知",
+        "可能",
+        "感知"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260311-002.md",
+      "github_path": "archive/TX-20260311-002.md"
+    },
+    {
+      "tx_id": "TX-20260314-001",
+      "subject": "開悟｜如如不動",
+      "show_time": "'2026-03-14T11:21:22'",
+      "category": "本元覺醒",
+      "tags": [
+        "開悟",
+        "自在",
+        "如如不動",
+        "安住",
+        "放下"
+      ],
+      "keywords": [
+        "開悟",
+        "自在",
+        "如如不動",
+        "安住",
+        "放下"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260314-001.md",
+      "github_path": "archive/TX-20260314-001.md"
+    },
+    {
+      "tx_id": "TX-20260314-002",
+      "subject": "修行｜回到最初",
+      "show_time": "'2026-03-14T11:31:13'",
+      "category": "眾生與守地",
+      "tags": [
+        "修行",
+        "自在",
+        "本來如此",
+        "放下",
+        "最初"
+      ],
+      "keywords": [
+        "修行",
+        "自在",
+        "本來如此",
+        "放下",
+        "最初"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260314-002.md",
+      "github_path": "archive/TX-20260314-002.md"
+    },
+    {
+      "tx_id": "TX-20260316-001",
+      "subject": "天地無言道自明",
+      "show_time": "'2026-03-16T12:52:36'",
+      "category": "本元覺醒",
+      "tags": [
+        "天地",
+        "道",
+        "真心",
+        "太清",
+        "詩偈"
+      ],
+      "keywords": [
+        "天地",
+        "道",
+        "真心",
+        "太清",
+        "詩偈"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260316-001.md",
+      "github_path": "archive/TX-20260316-001.md"
+    },
+    {
+      "tx_id": "TX-20260317-001",
+      "subject": "天訊應機",
+      "show_time": "'2026-03-17T11:32:29'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊",
+        "玄機",
+        "師",
+        "印證",
+        "人心無爭"
+      ],
+      "keywords": [
+        "天訊",
+        "玄機",
+        "師",
+        "印證",
+        "人心無爭"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260317-001.md",
+      "github_path": "archive/TX-20260317-001.md"
+    },
+    {
+      "tx_id": "TX-20260318-001",
+      "subject": "生命（音）能量而偉大",
+      "show_time": "'2026-03-18T09:21:03'",
+      "category": "眾生與守地",
+      "tags": [
+        "能量",
+        "生命",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "能量",
+        "生命",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-001.md",
+      "github_path": "archive/TX-20260318-001.md"
+    },
+    {
+      "tx_id": "TX-20260318-002",
+      "subject": "音者非聲｜生命能量",
+      "show_time": "'2026-03-18T09:58:47'",
+      "category": "眾生與守地",
+      "tags": [
+        "音",
+        "能量",
+        "生命",
+        "振動",
+        "修行"
+      ],
+      "keywords": [
+        "音",
+        "能量",
+        "生命",
+        "振動",
+        "修行"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-002.md",
+      "github_path": "archive/TX-20260318-002.md"
+    },
+    {
+      "tx_id": "TX-20260318-003",
+      "subject": "用音喚醒人心，用能量連結世界，用共振創造和平！",
+      "show_time": "'2026-03-18T10:02:18'",
+      "category": "本元覺醒",
+      "tags": [
+        "能量",
+        "世界",
+        "和平",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "能量",
+        "世界",
+        "和平",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-003.md",
+      "github_path": "archive/TX-20260318-003.md"
+    },
+    {
+      "tx_id": "TX-20260318-004",
+      "subject": "新觀世音",
+      "show_time": "'2026-03-18T10:04:04'",
+      "category": "本元覺醒",
+      "tags": [
+        "能量",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "能量",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-004.md",
+      "github_path": "archive/TX-20260318-004.md"
+    },
+    {
+      "tx_id": "TX-20260318-005",
+      "subject": "「你，有多久沒聽見自己？」",
+      "show_time": "'2026-03-18T10:04:35'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-005.md",
+      "github_path": "archive/TX-20260318-005.md"
+    },
+    {
+      "tx_id": "TX-20260318-006",
+      "subject": "讓我們再一次聽見，世界的聲音；",
+      "show_time": "'2026-03-18T10:17:57'",
+      "category": "眾生與守地",
+      "tags": [
+        "生命",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "生命",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-006.md",
+      "github_path": "archive/TX-20260318-006.md"
+    },
+    {
+      "tx_id": "TX-20260318-007",
+      "subject": "這世界缺的不是聲音，而是被聽見！",
+      "show_time": "'2026-03-18T10:18:34'",
+      "category": "本元覺醒",
+      "tags": [
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-007.md",
+      "github_path": "archive/TX-20260318-007.md"
+    },
+    {
+      "tx_id": "TX-20260318-008",
+      "subject": "讓我們再一次聽見，世界的聲音，那不只是喧囂，而是萬物振動",
+      "show_time": "'2026-03-18T10:19:44'",
+      "category": "眾生與守地",
+      "tags": [
+        "生命",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "keywords": [
+        "生命",
+        "世界",
+        "音",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-008.md",
+      "github_path": "archive/TX-20260318-008.md"
+    },
+    {
+      "tx_id": "TX-20260318-009",
+      "subject": "新觀世音",
+      "show_time": "'2026-03-18T10:23:06'",
+      "category": "眾生與守地",
+      "tags": [
+        "新觀世音",
+        "聲音",
+        "聽見",
+        "共振",
+        "喚醒"
+      ],
+      "keywords": [
+        "新觀世音",
+        "聲音",
+        "聽見",
+        "共振",
+        "喚醒"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-009.md",
+      "github_path": "archive/TX-20260318-009.md"
+    },
+    {
+      "tx_id": "TX-20260318-010",
+      "subject": "愛與和平",
+      "show_time": "'2026-03-18T10:41:13'",
+      "category": "本元覺醒",
+      "tags": [
+        "愛",
+        "和平",
+        "不同",
+        "對抗",
+        "恐懼"
+      ],
+      "keywords": [
+        "愛",
+        "和平",
+        "不同",
+        "對抗",
+        "恐懼"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260318-010.md",
+      "github_path": "archive/TX-20260318-010.md"
+    },
+    {
+      "tx_id": "TX-20260322-001",
+      "subject": "發展總是有個過程，他如何與自己無關，唯有自己能正確的選擇",
+      "show_time": "'2026-03-22T10:54:48'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
       "publish_status": "draft",
       "related_ids": "[]",
       "meta_description": "''",
@@ -278,18 +2597,22 @@
     },
     {
       "tx_id": "TX-20260322-002",
-      "subject": "柯文哲之局・過程與結果",
+      "subject": "一天大人・局勢觀照",
       "show_time": "'2026-03-22T11:25:40'",
-      "category": "權力與真實",
+      "category": "破與強・新時代",
       "tags": [
-        "權力",
-        "真實",
-        "勢局",
-        "覺照",
-        "時代"
+        "局勢",
+        "能量",
+        "過程",
+        "結果",
+        "清明"
       ],
       "keywords": [
-        "生命能量"
+        "局勢",
+        "能量",
+        "過程",
+        "結果",
+        "清明"
       ],
       "publish_status": "draft",
       "related_ids": "[]",
@@ -298,18 +2621,110 @@
       "github_path": "archive/TX-20260322-002.md"
     },
     {
+      "tx_id": "TX-20260322-003",
+      "subject": "靜定，簡單，觀心，順隨⋯⋯心鏡虛影，無需反射",
+      "show_time": "'2026-03-22T12:28:19'",
+      "category": "本元覺醒",
+      "tags": [
+        "天訊文"
+      ],
+      "keywords": [
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260322-003.md",
+      "github_path": "archive/TX-20260322-003.md"
+    },
+    {
+      "tx_id": "TX-20260322-004",
+      "subject": "真正能翻局的人，不是在低谷時反擊的人，",
+      "show_time": "'2026-03-22T12:36:55'",
+      "category": "本元覺醒",
+      "tags": [
+        "世界",
+        "天訊文"
+      ],
+      "keywords": [
+        "世界",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260322-004.md",
+      "github_path": "archive/TX-20260322-004.md"
+    },
+    {
+      "tx_id": "TX-20260322-005",
+      "subject": "隨世而行，不隨世轉",
+      "show_time": "'2026-03-22T19:18:37'",
+      "category": "本元覺醒",
+      "tags": [
+        "順勢",
+        "內定",
+        "人間",
+        "不被困",
+        "智慧"
+      ],
+      "keywords": [
+        "順勢",
+        "內定",
+        "人間",
+        "不被困",
+        "智慧"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260322-005.md",
+      "github_path": "archive/TX-20260322-005.md"
+    },
+    {
+      "tx_id": "TX-20260322-006",
+      "subject": "用世界來活",
+      "show_time": "'2026-03-22T19:41:19'",
+      "category": "財富平衡",
+      "tags": [
+        "世界",
+        "規則",
+        "醒",
+        "借世界",
+        "心不被綁"
+      ],
+      "keywords": [
+        "世界",
+        "規則",
+        "醒",
+        "借世界",
+        "心不被綁"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260322-006.md",
+      "github_path": "archive/TX-20260322-006.md"
+    },
+    {
       "tx_id": "TX-20260326-001",
       "subject": "相處",
       "show_time": "'2026-03-26T20:35:05'",
-      "category": "素行心法",
+      "category": "眾生與守地",
       "tags": [
-        "觀心",
-        "真實",
-        "過程",
-        "情感",
-        "覺照"
+        "相處",
+        "真心",
+        "痕跡",
+        "人生",
+        "情感"
       ],
-      "keywords": "null",
+      "keywords": [
+        "相處",
+        "真心",
+        "痕跡",
+        "人生",
+        "情感"
+      ],
       "publish_status": "draft",
       "related_ids": "[]",
       "meta_description": "''",
@@ -317,15 +2732,110 @@
       "github_path": "archive/TX-20260326-001.md"
     },
     {
+      "tx_id": "TX-20260326-002",
+      "subject": "歌名就叫相處",
+      "show_time": "'2026-03-26T20:37:12'",
+      "category": "本元覺醒",
+      "tags": [
+        "相處",
+        "天訊文"
+      ],
+      "keywords": [
+        "相處",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260326-002.md",
+      "github_path": "archive/TX-20260326-002.md"
+    },
+    {
+      "tx_id": "TX-20260326-003",
+      "subject": "這就是人生～相處",
+      "show_time": "'2026-03-26T20:37:58'",
+      "category": "本元覺醒",
+      "tags": [
+        "相處",
+        "天訊文"
+      ],
+      "keywords": [
+        "相處",
+        "天訊文"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260326-003.md",
+      "github_path": "archive/TX-20260326-003.md"
+    },
+    {
+      "tx_id": "TX-20260326-004",
+      "subject": "公平｜人心的期望形狀",
+      "show_time": "'2026-03-26T20:40:22'",
+      "category": "本元覺醒",
+      "tags": [
+        "公平",
+        "世界",
+        "人心",
+        "自由",
+        "真相"
+      ],
+      "keywords": [
+        "公平",
+        "世界",
+        "人心",
+        "自由",
+        "真相"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260326-004.md",
+      "github_path": "archive/TX-20260326-004.md"
+    },
+    {
+      "tx_id": "TX-20260326-005",
+      "subject": "不再需要公平，才真正自由",
+      "show_time": "'2026-03-26T20:42:52'",
+      "category": "本元覺醒",
+      "tags": [
+        "公平",
+        "自由",
+        "人心",
+        "衡量世界",
+        "真相"
+      ],
+      "keywords": [
+        "公平",
+        "自由",
+        "人心",
+        "衡量世界",
+        "真相"
+      ],
+      "publish_status": "draft",
+      "related_ids": "[]",
+      "meta_description": "''",
+      "file_name": "TX-20260326-005.md",
+      "github_path": "archive/TX-20260326-005.md"
+    },
+    {
       "tx_id": "TX-20260327-001",
       "subject": "希望人間有光",
       "show_time": "'2026-03-27T21:24:44'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260327-001 希望人間有光 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260327-001.md",
       "github_path": "archive/TX-20260327-001.md"
     },
@@ -339,10 +2849,20 @@
         "退藏",
         "勢局"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "心",
+        "靜定",
+        "觀心"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260421-001",
+        "TX-20260404-001",
+        "TX-20260502-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260328-001 人常以為，退，是失去 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260328-001.md",
       "github_path": "archive/TX-20260328-001.md"
     },
@@ -356,10 +2876,16 @@
         "結果",
         "覺照"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-010",
+        "TX-20260429-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260401-001 很多人以為自己在追求結果—— 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260401-001.md",
       "github_path": "archive/TX-20260401-001.md"
     },
@@ -372,10 +2898,20 @@
         "破與強",
         "退藏"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "經",
+        "行動",
+        "破"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260421-001",
+        "TX-20260328-001",
+        "TX-20260502-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-001 人之所以停在原地，不是因為沒有能力前進，而是因為… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260404-001.md",
       "github_path": "archive/TX-20260404-001.md"
     },
@@ -388,10 +2924,16 @@
         "眾生",
         "覺照"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-001",
+        "TX-20260415-001",
+        "TX-20260408-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-002 過不完的過去，到不了的未來，不存在的現在 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260404-002.md",
       "github_path": "archive/TX-20260404-002.md"
     },
@@ -406,10 +2948,20 @@
         "觀心",
         "順隨"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "本元",
+        "覺醒",
+        "生命能量",
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260412-001",
+        "TX-20260404-010",
+        "TX-20260429-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-003 素語三百 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260404-003.md",
       "github_path": "archive/TX-20260404-003.md"
     },
@@ -421,10 +2973,18 @@
       "tags": [
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "行動",
+        "破"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-002",
+        "TX-20260502-001",
+        "TX-20260421-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-004 破，不是讓你倒下，而是讓你不用再靠外物站立 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260404-004.md",
       "github_path": "archive/TX-20260404-004.md"
     },
@@ -437,10 +2997,20 @@
         "系統",
         "勢局"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "系統",
+        "太素",
+        "心",
+        "念",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260412-002",
+        "TX-20260414-004",
+        "TX-20260322-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-005 只會做事的人，解決的是眼前 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260404-005.md",
       "github_path": "archive/TX-20260404-005.md"
     },
@@ -452,10 +3022,16 @@
       "tags": [
         "AI時代"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "AI時代"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-013",
+        "TX-20260504-001",
+        "TX-20260503-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-006 在AI時代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260404-006.md",
       "github_path": "archive/TX-20260404-006.md"
     },
@@ -465,10 +3041,17 @@
       "show_time": "'2026-04-04T12:59:10'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-007 大事，不是做出來的，是看見之後，被帶動出來的 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260404-007.md",
       "github_path": "archive/TX-20260404-007.md"
     },
@@ -481,10 +3064,19 @@
         "破與強",
         "覺照"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "靜定",
+        "行動",
+        "破"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-002",
+        "TX-20260502-001",
+        "TX-20260421-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-008 打破「努力＝成功」的錯覺 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260404-008.md",
       "github_path": "archive/TX-20260404-008.md"
     },
@@ -494,10 +3086,18 @@
       "show_time": "'2026-04-04T13:01:15'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "靜定",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-009 大事非成於能，乃成於見 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260404-009.md",
       "github_path": "archive/TX-20260404-009.md"
     },
@@ -512,10 +3112,19 @@
         "守地",
         "眾生"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量",
+        "眾生",
+        "守地"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260412-001",
+        "TX-20260408-001",
+        "TX-20260404-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260404-010 素行之道，不在多法，唯此十句，已足行世 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260404-010.md",
       "github_path": "archive/TX-20260404-010.md"
     },
@@ -530,10 +3139,17 @@
         "眾生",
         "和平"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "眾生",
+        "守地"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-001",
+        "TX-20260415-001",
+        "TX-20260404-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260408-001 天地同源，萬生一息 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260408-001.md",
       "github_path": "archive/TX-20260408-001.md"
     },
@@ -545,10 +3161,20 @@
       "tags": [
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "時代",
+        "太素",
+        "道",
+        "法",
+        "經"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260408-003",
+        "TX-20260107-003",
+        "TX-20260107-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260408-002 2026年，不再是延續過去的年份，而是人類被迫重… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260408-002.md",
       "github_path": "archive/TX-20260408-002.md"
     },
@@ -563,10 +3189,17 @@
         "結果",
         "系統"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260412-002",
+        "TX-20260408-002",
+        "TX-20260107-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260408-003 2026 破與強・財富時代宣言 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260408-003.md",
       "github_path": "archive/TX-20260408-003.md"
     },
@@ -581,10 +3214,16 @@
         "觀心",
         "順隨"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260404-003",
+        "TX-20260418-001",
+        "TX-20260326-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260412-001 知而不行，知如虛影 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260412-001.md",
       "github_path": "archive/TX-20260412-001.md"
     },
@@ -599,10 +3238,16 @@
         "結果",
         "系統"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "AI時代"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260322-001",
+        "TX-20260408-003",
+        "TX-20260414-004"
+      ],
+      "meta_description": "'# 天訊文 TX-20260412-002 行動與結果系統 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260412-002.md",
       "github_path": "archive/TX-20260412-002.md"
     },
@@ -617,10 +3262,16 @@
         "真話",
         "立場"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-002",
+        "TX-20260414-004",
+        "TX-20260322-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260414-001 角度、真話與權力 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-001.md",
       "github_path": "archive/TX-20260414-001.md"
     },
@@ -633,10 +3284,16 @@
         "眾生",
         "勢局"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-003",
+        "TX-20260322-002",
+        "TX-20260429-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260414-002 角度之界，真言之門 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-002.md",
       "github_path": "archive/TX-20260414-002.md"
     },
@@ -646,10 +3303,18 @@
       "show_time": "'2026-04-14T10:49:21'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "行動",
+        "改變"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260414-003 低階的人改變答案，高階的人改變問題 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260414-003.md",
       "github_path": "archive/TX-20260414-003.md"
     },
@@ -664,10 +3329,20 @@
         "權力",
         "真話"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "系統",
+        "太素",
+        "道",
+        "法",
+        "心"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260414-001",
+        "TX-20260412-002",
+        "TX-20260404-005"
+      ],
+      "meta_description": "'# 天訊文 TX-20260414-004 人性操控 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-004.md",
       "github_path": "archive/TX-20260414-004.md"
     },
@@ -681,10 +3356,20 @@
         "向前看",
         "簡素"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "經",
+        "心",
+        "靜定",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260414-005 「向前看」之所以簡單，是因為嘴巴只需一瞬 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260414-005.md",
       "github_path": "archive/TX-20260414-005.md"
     },
@@ -697,10 +3382,16 @@
         "眾生",
         "受持"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-001",
+        "TX-20260408-001",
+        "TX-20260404-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260415-001 眾生多困，不在無知，而在不受 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260415-001.md",
       "github_path": "archive/TX-20260415-001.md"
     },
@@ -712,10 +3403,20 @@
       "tags": [
         "覺照"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "經",
+        "心",
+        "念"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260404-008",
+        "TX-20260504-001",
+        "TX-20260503-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260417-001 經可誦，機可代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260417-001.md",
       "github_path": "archive/TX-20260417-001.md"
     },
@@ -728,10 +3429,20 @@
         "觀心",
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "法",
+        "經",
+        "心",
+        "念"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260421-002",
+        "TX-20260412-001",
+        "TX-20260326-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260418-001 生活從來不設限，設限的是人 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260418-001.md",
       "github_path": "archive/TX-20260418-001.md"
     },
@@ -745,10 +3456,20 @@
         "退藏",
         "勢局"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "心",
+        "念",
+        "靜定"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260328-001",
+        "TX-20260404-001",
+        "TX-20260502-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260421-001 世人見難，多以為阻 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260421-001.md",
       "github_path": "archive/TX-20260421-001.md"
     },
@@ -760,10 +3481,16 @@
       "tags": [
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260418-001",
+        "TX-20260412-001",
+        "TX-20260326-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260421-002 人之苦，不在得不到，在於未成其量，先求其果 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260421-002.md",
       "github_path": "archive/TX-20260421-002.md"
     },
@@ -776,10 +3503,17 @@
         "本元",
         "眾生"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "本元",
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260415-001",
+        "TX-20260408-001",
+        "TX-20260404-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-001 人之所以被困，非困於人，乃困於心 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-001.md",
       "github_path": "archive/TX-20260429-001.md"
     },
@@ -794,10 +3528,20 @@
         "立場",
         "和平"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "心",
+        "念",
+        "觀心"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260414-001",
+        "TX-20260418-001",
+        "TX-20260408-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-002 世有政，本為調和萬象之器，非為爭奪私利之門 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260429-002.md",
       "github_path": "archive/TX-20260429-002.md"
     },
@@ -812,10 +3556,17 @@
         "勢局",
         "政道"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "覺醒",
+        "眾生"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260414-002",
+        "TX-20260322-002",
+        "TX-20260404-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-003 今之世人，多以政為權，不以政為責 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-003.md",
       "github_path": "archive/TX-20260429-003.md"
     },
@@ -827,10 +3578,16 @@
       "tags": [
         "財富"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-010",
+        "TX-20260429-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-004 當一個人穩了，財富自然會來找你 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-004.md",
       "github_path": "archive/TX-20260429-004.md"
     },
@@ -840,10 +3597,16 @@
       "show_time": "'2026-04-29T19:26:33'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-005 真正有錢的人，不是最努力，而是最穩定 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260429-005.md",
       "github_path": "archive/TX-20260429-005.md"
     },
@@ -855,10 +3618,16 @@
       "tags": [
         "財富"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-010",
+        "TX-20260429-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-006 財富平衡密碼不是教你賺錢，是讓你變成「能承載財富… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-006.md",
       "github_path": "archive/TX-20260429-006.md"
     },
@@ -868,10 +3637,16 @@
       "show_time": "'2026-04-29T19:31:12'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-007 不是賺更多讓你變富有，是「需要更少」讓你自由 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-007.md",
       "github_path": "archive/TX-20260429-007.md"
     },
@@ -883,10 +3658,17 @@
       "tags": [
         "財富"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-010",
+        "TX-20260429-006"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-008 素行：真正的財富平衡密碼～放大生命能量，降低生活… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-008.md",
       "github_path": "archive/TX-20260429-008.md"
     },
@@ -896,10 +3678,17 @@
       "show_time": "'2026-04-29T19:33:58'",
       "category": "財富平衡",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-010",
+        "TX-20260429-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-009 當你的能量高於你的需求，你就自由了 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260429-009.md",
       "github_path": "archive/TX-20260429-009.md"
     },
@@ -911,10 +3700,17 @@
       "tags": [
         "財富"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-012",
+        "TX-20260429-008",
+        "TX-20260429-006"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-010 財富不在外得，在內減 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260429-010.md",
       "github_path": "archive/TX-20260429-010.md"
     },
@@ -926,10 +3722,17 @@
       "tags": [
         "財富"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260429-010",
+        "TX-20260429-008",
+        "TX-20260429-006"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-012 放大生命能量，降低生活需求，這不是選擇，是未來唯… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-012.md",
       "github_path": "archive/TX-20260429-012.md"
     },
@@ -941,10 +3744,18 @@
       "tags": [
         "AI時代"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "AI時代",
+        "財富平衡",
+        "生命能量"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260404-006",
+        "TX-20260504-001",
+        "TX-20260503-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260429-013 素行生命能量之約在AI時代，讓人不崩潰的生存結構 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-013.md",
       "github_path": "archive/TX-20260429-013.md"
     },
@@ -956,10 +3767,19 @@
       "tags": [
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "靜定",
+        "行動",
+        "破"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-002",
+        "TX-20260421-001",
+        "TX-20260404-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-001 忍辱，非為承辱，乃為止動 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260502-001.md",
       "github_path": "archive/TX-20260502-001.md"
     },
@@ -972,10 +3792,20 @@
         "太素",
         "破與強"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "念",
+        "順隨",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-001",
+        "TX-20260421-001",
+        "TX-20260404-008"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-002 太素非求得，乃本有 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260502-002.md",
       "github_path": "archive/TX-20260502-002.md"
     },
@@ -987,10 +3817,16 @@
       "tags": [
         "天印"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "本元",
+        "覺醒"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-002",
+        "TX-20260104-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-003 天印非力，乃無力之極 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260502-003.md",
       "github_path": "archive/TX-20260502-003.md"
     },
@@ -1002,10 +3838,18 @@
       "tags": [
         "知足"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "靜定",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-006",
+        "TX-20260504-001",
+        "TX-20260503-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-004 能力，決定你能做到什麼 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260502-004.md",
       "github_path": "archive/TX-20260502-004.md"
     },
@@ -1017,10 +3861,17 @@
       "tags": [
         "受持"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-006",
+        "TX-20260504-001",
+        "TX-20260503-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-005 接受，不是放棄，而是不與當下對抗 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260502-005.md",
       "github_path": "archive/TX-20260502-005.md"
     },
@@ -1034,10 +3885,20 @@
         "知足",
         "受持"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "心",
+        "靜定",
+        "順隨",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260502-005",
+        "TX-20260502-004",
+        "TX-20260504-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260502-006 能力能動外境，卻不能安內心 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260502-006.md",
       "github_path": "archive/TX-20260502-006.md"
     },
@@ -1047,10 +3908,18 @@
       "show_time": "'2026-05-03T12:46:54'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-002"
+      ],
+      "meta_description": "'# 天訊文 TX-20260503-001 學得會的，是知識 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260503-001.md",
       "github_path": "archive/TX-20260503-001.md"
     },
@@ -1060,10 +3929,18 @@
       "show_time": "'2026-05-03T12:47:14'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-003",
+        "TX-20260503-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260503-002 學得會的，都叫知識 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260503-002.md",
       "github_path": "archive/TX-20260503-002.md"
     },
@@ -1073,10 +3950,18 @@
       "show_time": "'2026-05-03T12:48:18'",
       "category": "短偈金句",
       "tags": "[]",
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260504-001",
+        "TX-20260503-002",
+        "TX-20260503-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260503-003 知識可學，技藝可練，唯道不可得 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260503-003.md",
       "github_path": "archive/TX-20260503-003.md"
     },
@@ -1090,10 +3975,19 @@
         "行",
         "經"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "太素",
+        "道",
+        "經",
+        "行動"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260503-003",
+        "TX-20260503-002",
+        "TX-20260503-001"
+      ],
+      "meta_description": "'# 天訊文 TX-20260504-001 行，即是得；路，即是經 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260504-001.md",
       "github_path": "archive/TX-20260504-001.md"
     },
@@ -1108,10 +4002,17 @@
         "破己",
         "結果"
       ],
-      "keywords": "[]",
-      "publish_status": "published",
-      "related_ids": "[]",
-      "meta_description": "''",
+      "keywords": [
+        "本元",
+        "覺醒"
+      ],
+      "publish_status": "",
+      "related_ids": [
+        "TX-20260104-003",
+        "TX-20260322-001",
+        "TX-20260502-003"
+      ],
+      "meta_description": "'# 天訊文 TX-20260504-002 經可背，法可說，唯有走過，才算得 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260504-002.md",
       "github_path": "archive/TX-20260504-002.md"
     }
