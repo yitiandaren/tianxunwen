@@ -42,7 +42,7 @@ field_definitions:
       - 眾生與守地
       - 短偈金句
       - 素語三百
-
+  
   publish_status:
     type: string
     allowed_values:
@@ -50,6 +50,10 @@ field_definitions:
       - draft
       - internal
       - restricted
+      - 已發布
+      - 待發布
+      - 隱藏
+      - 全平台完成
 
   license:
     type: string
