@@ -1,0 +1,107 @@
+{
+  "schema_name": "suxing_platform_mapping",
+  "version": "1.0",
+  "description": "天訊文 metadata 與各平台欄位對應規格。",
+  "source_of_truth": "GitHub archive/*.md",
+  "platforms": {
+    "github": {
+      "purpose": "原始典藏與版本控制",
+      "fields": {
+        "file_name": "tx_id",
+        "title": "subject",
+        "frontmatter.tx_id": "tx_id",
+        "frontmatter.subject": "subject",
+        "frontmatter.show_time": "show_time",
+        "frontmatter.category": "category",
+        "frontmatter.tags": "tags",
+        "frontmatter.keywords": "keywords",
+        "frontmatter.publish_status": "publish_status",
+        "frontmatter.related_ids": "related_ids",
+        "frontmatter.meta_description": "meta_description"
+      }
+    },
+    "notion": {
+      "purpose": "管理、審閱、排程、發布狀態追蹤",
+      "fields": {
+        "Name": "subject",
+        "TX ID": "tx_id",
+        "現示時間": "show_time",
+        "分類": "category",
+        "標籤": "tags",
+        "關鍵字": "keywords",
+        "發布狀態": "publish_status",
+        "平台": "published_platforms",
+        "GitHub URL": "github_url",
+        "Canonical URL": "canonical_url",
+        "Meta Description": "meta_description",
+        "Related IDs": "related_ids"
+      }
+    },
+    "website": {
+      "purpose": "官方公開典藏與 SEO/GEO 錨點",
+      "fields": {
+        "page_title": "subject",
+        "slug": "url_slug",
+        "canonical_url": "canonical_url",
+        "meta_description": "meta_description",
+        "og_image": "og_image",
+        "body": "original_text",
+        "source_note": "source_citation"
+      }
+    },
+    "youtube": {
+      "purpose": "長影片、Shorts 與社群貼文發布",
+      "fields": {
+        "title": "subject",
+        "description": "meta_description",
+        "hashtags": "tags",
+        "source_reference": "tx_id",
+        "canonical_link": "canonical_url"
+      }
+    },
+    "facebook": {
+      "purpose": "社群傳播與互動",
+      "fields": {
+        "post_title": "subject",
+        "post_body": "platform_copy",
+        "hashtags": "tags",
+        "source_reference": "tx_id",
+        "canonical_link": "canonical_url"
+      }
+    },
+    "medium": {
+      "purpose": "長文發布與搜尋收錄",
+      "fields": {
+        "title": "subject",
+        "subtitle": "meta_description",
+        "tags": "tags",
+        "canonical_url": "canonical_url",
+        "body": "original_text"
+      }
+    },
+    "telegram": {
+      "purpose": "快速發布與社群通知",
+      "fields": {
+        "message_title": "subject",
+        "message_body": "short_copy",
+        "source_reference": "tx_id",
+        "link": "canonical_url"
+      }
+    },
+    "line": {
+      "purpose": "私域通知與活動導流",
+      "fields": {
+        "message_title": "subject",
+        "message_body": "short_copy",
+        "link": "canonical_url"
+      }
+    }
+  },
+  "hard_rules": [
+    "GitHub archive/*.md 為原始母本。",
+    "平台文案可調整，但天訊文原文不得改寫。",
+    "所有平台內容必須保留或可回指 TX ID。",
+    "hidden visibility 不得同步至公開平台。",
+    "Notion 狀態不得覆蓋 GitHub 原文。"
+  ]
+}
