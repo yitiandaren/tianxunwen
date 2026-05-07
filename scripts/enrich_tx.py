@@ -57,9 +57,22 @@ KEYWORD_RULES = {
     "穩": "穩定"
 }
 
+CATEGORY_KEYWORDS = {
+    "本元覺醒": ["本元", "覺醒", "道", "太素", "生命"],
+    "財富平衡": ["財富平衡", "生命能量", "需求", "自由", "承載"],
+    "破與強・新時代": ["AI時代", "文明轉折", "時代", "系統", "選擇"],
+    "權力與真實": ["權力", "真實", "責任", "角度", "政治"],
+    "行動系統": ["行動", "結果", "系統", "選擇", "改變"],
+    "素行心法": ["素行", "靜定", "觀心", "順隨", "承載"],
+    "眾生與守地": ["眾生", "生命", "守地", "地球", "責任"],
+    "短偈金句": ["短偈金句", "心", "道", "選擇", "覺醒"],
+    "素語三百": ["素語三百", "素行", "心法", "覺醒", "實踐"]
+}
+
 frontmatter_pattern = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
 def split_frontmatter(content):
+
     match = frontmatter_pattern.match(content)
 
     if not match:
@@ -71,22 +84,30 @@ def split_frontmatter(content):
     return frontmatter_text, body
 
 def is_empty(value):
+
     return (
         value is None
         or value == ""
         or value == []
     )
 
-def generate_keywords(text):
+def generate_keywords(text, category="", subject=""):
 
     keywords = []
 
+    combined_text = f"{subject}\n{text}"
+
     for key, tag in KEYWORD_RULES.items():
 
-        if key in text and tag not in keywords:
+        if key in combined_text and tag not in keywords:
             keywords.append(tag)
 
-    return keywords[:8]
+    for tag in CATEGORY_KEYWORDS.get(category, []):
+
+        if tag not in keywords:
+            keywords.append(tag)
+
+    return keywords[:5]
 
 def generate_meta_description(text):
 
@@ -130,7 +151,11 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             or not isinstance(current_keywords, list)
         ):
 
-            keywords = generate_keywords(body)
+            keywords = generate_keywords(
+                body,
+                metadata.get("category", ""),
+                metadata.get("subject", "")
+            )
 
             if keywords:
                 metadata["keywords"] = keywords
