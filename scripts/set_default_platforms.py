@@ -18,6 +18,20 @@ def split_frontmatter(content):
 
     return match.group(1), content[match.end():]
 
+def is_empty_platforms(value):
+
+    return (
+        value is None
+        or value == ""
+        or value == []
+        or value == {}
+        or (
+            isinstance(value, list)
+            and len(value) == 0
+        )
+        or not isinstance(value, list)
+    )
+
 updated_count = 0
 
 for root, dirs, files in os.walk(ARCHIVE_DIR):
@@ -41,11 +55,7 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
         current = metadata.get("published_platforms")
 
-        if (
-            current is None
-            or current == ""
-            or current == []
-        ):
+        if is_empty_platforms(current):
 
             metadata["published_platforms"] = [
                 "GitHub"
