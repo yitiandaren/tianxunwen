@@ -1,8 +1,17 @@
 {
   "schema_name": "suxing_metadata_audit",
-  "version": "1.0",
-  "generated_at": "2026-05-07T02:41:14.912534",
+  "version": "1.1",
+  "generated_at": "2026-05-07T02:49:24.196671",
   "total_missing_items": 65,
+  "missing_field_counts": {
+    "editor_intro": 65,
+    "open_question": 65,
+    "related_ids": 65,
+    "keywords": 53,
+    "meta_description": 65,
+    "og_image": 65,
+    "published_platforms": 65
+  },
   "checked_fields": [
     "editor_intro",
     "open_question",
