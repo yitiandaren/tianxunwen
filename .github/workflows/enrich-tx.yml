@@ -1,38 +1,134 @@
-name: Enrich TX Metadata
+import os
+import re
+import random
 
-on:
-  workflow_dispatch:
+ARCHIVE_DIR = "archive"
 
-permissions:
-  contents: write
+DEFAULT_QUESTIONS = [
+    "這段內容讓你想到什麼？",
+    "如果是你，你會如何選擇？",
+    "你是否也曾經歷過類似狀態？",
+    "你認為真正的改變從哪裡開始？",
+    "你是否曾思考過這個問題？"
+]
 
-jobs:
-  enrich-tx:
-    runs-on: ubuntu-latest
+KEYWORD_RULES = {
+    "AI": "AI時代",
+    "人工智慧": "AI時代",
+    "財富": "財富平衡",
+    "自由": "財富平衡",
+    "本元": "本元",
+    "覺醒": "覺醒",
+    "能量": "生命能量",
+    "眾生": "眾生",
+    "地球": "守地",
+    "文明": "文明轉折"
+}
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+frontmatter_pattern = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+def extract_frontmatter_and_body(content):
+    match = frontmatter_pattern.match(content)
+    if not match:
+        return None, content
+    return match.group(1), content[match.end():]
 
-      - name: Enrich TX metadata
-        run: python scripts/enrich_tx.py
+def field_is_empty(frontmatter, field):
+    pattern = re.compile(rf"^{field}:\s*(.*)$", re.MULTILINE)
+    match = pattern.search(frontmatter)
 
-      - name: Validate TX files
-        run: python scripts/validate_tx.py
+    if not match:
+        return True
 
-      - name: Build tx_index.json
-        run: python scripts/build_index.py
+    value = match.group(1).split("#")[0].strip().strip('"')
+    return value in ["", "[]"]
 
-      - name: Audit metadata
-        run: python scripts/audit_metadata.py
+def replace_scalar(frontmatter, field, value):
+    pattern = re.compile(rf"^{field}:.*$", re.MULTILINE)
 
-      - name: Commit enriched metadata
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "auto: enrich TX metadata"
-          file_pattern: archive/*.md data/tx_index.json data/metadata_audit.json
+    line = f'{field}: "{value}"'
+
+    if pattern.search(frontmatter):
+        return pattern.sub(line, frontmatter)
+
+    return frontmatter.rstrip() + "\n" + line
+
+def replace_list(frontmatter, field, values):
+    lines = [f"{field}:"]
+    for value in values:
+        lines.append(f'  - "{value}"')
+
+    block = "\n".join(lines)
+
+    pattern = re.compile(
+        rf"^{field}:\s*(?:\n(?:\s+- .*)*)?",
+        re.MULTILINE
+    )
+
+    if pattern.search(frontmatter):
+        return pattern.sub(block, frontmatter)
+
+    return frontmatter.rstrip() + "\n" + block
+
+def generate_keywords(text):
+    keywords = []
+    for key, tag in KEYWORD_RULES.items():
+        if key in text and tag not in keywords:
+            keywords.append(tag)
+    return keywords[:5]
+
+def generate_meta_description(text):
+    text = re.sub(r"\s+", " ", text).strip()
+    text = text.replace('"', "'")
+
+    if len(text) <= 120:
+        return text
+
+    return text[:117] + "..."
+
+updated_count = 0
+
+for root, dirs, files in os.walk(ARCHIVE_DIR):
+    for file in files:
+        if not file.endswith(".md"):
+            continue
+
+        path = os.path.join(root, file)
+
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read()
+
+        frontmatter, body = extract_frontmatter_and_body(content)
+
+        if frontmatter is None:
+            continue
+
+        updated = False
+
+        if field_is_empty(frontmatter, "keywords"):
+            keywords = generate_keywords(body)
+            if keywords:
+                frontmatter = replace_list(frontmatter, "keywords", keywords)
+                updated = True
+
+        if field_is_empty(frontmatter, "meta_description"):
+            desc = generate_meta_description(body)
+            if desc:
+                frontmatter = replace_scalar(frontmatter, "meta_description", desc)
+                updated = True
+
+        if field_is_empty(frontmatter, "open_question"):
+            q = random.choice(DEFAULT_QUESTIONS)
+            frontmatter = replace_scalar(frontmatter, "open_question", q)
+            updated = True
+
+        if updated:
+            new_content = f"---\n{frontmatter.strip()}\n---\n{body}"
+
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new_content)
+
+            updated_count += 1
+            print(f"Updated: {path}")
+
+print(f"TX enrichment completed. Updated files: {updated_count}")
