@@ -61,10 +61,10 @@ updated_count = 0
 for item in items:
     metadata = item["metadata"]
 
-    existing_related = metadata.get("related_ids")
+existing_related = metadata.get("related_ids")
 
-    if existing_related:
-        continue
+if isinstance(existing_related, list) and len(existing_related) > 0:
+    continue
 
     scored = []
 
