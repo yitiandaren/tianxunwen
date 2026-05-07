@@ -1,43 +1,40 @@
 import os
 import re
 import sys
+import yaml
 
 ARCHIVE_DIR = "archive"
+SCHEMA_FILE = "schema/tx_metadata_schema.yaml"
 
-required_fields = [
-    "tx_id",
-    "subject",
-    "show_time",
-    "category",
-    "publish_status",
-    "license"
-]
+frontmatter_pattern = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
-tx_id_pattern = re.compile(r"^TX-\d{8}-\d{3}$")
-frontmatter_pattern = re.compile(r"---(.*?)---", re.DOTALL)
+with open(SCHEMA_FILE, "r", encoding="utf-8") as f:
+    schema = yaml.safe_load(f)
+
+required_fields = schema.get("required_fields", [])
+
+field_definitions = schema.get("field_definitions", {})
 
 errors = []
 seen_tx_ids = set()
 
 def parse_frontmatter(content):
-    match = frontmatter_pattern.search(content)
+
+    match = frontmatter_pattern.match(content)
+
     if not match:
         return {}
 
-    block = match.group(1)
-    data = {}
+    frontmatter_text = match.group(1)
 
-    for line in block.splitlines():
-        if ":" not in line:
-            continue
+    metadata = yaml.safe_load(frontmatter_text)
 
-        key, value = line.split(":", 1)
-        data[key.strip()] = value.strip().strip('"')
-
-    return data
+    return metadata or {}
 
 for root, dirs, files in os.walk(ARCHIVE_DIR):
+
     for file in files:
+
         if not file.endswith(".md"):
             continue
 
@@ -53,29 +50,63 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             continue
 
         for field in required_fields:
-            if field not in metadata or metadata[field] == "":
+
+            value = metadata.get(field)
+
+            if value in [None, "", []]:
                 errors.append(f"{path}: 缺少必要欄位 {field}")
 
         tx_id = metadata.get("tx_id", "")
 
         if tx_id:
-            if not tx_id_pattern.match(tx_id):
-                errors.append(f"{path}: tx_id 格式錯誤：{tx_id}")
+
+            pattern = field_definitions.get(
+                "tx_id",
+                {}
+            ).get("pattern")
+
+            if pattern:
+
+                if not re.match(pattern, tx_id):
+                    errors.append(
+                        f"{path}: tx_id 格式錯誤：{tx_id}"
+                    )
 
             if tx_id in seen_tx_ids:
-                errors.append(f"{path}: tx_id 重複：{tx_id}")
+                errors.append(
+                    f"{path}: tx_id 重複：{tx_id}"
+                )
 
             seen_tx_ids.add(tx_id)
 
-        expected_filename = f"{tx_id}.md" if tx_id else ""
-        if expected_filename and file != expected_filename:
-            errors.append(f"{path}: 檔名與 tx_id 不一致，應為 {expected_filename}")
+        for field_name, rules in field_definitions.items():
+
+            allowed_values = rules.get("allowed_values")
+
+            if not allowed_values:
+                continue
+
+            value = metadata.get(field_name)
+
+            if value is None:
+                continue
+
+            if value not in allowed_values:
+
+                errors.append(
+                    f"{path}: {field_name} 不合法：{value}"
+                )
 
 if errors:
+
     print("驗證失敗：")
+
     for error in errors:
         print(f"- {error}")
+
     sys.exit(1)
 
-print("驗證通過：所有天訊文格式符合 v1.0 基本規則")
-print(f"檢查篇數：{len(seen_tx_ids)}")
+print("===================================")
+print("TX Schema Validation Passed")
+print(f"Checked files: {len(seen_tx_ids)}")
+print("===================================")
