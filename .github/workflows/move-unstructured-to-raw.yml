@@ -1,0 +1,26 @@
+name: Move Unstructured Files To Raw
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  move-unstructured:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Move unstructured files
+        run: python scripts/move_unstructured_to_raw.py
+
+      - name: Commit moved raw files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: auto move unstructured files to raw
+          file_pattern: |
+            archive/*.md
+            raw/*.md
