@@ -1,0 +1,91 @@
+{
+  "schema_name": "suxing_taxonomy_master",
+  "version": "1.0",
+  "description": "素行天訊文分類、標籤與語意群組標準。",
+  "categories": [
+    {
+      "id": "benyuan_awake",
+      "name": "本元覺醒",
+      "description": "涉及本元、覺醒、真我、太素、道之本質等內容。"
+    },
+    {
+      "id": "wealth_balance",
+      "name": "財富平衡",
+      "description": "涉及財富、穩定、需求、能量、自由與承載。"
+    },
+    {
+      "id": "new_era",
+      "name": "破與強・新時代",
+      "description": "涉及文明轉折、AI 時代、舊系統失效、未來轉換。"
+    },
+    {
+      "id": "power_truth",
+      "name": "權力與真實",
+      "description": "涉及政治、權力、真話、角度、責任與局勢。"
+    },
+    {
+      "id": "action_system",
+      "name": "行動系統",
+      "description": "涉及行動、結果、方法、系統、選擇與實踐。"
+    },
+    {
+      "id": "suxing_practice",
+      "name": "素行心法",
+      "description": "涉及素行實修、心法、承載、靜定、觀心、順隨。"
+    },
+    {
+      "id": "beings_earth",
+      "name": "眾生與守地",
+      "description": "涉及眾生、地球、生命、慈悲、護生與整體責任。"
+    },
+    {
+      "id": "short_verse",
+      "name": "短偈金句",
+      "description": "短句、偈語、金句型天訊文。"
+    },
+    {
+      "id": "suyu_300",
+      "name": "素語三百",
+      "description": "素語三百系列內容。"
+    }
+  ],
+  "core_tags": [
+    "一天大人",
+    "太素天尊",
+    "素行",
+    "天訊文",
+    "AI時代",
+    "覺醒",
+    "本元",
+    "財富平衡",
+    "生命能量",
+    "靜定",
+    "簡單",
+    "觀心",
+    "順隨",
+    "眾生",
+    "守地"
+  ],
+  "normalization_rules": [
+    {
+      "from": "AI 時代",
+      "to": "AI時代"
+    },
+    {
+      "from": "塑形",
+      "to": "素行"
+    },
+    {
+      "from": "醒著",
+      "to": "醒者"
+    },
+    {
+      "from": "本元零",
+      "to": "本元靈"
+    },
+    {
+      "from": "龍天大法",
+      "to": "龍天大護法"
+    }
+  ]
+}
