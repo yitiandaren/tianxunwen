@@ -1,0 +1,16 @@
+{
+  "schema_name": "suxing_metadata_audit",
+  "version": "1.0",
+  "generated_at": "",
+  "total_missing_items": 0,
+  "checked_fields": [
+    "editor_intro",
+    "open_question",
+    "related_ids",
+    "keywords",
+    "meta_description",
+    "og_image",
+    "published_platforms"
+  ],
+  "items": []
+}
