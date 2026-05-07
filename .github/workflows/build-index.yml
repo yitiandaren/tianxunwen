@@ -5,6 +5,7 @@ on:
     paths:
       - "archive/**/*.md"
       - "scripts/build_index.py"
+      - "scripts/validate_tx.py"
       - "core/**"
       - "data/categories.json"
       - "data/tags.json"
@@ -16,7 +17,7 @@ permissions:
   contents: write
 
 jobs:
-  build-index:
+  validate-and-build:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,11 +29,14 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Validate TX files
+        run: python scripts/validate_tx.py
+
       - name: Build tx_index.json
         run: python scripts/build_index.py
 
       - name: Commit updated tx_index.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update tx_index.json"
+          commit_message: "auto: validate and update tx_index.json"
           file_pattern: data/tx_index.json
