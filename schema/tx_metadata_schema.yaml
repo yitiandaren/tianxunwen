@@ -50,10 +50,7 @@ field_definitions:
       - draft
       - internal
       - restricted
-      - 已發布
-      - 待發布
-      - 隱藏
-      - 全平台完成
+
 
   license:
     type: string
