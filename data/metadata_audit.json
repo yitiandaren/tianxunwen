@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-05-07T11:54:55.007427",
+  "generated_at": "2026-05-07T12:03:38.107184",
   "total_missing_items": 65,
   "missing_field_counts": {
-    "editor_intro": 65,
-    "open_question": 65,
+    "editor_intro": 0,
+    "open_question": 0,
     "related_ids": 65,
-    "keywords": 53,
-    "meta_description": 65,
-    "og_image": 65,
+    "keywords": 51,
+    "meta_description": 0,
+    "og_image": 0,
     "published_platforms": 65
   },
   "checked_fields": [
@@ -26,15 +26,11 @@
       "tx_id": "TX-20260404-009",
       "subject": "大事非成於能，乃成於見",
       "category": "短偈金句",
-      "show_time": "2026-04-04T13:01:15",
+      "show_time": "'2026-04-04T13:01:15'",
       "file": "archive/TX-20260404-009.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -42,15 +38,11 @@
       "tx_id": "TX-20260404-003",
       "subject": "素語三百",
       "category": "素語三百",
-      "show_time": "2026-04-04T12:44:30",
+      "show_time": "'2026-04-04T12:44:30'",
       "file": "archive/TX-20260404-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -58,15 +50,11 @@
       "tx_id": "TX-20260412-002",
       "subject": "行動與結果系統",
       "category": "行動系統",
-      "show_time": "2026-04-12T11:21:58",
+      "show_time": "'2026-04-12T11:21:58'",
       "file": "archive/TX-20260412-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -74,15 +62,11 @@
       "tx_id": "TX-20260502-005",
       "subject": "接受，不是放棄，而是不與當下對抗",
       "category": "短偈金句",
-      "show_time": "2026-05-02T18:58:21",
+      "show_time": "'2026-05-02T18:58:21'",
       "file": "archive/TX-20260502-005.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -90,15 +74,11 @@
       "tx_id": "TX-20260429-006",
       "subject": "財富平衡密碼不是教你賺錢，是讓你變成「能承載財富…",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:28:13",
+      "show_time": "'2026-04-29T19:28:13'",
       "file": "archive/TX-20260429-006.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -106,15 +86,11 @@
       "tx_id": "TX-20260404-001",
       "subject": "人之所以停在原地，不是因為沒有能力前進，而是因為…",
       "category": "短偈金句",
-      "show_time": "2026-04-04T10:09:02",
+      "show_time": "'2026-04-04T10:09:02'",
       "file": "archive/TX-20260404-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -122,15 +98,11 @@
       "tx_id": "TX-20260412-001",
       "subject": "知而不行，知如虛影",
       "category": "素行心法",
-      "show_time": "2026-04-12T10:55:51",
+      "show_time": "'2026-04-12T10:55:51'",
       "file": "archive/TX-20260412-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -138,15 +110,11 @@
       "tx_id": "TX-20260502-002",
       "subject": "太素非求得，乃本有",
       "category": "短偈金句",
-      "show_time": "2026-05-02T15:49:50",
+      "show_time": "'2026-05-02T15:49:50'",
       "file": "archive/TX-20260502-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -154,14 +122,10 @@
       "tx_id": "TX-20260104-001",
       "subject": "2026全球宣言",
       "category": "破與強・新時代",
-      "show_time": "2026-01-04T11:13:31",
+      "show_time": "'2026-01-04T11:13:31'",
       "file": "archive/TX-20260104-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -169,15 +133,11 @@
       "tx_id": "TX-20260429-002",
       "subject": "世有政，本為調和萬象之器，非為爭奪私利之門",
       "category": "權力與真實",
-      "show_time": "2026-04-29T13:26:47",
+      "show_time": "'2026-04-29T13:26:47'",
       "file": "archive/TX-20260429-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -185,15 +145,11 @@
       "tx_id": "TX-20260404-007",
       "subject": "大事，不是做出來的，是看見之後，被帶動出來的",
       "category": "短偈金句",
-      "show_time": "2026-04-04T12:59:10",
+      "show_time": "'2026-04-04T12:59:10'",
       "file": "archive/TX-20260404-007.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -201,15 +157,11 @@
       "tx_id": "TX-20260417-001",
       "subject": "經可誦，機可代",
       "category": "短偈金句",
-      "show_time": "2026-04-17T09:51:15",
+      "show_time": "'2026-04-17T09:51:15'",
       "file": "archive/TX-20260417-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -217,15 +169,11 @@
       "tx_id": "TX-20260429-003",
       "subject": "今之世人，多以政為權，不以政為責",
       "category": "權力與真實",
-      "show_time": "2026-04-29T13:36:04",
+      "show_time": "'2026-04-29T13:36:04'",
       "file": "archive/TX-20260429-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -233,15 +181,11 @@
       "tx_id": "TX-20260421-002",
       "subject": "人之苦，不在得不到，在於未成其量，先求其果",
       "category": "素行心法",
-      "show_time": "2026-04-21T15:46:44",
+      "show_time": "'2026-04-21T15:46:44'",
       "file": "archive/TX-20260421-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -249,15 +193,11 @@
       "tx_id": "TX-20260429-001",
       "subject": "人之所以被困，非困於人，乃困於心",
       "category": "眾生與守地",
-      "show_time": "2026-04-29T13:04:34",
+      "show_time": "'2026-04-29T13:04:34'",
       "file": "archive/TX-20260429-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -265,15 +205,11 @@
       "tx_id": "TX-20260414-002",
       "subject": "角度之界，真言之門",
       "category": "權力與真實",
-      "show_time": "2026-04-14T10:45:53",
+      "show_time": "'2026-04-14T10:45:53'",
       "file": "archive/TX-20260414-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -281,15 +217,11 @@
       "tx_id": "TX-20260404-008",
       "subject": "打破「努力＝成功」的錯覺",
       "category": "短偈金句",
-      "show_time": "2026-04-04T12:59:55",
+      "show_time": "'2026-04-04T12:59:55'",
       "file": "archive/TX-20260404-008.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -297,15 +229,11 @@
       "tx_id": "TX-20260404-010",
       "subject": "素行之道，不在多法，唯此十句，已足行世",
       "category": "財富平衡",
-      "show_time": "2026-04-04T15:39:58",
+      "show_time": "'2026-04-04T15:39:58'",
       "file": "archive/TX-20260404-010.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -313,15 +241,11 @@
       "tx_id": "TX-20260429-012",
       "subject": "放大生命能量，降低生活需求，這不是選擇，是未來唯…",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:45:03",
+      "show_time": "'2026-04-29T19:45:03'",
       "file": "archive/TX-20260429-012.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -329,15 +253,11 @@
       "tx_id": "TX-20260408-003",
       "subject": "2026 破與強・財富時代宣言",
       "category": "破與強・新時代",
-      "show_time": "2026-04-08T18:38:16",
+      "show_time": "'2026-04-08T18:38:16'",
       "file": "archive/TX-20260408-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -345,15 +265,11 @@
       "tx_id": "TX-20260414-003",
       "subject": "低階的人改變答案，高階的人改變問題",
       "category": "短偈金句",
-      "show_time": "2026-04-14T10:49:21",
+      "show_time": "'2026-04-14T10:49:21'",
       "file": "archive/TX-20260414-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -361,14 +277,10 @@
       "tx_id": "TX-20260104-003",
       "subject": "我非來立教，亦非來毀教",
       "category": "本元覺醒",
-      "show_time": "2026-01-04T12:26:14",
+      "show_time": "'2026-01-04T12:26:14'",
       "file": "archive/TX-20260104-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -376,15 +288,11 @@
       "tx_id": "TX-20260504-002",
       "subject": "經可背，法可說，唯有走過，才算得",
       "category": "本元覺醒",
-      "show_time": "2026-05-04T12:58:49",
+      "show_time": "'2026-05-04T12:58:49'",
       "file": "archive/TX-20260504-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -392,15 +300,11 @@
       "tx_id": "TX-20260404-006",
       "subject": "在AI時代",
       "category": "短偈金句",
-      "show_time": "2026-04-04T12:59:01",
+      "show_time": "'2026-04-04T12:59:01'",
       "file": "archive/TX-20260404-006.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -408,14 +312,10 @@
       "tx_id": "TX-20260104-004",
       "subject": "覺者最後都被宗教化——文明對覺醒的必然誤讀",
       "category": "破與強・新時代",
-      "show_time": "2026-01-04T12:42:59",
+      "show_time": "'2026-01-04T12:42:59'",
       "file": "archive/TX-20260104-004.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -423,15 +323,11 @@
       "tx_id": "TX-20260401-001",
       "subject": "很多人以為自己在追求結果——",
       "category": "財富平衡",
-      "show_time": "2026-04-01T09:05:13",
+      "show_time": "'2026-04-01T09:05:13'",
       "file": "archive/TX-20260401-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -439,15 +335,11 @@
       "tx_id": "TX-20260414-005",
       "subject": "「向前看」之所以簡單，是因為嘴巴只需一瞬",
       "category": "短偈金句",
-      "show_time": "2026-04-14T11:17:59",
+      "show_time": "'2026-04-14T11:17:59'",
       "file": "archive/TX-20260414-005.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -455,15 +347,11 @@
       "tx_id": "TX-20260404-005",
       "subject": "只會做事的人，解決的是眼前",
       "category": "行動系統",
-      "show_time": "2026-04-04T12:57:43",
+      "show_time": "'2026-04-04T12:57:43'",
       "file": "archive/TX-20260404-005.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -471,15 +359,11 @@
       "tx_id": "TX-20260502-004",
       "subject": "能力，決定你能做到什麼",
       "category": "短偈金句",
-      "show_time": "2026-05-02T18:58:03",
+      "show_time": "'2026-05-02T18:58:03'",
       "file": "archive/TX-20260502-004.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -487,15 +371,11 @@
       "tx_id": "TX-20260503-002",
       "subject": "學得會的，都叫知識",
       "category": "短偈金句",
-      "show_time": "2026-05-03T12:47:14",
+      "show_time": "'2026-05-03T12:47:14'",
       "file": "archive/TX-20260503-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -503,14 +383,10 @@
       "tx_id": "TX-20260322-002",
       "subject": "柯文哲之局・過程與結果",
       "category": "權力與真實",
-      "show_time": "2026-03-22T11:25:40",
+      "show_time": "'2026-03-22T11:25:40'",
       "file": "archive/TX-20260322-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -518,15 +394,11 @@
       "tx_id": "TX-20260429-010",
       "subject": "財富不在外得，在內減",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:35:03",
+      "show_time": "'2026-04-29T19:35:03'",
       "file": "archive/TX-20260429-010.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -534,14 +406,10 @@
       "tx_id": "TX-20260106-001",
       "subject": "金牌之義・銀牌之義",
       "category": "素行心法",
-      "show_time": "2026-01-06T10:32:00",
+      "show_time": "'2026-01-06T10:32:00'",
       "file": "archive/TX-20260106-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -549,15 +417,11 @@
       "tx_id": "TX-20260503-001",
       "subject": "學得會的，是知識",
       "category": "短偈金句",
-      "show_time": "2026-05-03T12:46:54",
+      "show_time": "'2026-05-03T12:46:54'",
       "file": "archive/TX-20260503-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -565,15 +429,11 @@
       "tx_id": "TX-20260504-001",
       "subject": "行，即是得；路，即是經",
       "category": "短偈金句",
-      "show_time": "2026-05-04T12:54:40",
+      "show_time": "'2026-05-04T12:54:40'",
       "file": "archive/TX-20260504-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -581,15 +441,11 @@
       "tx_id": "TX-20260404-004",
       "subject": "破，不是讓你倒下，而是讓你不用再靠外物站立",
       "category": "短偈金句",
-      "show_time": "2026-04-04T12:48:01",
+      "show_time": "'2026-04-04T12:48:01'",
       "file": "archive/TX-20260404-004.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -597,15 +453,10 @@
       "tx_id": "TX-20260326-001",
       "subject": "相處",
       "category": "素行心法",
-      "show_time": "2026-03-26T20:35:05",
+      "show_time": "'2026-03-26T20:35:05'",
       "file": "archive/TX-20260326-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -613,15 +464,11 @@
       "tx_id": "TX-20260408-001",
       "subject": "天地同源，萬生一息",
       "category": "眾生與守地",
-      "show_time": "2026-04-08T16:40:49",
+      "show_time": "'2026-04-08T16:40:49'",
       "file": "archive/TX-20260408-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -629,15 +476,11 @@
       "tx_id": "TX-20260418-001",
       "subject": "生活從來不設限，設限的是人",
       "category": "素行心法",
-      "show_time": "2026-04-18T11:03:43",
+      "show_time": "'2026-04-18T11:03:43'",
       "file": "archive/TX-20260418-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -645,14 +488,10 @@
       "tx_id": "TX-20260104-002",
       "subject": "警世語～文明將走向去宗教化信仰",
       "category": "破與強・新時代",
-      "show_time": "2026-01-04T12:06:37",
+      "show_time": "'2026-01-04T12:06:37'",
       "file": "archive/TX-20260104-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -660,15 +499,11 @@
       "tx_id": "TX-20260429-009",
       "subject": "當你的能量高於你的需求，你就自由了",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:33:58",
+      "show_time": "'2026-04-29T19:33:58'",
       "file": "archive/TX-20260429-009.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -676,15 +511,11 @@
       "tx_id": "TX-20260421-001",
       "subject": "世人見難，多以為阻",
       "category": "短偈金句",
-      "show_time": "2026-04-21T12:22:10",
+      "show_time": "'2026-04-21T12:22:10'",
       "file": "archive/TX-20260421-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -692,14 +523,10 @@
       "tx_id": "TX-20260107-002",
       "subject": "2026能量及AI劇變的世代",
       "category": "破與強・新時代",
-      "show_time": "2026-01-07T22:03:00",
+      "show_time": "'2026-01-07T22:03:00'",
       "file": "archive/TX-20260107-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -707,14 +534,10 @@
       "tx_id": "TX-20260107-003",
       "subject": "2026巨變必起・人類從未擁有替文明編列預算的權力",
       "category": "破與強・新時代",
-      "show_time": "2026-01-07T22:10:00",
+      "show_time": "'2026-01-07T22:10:00'",
       "file": "archive/TX-20260107-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -722,15 +545,11 @@
       "tx_id": "TX-20260429-004",
       "subject": "當一個人穩了，財富自然會來找你",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:22:28",
+      "show_time": "'2026-04-29T19:22:28'",
       "file": "archive/TX-20260429-004.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -738,14 +557,10 @@
       "tx_id": "TX-20260107-001",
       "subject": "2026能量巨變・當貨幣失效，文明開始改用能量計算",
       "category": "破與強・新時代",
-      "show_time": "2026-01-07T21:55:00",
+      "show_time": "'2026-01-07T21:55:00'",
       "file": "archive/TX-20260107-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -753,15 +568,11 @@
       "tx_id": "TX-20260429-005",
       "subject": "真正有錢的人，不是最努力，而是最穩定",
       "category": "短偈金句",
-      "show_time": "2026-04-29T19:26:33",
+      "show_time": "'2026-04-29T19:26:33'",
       "file": "archive/TX-20260429-005.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -769,15 +580,11 @@
       "tx_id": "TX-20260414-004",
       "subject": "人性操控",
       "category": "行動系統",
-      "show_time": "2026-04-14T10:54:12",
+      "show_time": "'2026-04-14T10:54:12'",
       "file": "archive/TX-20260414-004.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -785,15 +592,11 @@
       "tx_id": "TX-20260415-001",
       "subject": "眾生多困，不在無知，而在不受",
       "category": "眾生與守地",
-      "show_time": "2026-04-15T08:57:59",
+      "show_time": "'2026-04-15T08:57:59'",
       "file": "archive/TX-20260415-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -801,15 +604,11 @@
       "tx_id": "TX-20260328-001",
       "subject": "人常以為，退，是失去",
       "category": "短偈金句",
-      "show_time": "2026-03-28T10:13:06",
+      "show_time": "'2026-03-28T10:13:06'",
       "file": "archive/TX-20260328-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -817,15 +616,11 @@
       "tx_id": "TX-20260429-013",
       "subject": "素行生命能量之約在AI時代，讓人不崩潰的生存結構",
       "category": "短偈金句",
-      "show_time": "2026-04-29T19:46:09",
+      "show_time": "'2026-04-29T19:46:09'",
       "file": "archive/TX-20260429-013.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -833,15 +628,11 @@
       "tx_id": "TX-20260327-001",
       "subject": "希望人間有光",
       "category": "短偈金句",
-      "show_time": "2026-03-27T21:24:44",
+      "show_time": "'2026-03-27T21:24:44'",
       "file": "archive/TX-20260327-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -849,15 +640,11 @@
       "tx_id": "TX-20260502-003",
       "subject": "天印非力，乃無力之極",
       "category": "本元覺醒",
-      "show_time": "2026-05-02T16:00:24",
+      "show_time": "'2026-05-02T16:00:24'",
       "file": "archive/TX-20260502-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -865,14 +652,10 @@
       "tx_id": "TX-20260104-005",
       "subject": "宗教終將退場的歷史必然",
       "category": "破與強・新時代",
-      "show_time": "2026-01-04T13:32:00",
+      "show_time": "'2026-01-04T13:32:00'",
       "file": "archive/TX-20260104-005.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -880,14 +663,10 @@
       "tx_id": "TX-20260106-002",
       "subject": "無名覺者的歷史定位說明",
       "category": "破與強・新時代",
-      "show_time": "2026-01-06T10:41:00",
+      "show_time": "'2026-01-06T10:41:00'",
       "file": "archive/TX-20260106-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -895,15 +674,11 @@
       "tx_id": "TX-20260502-001",
       "subject": "忍辱，非為承辱，乃為止動",
       "category": "短偈金句",
-      "show_time": "2026-05-02T11:34:39",
+      "show_time": "'2026-05-02T11:34:39'",
       "file": "archive/TX-20260502-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -911,15 +686,11 @@
       "tx_id": "TX-20260408-002",
       "subject": "2026年，不再是延續過去的年份，而是人類被迫重…",
       "category": "破與強・新時代",
-      "show_time": "2026-04-08T18:30:41",
+      "show_time": "'2026-04-08T18:30:41'",
       "file": "archive/TX-20260408-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -927,15 +698,11 @@
       "tx_id": "TX-20260502-006",
       "subject": "能力能動外境，卻不能安內心",
       "category": "短偈金句",
-      "show_time": "2026-05-02T19:04:24",
+      "show_time": "'2026-05-02T19:04:24'",
       "file": "archive/TX-20260502-006.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -943,14 +710,10 @@
       "tx_id": "TX-20260106-003",
       "subject": "2026素行能量轉換・太素化生宣言",
       "category": "破與強・新時代",
-      "show_time": "2026-01-06T10:41:00",
+      "show_time": "'2026-01-06T10:41:00'",
       "file": "archive/TX-20260106-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -958,15 +721,11 @@
       "tx_id": "TX-20260429-007",
       "subject": "不是賺更多讓你變富有，是「需要更少」讓你自由",
       "category": "短偈金句",
-      "show_time": "2026-04-29T19:31:12",
+      "show_time": "'2026-04-29T19:31:12'",
       "file": "archive/TX-20260429-007.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -974,15 +733,11 @@
       "tx_id": "TX-20260404-002",
       "subject": "過不完的過去，到不了的未來，不存在的現在",
       "category": "眾生與守地",
-      "show_time": "2026-04-04T10:17:26",
+      "show_time": "'2026-04-04T10:17:26'",
       "file": "archive/TX-20260404-002.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -990,15 +745,10 @@
       "tx_id": "TX-20260322-001",
       "subject": "發展與選擇",
       "category": "行動系統",
-      "show_time": "2026-03-22T10:54:48",
+      "show_time": "'2026-03-22T10:54:48'",
       "file": "archive/TX-20260322-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
-        "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -1006,15 +756,11 @@
       "tx_id": "TX-20260429-008",
       "subject": "素行：真正的財富平衡密碼～放大生命能量，降低生活…",
       "category": "財富平衡",
-      "show_time": "2026-04-29T19:31:55",
+      "show_time": "'2026-04-29T19:31:55'",
       "file": "archive/TX-20260429-008.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -1022,15 +768,11 @@
       "tx_id": "TX-20260414-001",
       "subject": "角度、真話與權力",
       "category": "權力與真實",
-      "show_time": "2026-04-14T10:43:19",
+      "show_time": "'2026-04-14T10:43:19'",
       "file": "archive/TX-20260414-001.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     },
@@ -1038,15 +780,11 @@
       "tx_id": "TX-20260503-003",
       "subject": "知識可學，技藝可練，唯道不可得",
       "category": "短偈金句",
-      "show_time": "2026-05-03T12:48:18",
+      "show_time": "'2026-05-03T12:48:18'",
       "file": "archive/TX-20260503-003.md",
       "missing_fields": [
-        "editor_intro",
-        "open_question",
         "related_ids",
         "keywords",
-        "meta_description",
-        "og_image",
         "published_platforms"
       ]
     }
