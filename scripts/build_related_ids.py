@@ -1,6 +1,7 @@
 import os
 import re
 import yaml
+from datetime import datetime
 
 ARCHIVE_DIR = "archive"
 
@@ -11,6 +12,14 @@ def split_frontmatter(content):
     if not match:
         return None, content
     return match.group(1), content[match.end():]
+
+def parse_date(show_time):
+    if not show_time:
+        return None
+    try:
+        return datetime.fromisoformat(str(show_time).replace("Z", ""))
+    except Exception:
+        return None
 
 items = []
 
@@ -25,7 +34,6 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             content = f.read()
 
         frontmatter_text, body = split_frontmatter(content)
-
         if frontmatter_text is None:
             continue
 
@@ -38,20 +46,32 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             "tx_id": metadata.get("tx_id", ""),
             "category": metadata.get("category", ""),
             "tags": metadata.get("tags", []) or [],
-            "keywords": metadata.get("keywords", []) or []
+            "keywords": metadata.get("keywords", []) or [],
+            "show_time": metadata.get("show_time", ""),
+            "date": parse_date(metadata.get("show_time", ""))
         })
 
 def score_related(a, b):
     if a["tx_id"] == b["tx_id"]:
-        return 0
+        return -1
 
     score = 0
 
     if a["category"] and a["category"] == b["category"]:
-        score += 3
+        score += 10
 
-    score += len(set(a["tags"]) & set(b["tags"])) * 2
-    score += len(set(a["keywords"]) & set(b["keywords"])) * 2
+    score += len(set(a["keywords"]) & set(b["keywords"])) * 5
+    score += len(set(a["tags"]) & set(b["tags"])) * 3
+
+    if a["date"] and b["date"]:
+        days = abs((a["date"] - b["date"]).days)
+
+        if days <= 3:
+            score += 5
+        elif days <= 14:
+            score += 3
+        elif days <= 60:
+            score += 1
 
     return score
 
@@ -69,12 +89,18 @@ for item in items:
 
     for other in items:
         score = score_related(item, other)
-        if score > 0:
-            scored.append((score, other["tx_id"]))
+        if score >= 0:
+            scored.append((score, other["show_time"], other["tx_id"]))
 
     scored.sort(reverse=True)
 
-    related_ids = [tx_id for score, tx_id in scored[:3]]
+    related_ids = []
+
+    for score, show_time, tx_id in scored:
+        if tx_id and tx_id not in related_ids:
+            related_ids.append(tx_id)
+        if len(related_ids) >= 3:
+            break
 
     if related_ids:
         metadata["related_ids"] = related_ids
