@@ -1,0 +1,7 @@
+{
+  "schema_name": "suxing_related_map",
+  "version": "1.0",
+  "description": "天訊文關聯知識圖譜。未來由 AI 與人工共同補全。",
+  "nodes": [],
+  "edges": []
+}
