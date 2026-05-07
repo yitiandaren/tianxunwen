@@ -61,24 +61,35 @@ frontmatter_pattern = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
 def split_frontmatter(content):
     match = frontmatter_pattern.match(content)
+
     if not match:
         return None, content
 
     frontmatter_text = match.group(1)
     body = content[match.end():]
+
     return frontmatter_text, body
 
 def is_empty(value):
-    return value is None or value == "" or value == []
+    return (
+        value is None
+        or value == ""
+        or value == []
+    )
 
 def generate_keywords(text):
+
     keywords = []
+
     for key, tag in KEYWORD_RULES.items():
+
         if key in text and tag not in keywords:
             keywords.append(tag)
-    return keywords[:5]
+
+    return keywords[:8]
 
 def generate_meta_description(text):
+
     text = re.sub(r"\s+", " ", text).strip()
     text = text.replace('"', "'")
 
@@ -90,7 +101,9 @@ def generate_meta_description(text):
 updated_count = 0
 
 for root, dirs, files in os.walk(ARCHIVE_DIR):
+
     for file in files:
+
         if not file.endswith(".md"):
             continue
 
@@ -105,31 +118,42 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             continue
 
         metadata = yaml.safe_load(frontmatter_text) or {}
-        updated = False
-current_keywords = metadata.get("keywords")
 
-if (
-    current_keywords is None
-    or current_keywords == ""
-    or current_keywords == []
-    or not isinstance(current_keywords, list)
-):
+        updated = False
+
+        current_keywords = metadata.get("keywords")
+
+        if (
+            current_keywords is None
+            or current_keywords == ""
+            or current_keywords == []
+            or not isinstance(current_keywords, list)
+        ):
+
             keywords = generate_keywords(body)
+
             if keywords:
                 metadata["keywords"] = keywords
                 updated = True
 
         if is_empty(metadata.get("meta_description")):
+
             desc = generate_meta_description(body)
+
             if desc:
                 metadata["meta_description"] = desc
                 updated = True
 
         if is_empty(metadata.get("open_question")):
-            metadata["open_question"] = random.choice(DEFAULT_QUESTIONS)
+
+            metadata["open_question"] = random.choice(
+                DEFAULT_QUESTIONS
+            )
+
             updated = True
 
         if updated:
+
             new_frontmatter = yaml.safe_dump(
                 metadata,
                 allow_unicode=True,
@@ -142,6 +166,9 @@ if (
                 f.write(new_content)
 
             updated_count += 1
+
             print(f"Updated: {path}")
 
-print(f"TX enrichment completed. Updated files: {updated_count}")
+print(
+    f"TX enrichment completed. Updated files: {updated_count}"
+)
