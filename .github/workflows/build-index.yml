@@ -30,6 +30,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Validate TX files
         run: python scripts/validate_tx.py
 
