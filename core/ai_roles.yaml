@@ -1,0 +1,70 @@
+schema_name: suxing_ai_roles
+version: "1.0"
+description: "素行 AI 中台之 AI 工具分工標準。"
+
+chatgpt:
+  role_name: "中央知識架構與內容總控"
+  primary_functions:
+    - "建立 schema、metadata、taxonomy、workflow"
+    - "生成天訊文整理層與索引層內容"
+    - "產出多平台文案與發布素材"
+    - "規劃 GitHub、Notion、AI retrieval 整合架構"
+    - "建立 GPTs、Projects、Prompt 與操作規格"
+  best_for:
+    - "知識工程"
+    - "多平台內容變體"
+    - "系統整合規劃"
+    - "GEO / LLM-friendly 結構"
+  not_best_for:
+    - "長期背景自動執行"
+    - "穩定 webhook 監聽"
+    - "大量檔案批次 push"
+
+claude:
+  role_name: "工程化與長文治理核心"
+  primary_functions:
+    - "撰寫 Python 腳本"
+    - "撰寫 GitHub Actions"
+    - "批次檔案重構"
+    - "長文件審閱與一致性檢查"
+    - "validator 與 automation 實作"
+  best_for:
+    - "長上下文"
+    - "大型程式碼"
+    - "repo 工程化"
+    - "SOP 與規格文件治理"
+
+gemini:
+  role_name: "Google 生態、YouTube 與 SEO 引擎"
+  primary_functions:
+    - "YouTube SEO"
+    - "Google 搜尋趨勢分析"
+    - "標題、縮圖、描述欄最佳化"
+    - "影音內容策略"
+    - "Veo 影片生成提示詞"
+  best_for:
+    - "YouTube"
+    - "Google SEO"
+    - "影音與多模態"
+    - "搜尋趨勢"
+
+manus:
+  role_name: "自動化執行與 API 串接代理"
+  primary_functions:
+    - "GitHub 寫入與 push"
+    - "Notion API 同步"
+    - "多步驟長流程執行"
+    - "自動化任務串接"
+    - "跨平台資料搬運"
+  best_for:
+    - "長流程自動化"
+    - "API 串接"
+    - "真正執行任務"
+    - "背景型 workflow"
+
+hard_rules:
+  - "ChatGPT 作為中央設計與內容總控，不作為長期背景執行器。"
+  - "GitHub 作為天訊文母本。"
+  - "Notion 作為管理介面，不作為原文母本。"
+  - "Manus 負責自動執行，但必須遵守 core schema。"
+  - "所有 AI 產出皆不得改寫天訊文原文。"
