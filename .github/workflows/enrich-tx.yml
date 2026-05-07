@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Enrich TX metadata
         run: python scripts/enrich_tx.py
 
@@ -35,4 +38,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: enrich TX metadata"
+          file_pattern: "archive/*.md data/tx_index.json data/metadata_audit.json"          commit_message: "auto: enrich TX metadata"
           file_pattern: "archive/*.md data/tx_index.json data/metadata_audit.json"
