@@ -1,0 +1,65 @@
+schema_name: suxing_workflow_master
+version: "1.0"
+description: "素行天訊文內容生命週期標準。GitHub、Notion、AI 任務與平台發布皆需使用同一套狀態。"
+
+statuses:
+  draft:
+    label: "草稿"
+    description: "尚未完成整理或尚未確認可入庫。"
+    public: false
+
+  review:
+    label: "審閱中"
+    description: "等待一天行或指定審核者確認。"
+    public: false
+
+  approved:
+    label: "已核准"
+    description: "已通過審核，可進入排程或發布。"
+    public: false
+
+  scheduled:
+    label: "已排程"
+    description: "已安排平台發布時間。"
+    public: false
+
+  published:
+    label: "已發布"
+    description: "已至少發布於一個公開平台。"
+    public: true
+
+  archived:
+    label: "已歸檔"
+    description: "不再主動發布，但保留作為典藏。"
+    public: true
+
+  hidden:
+    label: "隱藏"
+    description: "系統內保留，不公開上架。"
+    public: false
+
+transitions:
+  - from: draft
+    to: review
+  - from: review
+    to: approved
+  - from: approved
+    to: scheduled
+  - from: approved
+    to: published
+  - from: scheduled
+    to: published
+  - from: published
+    to: archived
+  - from: draft
+    to: hidden
+  - from: review
+    to: hidden
+  - from: approved
+    to: hidden
+
+hard_rules:
+  - "hidden 不得同步至公開平台。"
+  - "review 前不得生成正式平台發布文案。"
+  - "published 必須至少填入一個 published_platforms。"
+  - "所有狀態變更應保留 Git commit 紀錄。"
