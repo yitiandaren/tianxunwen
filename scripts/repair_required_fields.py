@@ -42,6 +42,13 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
                 metadata[key] = value
                 updated = True
 
+        if (
+            "published_platforms" not in metadata
+            or metadata["published_platforms"] in [None, "", []]
+        ):
+            metadata["published_platforms"] = ["GitHub"]
+            updated = True
+
         if updated:
             new_frontmatter = yaml.safe_dump(
                 metadata,
