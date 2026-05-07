@@ -106,8 +106,14 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
         metadata = yaml.safe_load(frontmatter_text) or {}
         updated = False
+current_keywords = metadata.get("keywords")
 
-        if is_empty(metadata.get("keywords")):
+if (
+    current_keywords is None
+    or current_keywords == ""
+    or current_keywords == []
+    or not isinstance(current_keywords, list)
+):
             keywords = generate_keywords(body)
             if keywords:
                 metadata["keywords"] = keywords
