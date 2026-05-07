@@ -1,0 +1,108 @@
+schema_name: suxing_tx_metadata_schema
+
+version: "2.0"
+
+description: >
+  天訊文 metadata 中央治理規格。
+  所有 archive/*.md 必須遵守此 schema。
+
+required_fields:
+
+  - tx_id
+  - subject
+  - show_time
+  - category
+  - publish_status
+  - license
+
+field_definitions:
+
+  tx_id:
+    type: string
+    pattern: "^TX-[0-9]{8}-[0-9]{3}$"
+    description: 天訊文唯一索引編號
+
+  subject:
+    type: string
+    description: 主題名稱
+
+  show_time:
+    type: string
+    description: 現出時間
+
+  category:
+    type: string
+    allowed_values:
+      - 本元覺醒
+      - 財富平衡
+      - 破與強・新時代
+      - 權力與真實
+      - 行動系統
+      - 素行心法
+      - 眾生與守地
+      - 短偈金句
+      - 素語三百
+
+  publish_status:
+    type: string
+    allowed_values:
+      - published
+      - draft
+      - internal
+      - restricted
+
+  license:
+    type: string
+    allowed_values:
+      - CC BY-ND 4.0
+
+  keywords:
+    type: list
+    description: AI/GEO 檢索關鍵字
+
+  meta_description:
+    type: string
+    max_length: 160
+
+  open_question:
+    type: string
+    description: 用於社群互動與 GEO engagement
+
+  related_ids:
+    type: list
+    description: 關聯天訊文 tx_id
+
+  editor_intro:
+    type: string
+    description: 編輯導讀
+
+  og_image:
+    type: string
+    description: 社群分享圖 URL
+
+  published_platforms:
+    type: list
+    description: 已發布平台
+
+ai_rules:
+
+  no_modify_original_text: true
+
+  metadata_can_be_ai_generated: true
+
+  human_review_required:
+    - editor_intro
+    - related_ids
+
+  auto_generation_allowed:
+    - keywords
+    - meta_description
+    - open_question
+
+governance:
+
+  owner: 一天行
+
+  repository: tianxunwen
+
+  canonical_branch: main
