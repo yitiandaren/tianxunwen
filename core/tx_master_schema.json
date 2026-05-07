@@ -1,0 +1,146 @@
+{
+  "schema_name": "suxing_tx_master_schema",
+  "version": "1.0",
+  "description": "一天大人 太素天尊・天訊文中央資料模型。作為 GitHub、Notion、JSON、搜尋、AI 檢索與多平台發布的共同母規格。",
+  "required_fields": [
+    "tx_id",
+    "subject",
+    "show_time",
+    "category",
+    "publish_status",
+    "visibility",
+    "license"
+  ],
+  "fields": {
+    "tx_id": {
+      "type": "string",
+      "format": "TX-YYYYMMDD-NNN",
+      "description": "天訊文唯一識別碼，必須與檔名一致。"
+    },
+    "old_id": {
+      "type": "string",
+      "description": "舊系統或網站舊 ID。"
+    },
+    "subject": {
+      "type": "string",
+      "description": "天訊文主題或標題。"
+    },
+    "source_author": {
+      "type": "string",
+      "default": "一天大人 太素天尊"
+    },
+    "source_type": {
+      "type": "string",
+      "allowed_values": [
+        "天訊文",
+        "開示",
+        "經典",
+        "咒語",
+        "素行文稿",
+        "其他"
+      ],
+      "default": "天訊文"
+    },
+    "show_time": {
+      "type": "datetime",
+      "format": "YYYY-MM-DDTHH:MM:SS",
+      "description": "現示時間，非發布時間。"
+    },
+    "publish_code": {
+      "type": "string",
+      "format": "YYYYMMDDHHMMSS"
+    },
+    "category": {
+      "type": "string",
+      "description": "主分類，需對齊 taxonomy_master.json。"
+    },
+    "tags": {
+      "type": "array",
+      "items": "string"
+    },
+    "keywords": {
+      "type": "array",
+      "items": "string",
+      "max_items": 5
+    },
+    "char_count": {
+      "type": "integer"
+    },
+    "reading_minutes": {
+      "type": "integer"
+    },
+    "editor_intro": {
+      "type": "string",
+      "description": "整理層編者引言，不得冒充原文。"
+    },
+    "open_question": {
+      "type": "string",
+      "description": "開放式結尾提問。"
+    },
+    "related_ids": {
+      "type": "array",
+      "items": "tx_id",
+      "description": "延伸閱讀 TX ID。"
+    },
+    "meta_description": {
+      "type": "string",
+      "max_length": 150
+    },
+    "og_image": {
+      "type": "url"
+    },
+    "url_slug": {
+      "type": "string",
+      "format": "tianxunwen-TX-YYYYMMDD-NNN"
+    },
+    "publish_status": {
+      "type": "string",
+      "allowed_values": [
+        "draft",
+        "review",
+        "approved",
+        "scheduled",
+        "published",
+        "archived",
+        "hidden"
+      ]
+    },
+    "published_platforms": {
+      "type": "array",
+      "items": "string"
+    },
+    "visibility": {
+      "type": "string",
+      "allowed_values": [
+        "public",
+        "internal",
+        "restricted",
+        "hidden"
+      ],
+      "default": "public"
+    },
+    "github_path": {
+      "type": "string"
+    },
+    "github_url": {
+      "type": "url"
+    },
+    "notion_page_id": {
+      "type": "string"
+    },
+    "canonical_url": {
+      "type": "url"
+    },
+    "license": {
+      "type": "string",
+      "default": "CC BY-ND 4.0"
+    }
+  },
+  "hard_rules": [
+    "天訊文原文不得改寫、刪節、潤飾。",
+    "所有應用層內容必須可回指 tx_id。",
+    "整理層、詮釋層不得冒充一天大人原意。",
+    "hidden 或 restricted 內容不得自動發布到公開平台。",
+    "tx_id 必須唯一。"
+  ]
+}
