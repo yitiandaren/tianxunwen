@@ -23,7 +23,11 @@ def split_frontmatter(content):
         return None, content
     return match.group(1), content[match.end():]
 
+def is_empty(value):
+    return value is None or value == "" or value == []
+
 updated_count = 0
+checked_count = 0
 
 for root, dirs, files in os.walk(ARCHIVE_DIR):
     for file in files:
@@ -40,23 +44,34 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
         if frontmatter_text is None:
             continue
 
+        checked_count += 1
+
         metadata = yaml.safe_load(frontmatter_text) or {}
         updated = False
 
-        if "content_status" not in metadata or metadata["content_status"] in [None, "", []]:
-            old_status = metadata.get("publish_status", "draft")
+        old_status = metadata.get("publish_status", "draft")
+
+        if is_empty(metadata.get("content_status")):
             metadata["content_status"] = STATUS_MAP.get(old_status, "structured")
             updated = True
 
-        if "visibility" not in metadata or metadata["visibility"] in [None, "", []]:
+        if is_empty(metadata.get("visibility")):
             if metadata.get("content_status") in ["published", "publish_ready"]:
                 metadata["visibility"] = "public"
-            elif metadata.get("content_status") in ["archived_internal"]:
+            elif metadata.get("content_status") == "archived_internal":
                 metadata["visibility"] = "internal"
-            elif metadata.get("content_status") in ["restricted"]:
+            elif metadata.get("content_status") == "restricted":
                 metadata["visibility"] = "restricted"
             else:
                 metadata["visibility"] = "internal"
+            updated = True
+
+        if is_empty(metadata.get("source_author")):
+            metadata["source_author"] = "一天大人 太素天尊"
+            updated = True
+
+        if is_empty(metadata.get("source_type")):
+            metadata["source_type"] = "天訊文"
             updated = True
 
         if updated:
@@ -74,4 +89,6 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             updated_count += 1
             print(f"Migrated governance v2: {path}")
 
-print(f"Governance v2 migration completed. Updated files: {updated_count}")
+print(f"Governance v2 migration completed.")
+print(f"Checked files: {checked_count}")
+print(f"Updated files: {updated_count}")
