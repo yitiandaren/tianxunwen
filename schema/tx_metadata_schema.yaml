@@ -1,109 +1,97 @@
-schema_name: suxing_tx_metadata_schema
-
 version: "2.0"
-
-description: >
-  天訊文 metadata 中央治理規格。
-  所有 archive/*.md 必須遵守此 schema。
 
 required_fields:
 
   - tx_id
   - subject
+  - source_author
+  - source_type
   - show_time
+
+  - content_status
+  - visibility
+
+  - keywords
+  - related_ids
+
+optional_fields:
+
+  - old_id
+  - publish_code
   - category
-  - publish_status
+  - tags
+
+  - editor_intro
+  - open_question
+  - meta_description
+
+  - semantic_cluster
+  - topic_family
+
+  - published_platforms
+  - og_image
+  - canonical_url
+
   - license
 
-field_definitions:
+allowed_content_status:
 
-  tx_id:
-    type: string
-    pattern: "^TX-[0-9]{8}-[0-9]{3}$"
-    description: 天訊文唯一索引編號
+  - raw
+  - processing
+  - structured
+  - reviewed
+  - publish_ready
+  - published
+  - archived_internal
+  - restricted
 
-  subject:
-    type: string
-    description: 主題名稱
+allowed_visibility:
 
-  show_time:
-    type: string
-    description: 現出時間
+  - public
+  - internal
+  - restricted
+  - private
 
-  category:
-    type: string
-    allowed_values:
-      - 本元覺醒
-      - 財富平衡
-      - 破與強・新時代
-      - 權力與真實
-      - 行動系統
-      - 素行心法
-      - 眾生與守地
-      - 短偈金句
-      - 素語三百
-  
-  publish_status:
-    type: string
-    allowed_values:
-      - published
-      - draft
-      - internal
-      - restricted
+required_array_fields:
 
+  - keywords
+  - related_ids
 
-  license:
-    type: string
-    allowed_values:
-      - CC BY-ND 4.0
+recommended_array_fields:
 
-  keywords:
-    type: list
-    description: AI/GEO 檢索關鍵字
+  - tags
+  - published_platforms
 
-  meta_description:
-    type: string
-    max_length: 160
+field_types:
 
-  open_question:
-    type: string
-    description: 用於社群互動與 GEO engagement
+  tx_id: string
+  subject: string
+  source_author: string
+  source_type: string
 
-  related_ids:
-    type: list
-    description: 關聯天訊文 tx_id
+  show_time: string
 
-  editor_intro:
-    type: string
-    description: 編輯導讀
+  content_status: string
+  visibility: string
 
-  og_image:
-    type: string
-    description: 社群分享圖 URL
+  category: string
 
-  published_platforms:
-    type: list
-    description: 已發布平台
+  keywords: list
+  related_ids: list
 
-ai_rules:
+  tags: list
+  published_platforms: list
 
-  no_modify_original_text: true
-
-  metadata_can_be_ai_generated: true
-
-  human_review_required:
-    - editor_intro
-    - related_ids
-
-  auto_generation_allowed:
-    - keywords
-    - meta_description
-    - open_question
+  meta_description: string
+  editor_intro: string
+  open_question: string
 
 governance:
 
-  owner: 一天行
+  original_text_editable: false
 
-  repository: tianxunwen
+  metadata_editable: true
 
-  canonical_branch: main
+  ai_embedding_allowed: true
+
+  ai_external_training_allowed: false
