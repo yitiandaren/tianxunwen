@@ -1,0 +1,69 @@
+{
+  "schema_name": "suxing_governance_schema",
+  "version": "1.0",
+  "description": "素行 Human-AI Cowork Governance Schema",
+  "fields": [
+    {
+      "notion_name": "可見權限",
+      "yaml_key": "visibility",
+      "type": "select",
+      "definition": "決定內容是否允許公開接觸",
+      "options": {
+        "公開": "public",
+        "內部": "internal",
+        "限制": "restricted"
+      }
+    },
+    {
+      "notion_name": "適用對象",
+      "yaml_key": "audience",
+      "type": "multi_select",
+      "definition": "適合閱讀與理解的對象",
+      "options": {
+        "一般公開": "general_public",
+        "素行者": "suxing_member",
+        "醒者": "awakener",
+        "覺者": "enlightened",
+        "龍天護法": "dragon_guardian",
+        "指定人士": "designated_person",
+        "特定角色": "special_role"
+      }
+    },
+    {
+      "notion_name": "原文權限",
+      "yaml_key": "canonical_exposure",
+      "type": "select",
+      "definition": "決定原文是否允許公開顯示與引用",
+      "options": {
+        "可公開原文": "public_original",
+        "不可公開原文": "no_public_original",
+        "僅內部原文": "internal_original_only"
+      }
+    },
+    {
+      "notion_name": "AI使用權限",
+      "yaml_key": "ai_policy",
+      "type": "multi_select",
+      "definition": "決定 AI 可如何理解與使用內容",
+      "options": {
+        "公開AI": "allow_public_ai",
+        "內部AI": "allow_internal_ai",
+        "內部語意理解": "allow_internal_semantic",
+        "公開向量": "allow_public_embedding",
+        "內部向量": "allow_internal_embedding",
+        "禁止外部AI": "deny_external_ai"
+      }
+    },
+    {
+      "notion_name": "典藏狀態",
+      "yaml_key": "archive_status",
+      "type": "select",
+      "definition": "決定內容目前的典藏與發布狀態",
+      "options": {
+        "已發布": "published",
+        "內部典藏": "internal_archived",
+        "限制典藏": "restricted_archived"
+      }
+    }
+  ]
+}
