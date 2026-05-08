@@ -1,0 +1,102 @@
+version: "1.0"
+
+embedding_runtime:
+
+  provider: openai
+
+  model: text-embedding-3-large
+
+  dimensions: 3072
+
+  output_format: float
+
+# =========================================
+# Chunk Policy
+# =========================================
+
+chunk_policy:
+
+  enabled: false
+
+  strategy: full_document
+
+# =========================================
+# Visibility Policy
+# =========================================
+
+visibility_policy:
+
+  public_allowed:
+    - public
+
+  restricted_blocked:
+    - restricted
+    - private
+
+# =========================================
+# Content Status Policy
+# =========================================
+
+content_status_policy:
+
+  allowed:
+    - publish_ready
+    - published
+    - structured
+    - reviewed
+
+  blocked:
+    - archived_internal
+    - restricted
+
+# =========================================
+# Embedding Cache Policy
+# =========================================
+
+cache_policy:
+
+  enabled: true
+
+  use_embedding_hash: true
+
+# =========================================
+# Vector Database Targets
+# =========================================
+
+vector_targets:
+
+  primary:
+    type: qdrant
+
+  secondary:
+    type: chroma
+
+# =========================================
+# Export Policy
+# =========================================
+
+export_policy:
+
+  vector_jsonl: true
+
+  public_index_export: true
+
+  internal_index_export: true
+
+# =========================================
+# Future Runtime
+# =========================================
+
+future_runtime:
+
+  local_embedding_model:
+    planned: true
+
+  hybrid_search:
+    planned: true
+
+  reranking:
+    planned: true
+
+  multi_vector:
+    planned: true
