@@ -31,6 +31,8 @@ headers = {
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
 
+items = data.get("items", [])
+
 # =========================================
 # QUERY EXISTING PAGES
 # =========================================
@@ -75,9 +77,14 @@ for row in result.get("results", []):
 created = 0
 updated = 0
 
-for tx_id, item in data.items():
+for item in items:
 
     if not isinstance(item, dict):
+        continue
+
+    tx_id = item.get("tx_id", "")
+
+    if not tx_id:
         continue
 
     subject = item.get("subject", "")
