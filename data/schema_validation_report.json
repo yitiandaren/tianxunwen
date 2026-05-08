@@ -1,0 +1,73 @@
+{
+  "schema_name": "suxing_schema_validation_report",
+  "version": "1.0",
+  "checked_fields": [
+    "可見權限",
+    "適用對象",
+    "原文權限",
+    "AI使用權限",
+    "典藏狀態"
+  ],
+  "error_count": 5,
+  "warning_count": 3,
+  "errors": [
+    {
+      "field": "適用對象",
+      "issue": "missing_notion_field",
+      "message": "Notion 缺少欄位：適用對象"
+    },
+    {
+      "field": "原文權限",
+      "issue": "missing_option",
+      "option": "僅內部原文",
+      "message": "原文權限 缺少選項：僅內部原文"
+    },
+    {
+      "field": "AI使用權限",
+      "issue": "missing_option",
+      "option": "公開AI",
+      "message": "AI使用權限 缺少選項：公開AI"
+    },
+    {
+      "field": "AI使用權限",
+      "issue": "missing_option",
+      "option": "內部AI",
+      "message": "AI使用權限 缺少選項：內部AI"
+    },
+    {
+      "field": "典藏狀態",
+      "issue": "missing_option",
+      "option": "已發布",
+      "message": "典藏狀態 缺少選項：已發布"
+    }
+  ],
+  "warnings": [
+    {
+      "field": "原文權限",
+      "issue": "extra_options",
+      "options": [
+        "原文僅內部使用"
+      ],
+      "message": "原文權限 有未登記選項"
+    },
+    {
+      "field": "AI使用權限",
+      "issue": "extra_options",
+      "options": [
+        "全面開放",
+        "公開GPT",
+        "內部GPT"
+      ],
+      "message": "AI使用權限 有未登記選項"
+    },
+    {
+      "field": "典藏狀態",
+      "issue": "extra_options",
+      "options": [
+        "已發佈",
+        "可發佈"
+      ],
+      "message": "典藏狀態 有未登記選項"
+    }
+  ]
+}
