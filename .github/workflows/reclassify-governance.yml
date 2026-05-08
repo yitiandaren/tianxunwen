@@ -1,0 +1,46 @@
+name: Reclassify Governance
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reclassify-governance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Reclassify governance
+        run: python scripts/reclassify_visibility_and_status.py
+
+      - name: Validate TX files
+        run: python scripts/validate_tx.py
+
+      - name: Build tx_index.json
+        run: python scripts/build_index.py
+
+      - name: Build public_tx_index.json
+        run: python scripts/filter_public_index.py
+
+      - name: Export vector documents
+        run: python scripts/export_vector_documents.py
+
+      - name: Audit metadata
+        run: python scripts/audit_metadata.py
+
+      - name: Commit governance reclassification
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: auto reclassify governance
