@@ -10,9 +10,11 @@ if not os.path.exists(INPUT_FILE):
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
 
+items = data.get("items", [])
+
 public_items = []
 
-for item in data:
+for item in items:
 
     visibility = item.get("visibility", "")
     content_status = item.get("content_status", "")
@@ -67,7 +69,9 @@ for item in data:
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(
-        public_items,
+        {
+            "items": public_items
+        },
         f,
         ensure_ascii=False,
         indent=2
