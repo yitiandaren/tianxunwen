@@ -1,0 +1,1375 @@
+{
+  "database_id": "e4719781349347cfa1262a3aff867558",
+  "database_title": "素行・天訊文典藏",
+  "property_count": 24,
+  "properties": [
+    {
+      "name": "AI使用權限",
+      "id": "zlpb",
+      "type": "multi_select",
+      "options": [
+        {
+          "name": "全面開放",
+          "color": "yellow"
+        },
+        {
+          "name": "公開GPT",
+          "color": "green"
+        },
+        {
+          "name": "內部GPT",
+          "color": "red"
+        },
+        {
+          "name": "內部語意理解",
+          "color": "purple"
+        },
+        {
+          "name": "公開向量",
+          "color": "blue"
+        },
+        {
+          "name": "內部向量",
+          "color": "gray"
+        },
+        {
+          "name": "禁止外部AI",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "name": "TX-ID",
+      "id": "%5EDo%5D",
+      "type": "rich_text"
+    },
+    {
+      "name": "主題",
+      "id": "title",
+      "type": "title"
+    },
+    {
+      "name": "來源標注",
+      "id": "%5Ek%5EY",
+      "type": "rich_text"
+    },
+    {
+      "name": "內部備註",
+      "id": "RRcx",
+      "type": "rich_text"
+    },
+    {
+      "name": "典藏狀態",
+      "id": "CfCy",
+      "type": "select",
+      "options": [
+        {
+          "name": "已發佈",
+          "color": "green"
+        },
+        {
+          "name": "內部典藏",
+          "color": "blue"
+        },
+        {
+          "name": "限制典藏",
+          "color": "yellow"
+        },
+        {
+          "name": "可發佈",
+          "color": "brown"
+        }
+      ]
+    },
+    {
+      "name": "分類",
+      "id": "%3B%5DEs",
+      "type": "select",
+      "options": [
+        {
+          "name": "破與強・新時代",
+          "color": "red"
+        },
+        {
+          "name": "本元覺醒",
+          "color": "orange"
+        },
+        {
+          "name": "素行心法",
+          "color": "yellow"
+        },
+        {
+          "name": "素語三百",
+          "color": "brown"
+        },
+        {
+          "name": "權力與真實",
+          "color": "purple"
+        },
+        {
+          "name": "行動系統",
+          "color": "blue"
+        },
+        {
+          "name": "財富平衡",
+          "color": "green"
+        },
+        {
+          "name": "眾生與守地",
+          "color": "pink"
+        },
+        {
+          "name": "短偈金句",
+          "color": "gray"
+        },
+        {
+          "name": "天訊文",
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "name": "原文權限",
+      "id": "c%60B%7B",
+      "type": "select",
+      "options": [
+        {
+          "name": "可公開原文",
+          "color": "yellow"
+        },
+        {
+          "name": "不可公開原文",
+          "color": "brown"
+        },
+        {
+          "name": "原文僅內部使用",
+          "color": "pink"
+        }
+      ]
+    },
+    {
+      "name": "可見權限",
+      "id": "MX%3BH",
+      "type": "select",
+      "options": [
+        {
+          "name": "公開",
+          "color": "green"
+        },
+        {
+          "name": "內部",
+          "color": "yellow"
+        },
+        {
+          "name": "限制",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "name": "字數",
+      "id": "%40%7CxH",
+      "type": "number"
+    },
+    {
+      "name": "已發布平台",
+      "id": "b%3Bbb",
+      "type": "multi_select",
+      "options": [
+        {
+          "name": "官網",
+          "color": "red"
+        },
+        {
+          "name": "GitHub",
+          "color": "gray"
+        },
+        {
+          "name": "Notion",
+          "color": "default"
+        },
+        {
+          "name": "Medium",
+          "color": "green"
+        },
+        {
+          "name": "Matters",
+          "color": "blue"
+        },
+        {
+          "name": "Facebook",
+          "color": "purple"
+        },
+        {
+          "name": "YouTube",
+          "color": "red"
+        },
+        {
+          "name": "Telegram",
+          "color": "blue"
+        },
+        {
+          "name": "Substack",
+          "color": "orange"
+        },
+        {
+          "name": "Mastodon",
+          "color": "purple"
+        },
+        {
+          "name": "WordPress",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "name": "摘要",
+      "id": "Gha%3D",
+      "type": "rich_text"
+    },
+    {
+      "name": "標籤",
+      "id": "%3FOzQ",
+      "type": "multi_select",
+      "options": [
+        {
+          "name": "修行",
+          "color": "orange"
+        },
+        {
+          "name": "智慧",
+          "color": "yellow"
+        },
+        {
+          "name": "行動",
+          "color": "blue"
+        },
+        {
+          "name": "能量",
+          "color": "green"
+        },
+        {
+          "name": "財富",
+          "color": "green"
+        },
+        {
+          "name": "靜定",
+          "color": "blue"
+        },
+        {
+          "name": "簡單",
+          "color": "yellow"
+        },
+        {
+          "name": "觀心",
+          "color": "purple"
+        },
+        {
+          "name": "順隨",
+          "color": "pink"
+        },
+        {
+          "name": "本元",
+          "color": "purple"
+        },
+        {
+          "name": "素行",
+          "color": "red"
+        },
+        {
+          "name": "心法",
+          "color": "orange"
+        },
+        {
+          "name": "人性",
+          "color": "brown"
+        },
+        {
+          "name": "權力",
+          "color": "red"
+        },
+        {
+          "name": "真實",
+          "color": "gray"
+        },
+        {
+          "name": "覺醒",
+          "color": "purple"
+        },
+        {
+          "name": "日常",
+          "color": "gray"
+        },
+        {
+          "name": "系統",
+          "color": "blue"
+        },
+        {
+          "name": "財富平衡",
+          "color": "green"
+        },
+        {
+          "name": "時代",
+          "color": "red"
+        },
+        {
+          "name": "宇宙",
+          "color": "purple"
+        },
+        {
+          "name": "眾生",
+          "color": "pink"
+        },
+        {
+          "name": "守地",
+          "color": "green"
+        },
+        {
+          "name": "感恩",
+          "color": "pink"
+        },
+        {
+          "name": "AI時代",
+          "color": "red"
+        },
+        {
+          "name": "勢局",
+          "color": "brown"
+        },
+        {
+          "name": "受持",
+          "color": "orange"
+        },
+        {
+          "name": "向前看",
+          "color": "blue"
+        },
+        {
+          "name": "和平",
+          "color": "green"
+        },
+        {
+          "name": "天印",
+          "color": "red"
+        },
+        {
+          "name": "太素",
+          "color": "purple"
+        },
+        {
+          "name": "政道",
+          "color": "brown"
+        },
+        {
+          "name": "真話",
+          "color": "gray"
+        },
+        {
+          "name": "知足",
+          "color": "yellow"
+        },
+        {
+          "name": "破己",
+          "color": "red"
+        },
+        {
+          "name": "破與強",
+          "color": "red"
+        },
+        {
+          "name": "立場",
+          "color": "gray"
+        },
+        {
+          "name": "簡素",
+          "color": "yellow"
+        },
+        {
+          "name": "結果",
+          "color": "blue"
+        },
+        {
+          "name": "經",
+          "color": "brown"
+        },
+        {
+          "name": "行",
+          "color": "blue"
+        },
+        {
+          "name": "覺照",
+          "color": "purple"
+        },
+        {
+          "name": "退藏",
+          "color": "orange"
+        },
+        {
+          "name": "過程",
+          "color": "blue"
+        },
+        {
+          "name": "道",
+          "color": "orange"
+        },
+        {
+          "name": "API測試",
+          "color": "default"
+        },
+        {
+          "name": "Notion中台",
+          "color": "green"
+        },
+        {
+          "name": "行動系統",
+          "color": "brown"
+        },
+        {
+          "name": "清明",
+          "color": "pink"
+        },
+        {
+          "name": "歷史",
+          "color": "purple"
+        },
+        {
+          "name": "群體",
+          "color": "green"
+        },
+        {
+          "name": "規則",
+          "color": "green"
+        },
+        {
+          "name": "平衡",
+          "color": "gray"
+        },
+        {
+          "name": "御世",
+          "color": "blue"
+        },
+        {
+          "name": "自在",
+          "color": "orange"
+        },
+        {
+          "name": "能源",
+          "color": "yellow"
+        },
+        {
+          "name": "生命能量",
+          "color": "brown"
+        },
+        {
+          "name": "共振",
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "name": "現示時間",
+      "id": "N%3A%3Et",
+      "type": "date"
+    },
+    {
+      "name": "發布狀態",
+      "id": "%60bbB",
+      "type": "select",
+      "options": [
+        {
+          "name": "已發布",
+          "color": "green"
+        },
+        {
+          "name": "草稿",
+          "color": "gray"
+        },
+        {
+          "name": "隱藏",
+          "color": "red"
+        },
+        {
+          "name": "待審",
+          "color": "yellow"
+        },
+        {
+          "name": "待整理",
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "name": "系列名稱",
+      "id": "%60%3DNy",
+      "type": "rich_text"
+    },
+    {
+      "name": "系列序",
+      "id": "Npmb",
+      "type": "number"
+    },
+    {
+      "name": "系列總數",
+      "id": "oYjF",
+      "type": "number"
+    },
+    {
+      "name": "編者引言",
+      "id": "CIHZ",
+      "type": "rich_text"
+    },
+    {
+      "name": "補述對應主篇",
+      "id": "~%3CwY",
+      "type": "rich_text"
+    },
+    {
+      "name": "適用對像",
+      "id": "ftJu",
+      "type": "multi_select",
+      "options": [
+        {
+          "name": "全面開放",
+          "color": "green"
+        },
+        {
+          "name": "素行者",
+          "color": "blue"
+        },
+        {
+          "name": "醒者",
+          "color": "gray"
+        },
+        {
+          "name": "覺者",
+          "color": "yellow"
+        },
+        {
+          "name": "龍天護法",
+          "color": "pink"
+        },
+        {
+          "name": "指定人士",
+          "color": "default"
+        },
+        {
+          "name": "特定角色",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "name": "開放提問",
+      "id": "%5DvH%3B",
+      "type": "rich_text"
+    },
+    {
+      "name": "閱讀分鐘",
+      "id": "Ufcb",
+      "type": "number"
+    },
+    {
+      "name": "關鍵字",
+      "id": "ADOw",
+      "type": "multi_select",
+      "options": [
+        {
+          "name": "素行",
+          "color": "green"
+        },
+        {
+          "name": "知識庫",
+          "color": "purple"
+        },
+        {
+          "name": "苦難",
+          "color": "gray"
+        },
+        {
+          "name": "接受",
+          "color": "orange"
+        },
+        {
+          "name": "能量轉化",
+          "color": "blue"
+        },
+        {
+          "name": "穩定",
+          "color": "red"
+        },
+        {
+          "name": "真實",
+          "color": "default"
+        },
+        {
+          "name": "隨機",
+          "color": "brown"
+        },
+        {
+          "name": "無定數",
+          "color": "yellow"
+        },
+        {
+          "name": "能量",
+          "color": "pink"
+        },
+        {
+          "name": "AI時代",
+          "color": "yellow"
+        },
+        {
+          "name": "如實而行",
+          "color": "gray"
+        },
+        {
+          "name": "元素人生",
+          "color": "blue"
+        },
+        {
+          "name": "五形平衡",
+          "color": "purple"
+        },
+        {
+          "name": "修行實證",
+          "color": "green"
+        },
+        {
+          "name": "財富平衡",
+          "color": "default"
+        },
+        {
+          "name": "AI世代",
+          "color": "blue"
+        },
+        {
+          "name": "制度",
+          "color": "orange"
+        },
+        {
+          "name": "政權",
+          "color": "blue"
+        },
+        {
+          "name": "中國",
+          "color": "gray"
+        },
+        {
+          "name": "文明",
+          "color": "green"
+        },
+        {
+          "name": "眾生",
+          "color": "red"
+        },
+        {
+          "name": "人類共同體",
+          "color": "gray"
+        },
+        {
+          "name": "AI文明",
+          "color": "blue"
+        },
+        {
+          "name": "外相",
+          "color": "green"
+        },
+        {
+          "name": "生命",
+          "color": "gray"
+        },
+        {
+          "name": "合一",
+          "color": "brown"
+        },
+        {
+          "name": "力量",
+          "color": "pink"
+        },
+        {
+          "name": "自在",
+          "color": "green"
+        },
+        {
+          "name": "愛",
+          "color": "gray"
+        },
+        {
+          "name": "恨",
+          "color": "gray"
+        },
+        {
+          "name": "生活",
+          "color": "default"
+        },
+        {
+          "name": "愛恨",
+          "color": "purple"
+        },
+        {
+          "name": "情緒",
+          "color": "default"
+        },
+        {
+          "name": "清明",
+          "color": "purple"
+        },
+        {
+          "name": "AI",
+          "color": "purple"
+        },
+        {
+          "name": "不可替代",
+          "color": "pink"
+        },
+        {
+          "name": "自覺",
+          "color": "purple"
+        },
+        {
+          "name": "意識",
+          "color": "red"
+        },
+        {
+          "name": "神話",
+          "color": "yellow"
+        },
+        {
+          "name": "欲望",
+          "color": "yellow"
+        },
+        {
+          "name": "投影",
+          "color": "yellow"
+        },
+        {
+          "name": "心理需求",
+          "color": "purple"
+        },
+        {
+          "name": "需求",
+          "color": "default"
+        },
+        {
+          "name": "形狀",
+          "color": "orange"
+        },
+        {
+          "name": "人心",
+          "color": "purple"
+        },
+        {
+          "name": "現實",
+          "color": "yellow"
+        },
+        {
+          "name": "天堂",
+          "color": "yellow"
+        },
+        {
+          "name": "逃避",
+          "color": "green"
+        },
+        {
+          "name": "未來信仰",
+          "color": "default"
+        },
+        {
+          "name": "內在覺知",
+          "color": "default"
+        },
+        {
+          "name": "無常",
+          "color": "purple"
+        },
+        {
+          "name": "精神支柱",
+          "color": "orange"
+        },
+        {
+          "name": "地球共同體",
+          "color": "green"
+        },
+        {
+          "name": "不確定性",
+          "color": "brown"
+        },
+        {
+          "name": "小年夜",
+          "color": "purple"
+        },
+        {
+          "name": "誓願",
+          "color": "yellow"
+        },
+        {
+          "name": "醒者",
+          "color": "pink"
+        },
+        {
+          "name": "覺醒",
+          "color": "default"
+        },
+        {
+          "name": "能量巨變",
+          "color": "orange"
+        },
+        {
+          "name": "心性轉換",
+          "color": "red"
+        },
+        {
+          "name": "AI革命",
+          "color": "pink"
+        },
+        {
+          "name": "注意力自主",
+          "color": "pink"
+        },
+        {
+          "name": "素行醒者",
+          "color": "default"
+        },
+        {
+          "name": "能量顯化",
+          "color": "yellow"
+        },
+        {
+          "name": "行慧音覺空真利醒安樂",
+          "color": "yellow"
+        },
+        {
+          "name": "一天行",
+          "color": "yellow"
+        },
+        {
+          "name": "一天慧",
+          "color": "brown"
+        },
+        {
+          "name": "一天音",
+          "color": "gray"
+        },
+        {
+          "name": "一天覺",
+          "color": "pink"
+        },
+        {
+          "name": "醒者能量",
+          "color": "pink"
+        },
+        {
+          "name": "生基",
+          "color": "gray"
+        },
+        {
+          "name": "安命",
+          "color": "gray"
+        },
+        {
+          "name": "本命連結物",
+          "color": "green"
+        },
+        {
+          "name": "符牌",
+          "color": "brown"
+        },
+        {
+          "name": "天印",
+          "color": "pink"
+        },
+        {
+          "name": "安行",
+          "color": "purple"
+        },
+        {
+          "name": "太初園",
+          "color": "brown"
+        },
+        {
+          "name": "世界",
+          "color": "default"
+        },
+        {
+          "name": "思想",
+          "color": "blue"
+        },
+        {
+          "name": "破和強",
+          "color": "blue"
+        },
+        {
+          "name": "時代轉換",
+          "color": "gray"
+        },
+        {
+          "name": "真強",
+          "color": "brown"
+        },
+        {
+          "name": "本性",
+          "color": "orange"
+        },
+        {
+          "name": "觀破行",
+          "color": "green"
+        },
+        {
+          "name": "止耗行",
+          "color": "green"
+        },
+        {
+          "name": "定心行",
+          "color": "yellow"
+        },
+        {
+          "name": "自立行",
+          "color": "brown"
+        },
+        {
+          "name": "知識",
+          "color": "default"
+        },
+        {
+          "name": "引路人",
+          "color": "brown"
+        },
+        {
+          "name": "導航",
+          "color": "blue"
+        },
+        {
+          "name": "進化",
+          "color": "default"
+        },
+        {
+          "name": "騙局",
+          "color": "orange"
+        },
+        {
+          "name": "群體",
+          "color": "purple"
+        },
+        {
+          "name": "操控",
+          "color": "orange"
+        },
+        {
+          "name": "說服",
+          "color": "green"
+        },
+        {
+          "name": "共識",
+          "color": "gray"
+        },
+        {
+          "name": "多數",
+          "color": "pink"
+        },
+        {
+          "name": "歷史",
+          "color": "red"
+        },
+        {
+          "name": "錯誤",
+          "color": "pink"
+        },
+        {
+          "name": "操作",
+          "color": "default"
+        },
+        {
+          "name": "大家",
+          "color": "blue"
+        },
+        {
+          "name": "真理",
+          "color": "pink"
+        },
+        {
+          "name": "恐懼",
+          "color": "purple"
+        },
+        {
+          "name": "異聲",
+          "color": "yellow"
+        },
+        {
+          "name": "話語權",
+          "color": "yellow"
+        },
+        {
+          "name": "控制",
+          "color": "red"
+        },
+        {
+          "name": "安全感",
+          "color": "pink"
+        },
+        {
+          "name": "真相",
+          "color": "brown"
+        },
+        {
+          "name": "創造群體",
+          "color": "orange"
+        },
+        {
+          "name": "利用",
+          "color": "red"
+        },
+        {
+          "name": "任務",
+          "color": "brown"
+        },
+        {
+          "name": "方向",
+          "color": "blue"
+        },
+        {
+          "name": "規則",
+          "color": "default"
+        },
+        {
+          "name": "清醒",
+          "color": "yellow"
+        },
+        {
+          "name": "拖走",
+          "color": "pink"
+        },
+        {
+          "name": "公平",
+          "color": "blue"
+        },
+        {
+          "name": "清醒者",
+          "color": "yellow"
+        },
+        {
+          "name": "迷者",
+          "color": "default"
+        },
+        {
+          "name": "生命延續",
+          "color": "green"
+        },
+        {
+          "name": "人生",
+          "color": "gray"
+        },
+        {
+          "name": "節奏",
+          "color": "brown"
+        },
+        {
+          "name": "路上",
+          "color": "green"
+        },
+        {
+          "name": "三愛",
+          "color": "orange"
+        },
+        {
+          "name": "自在文明",
+          "color": "blue"
+        },
+        {
+          "name": "核心教義",
+          "color": "red"
+        },
+        {
+          "name": "具足",
+          "color": "yellow"
+        },
+        {
+          "name": "生命目的",
+          "color": "gray"
+        },
+        {
+          "name": "完整",
+          "color": "default"
+        },
+        {
+          "name": "圓滿",
+          "color": "gray"
+        },
+        {
+          "name": "醒來",
+          "color": "red"
+        },
+        {
+          "name": "修行",
+          "color": "purple"
+        },
+        {
+          "name": "遮蔽",
+          "color": "red"
+        },
+        {
+          "name": "本心",
+          "color": "gray"
+        },
+        {
+          "name": "迷失",
+          "color": "gray"
+        },
+        {
+          "name": "本然",
+          "color": "orange"
+        },
+        {
+          "name": "價值",
+          "color": "green"
+        },
+        {
+          "name": "證明",
+          "color": "yellow"
+        },
+        {
+          "name": "本來",
+          "color": "green"
+        },
+        {
+          "name": "尋回",
+          "color": "gray"
+        },
+        {
+          "name": "痛苦",
+          "color": "brown"
+        },
+        {
+          "name": "意義",
+          "color": "gray"
+        },
+        {
+          "name": "方式",
+          "color": "green"
+        },
+        {
+          "name": "語言",
+          "color": "yellow"
+        },
+        {
+          "name": "心靈",
+          "color": "pink"
+        },
+        {
+          "name": "御世",
+          "color": "brown"
+        },
+        {
+          "name": "管理",
+          "color": "default"
+        },
+        {
+          "name": "層次",
+          "color": "purple"
+        },
+        {
+          "name": "治理",
+          "color": "orange"
+        },
+        {
+          "name": "御世卷",
+          "color": "yellow"
+        },
+        {
+          "name": "識人",
+          "color": "default"
+        },
+        {
+          "name": "念",
+          "color": "yellow"
+        },
+        {
+          "name": "無住",
+          "color": "brown"
+        },
+        {
+          "name": "風",
+          "color": "pink"
+        },
+        {
+          "name": "海",
+          "color": "orange"
+        },
+        {
+          "name": "自由",
+          "color": "red"
+        },
+        {
+          "name": "解脫",
+          "color": "orange"
+        },
+        {
+          "name": "萬念",
+          "color": "gray"
+        },
+        {
+          "name": "未來之心",
+          "color": "orange"
+        },
+        {
+          "name": "樂觀",
+          "color": "gray"
+        },
+        {
+          "name": "自我革命",
+          "color": "purple"
+        },
+        {
+          "name": "生命能量",
+          "color": "pink"
+        },
+        {
+          "name": "文明轉折",
+          "color": "green"
+        },
+        {
+          "name": "洗牌",
+          "color": "default"
+        },
+        {
+          "name": "無上",
+          "color": "gray"
+        },
+        {
+          "name": "比較",
+          "color": "brown"
+        },
+        {
+          "name": "境界",
+          "color": "purple"
+        },
+        {
+          "name": "人味",
+          "color": "blue"
+        },
+        {
+          "name": "道",
+          "color": "red"
+        },
+        {
+          "name": "本真",
+          "color": "brown"
+        },
+        {
+          "name": "平視",
+          "color": "default"
+        },
+        {
+          "name": "智慧",
+          "color": "pink"
+        },
+        {
+          "name": "分辨",
+          "color": "brown"
+        },
+        {
+          "name": "照見",
+          "color": "brown"
+        },
+        {
+          "name": "生命尊嚴",
+          "color": "brown"
+        },
+        {
+          "name": "本位",
+          "color": "yellow"
+        },
+        {
+          "name": "AI泡沫",
+          "color": "red"
+        },
+        {
+          "name": "能源文明",
+          "color": "default"
+        },
+        {
+          "name": "算力",
+          "color": "brown"
+        },
+        {
+          "name": "天意",
+          "color": "orange"
+        },
+        {
+          "name": "靜覺",
+          "color": "green"
+        },
+        {
+          "name": "真醒",
+          "color": "green"
+        },
+        {
+          "name": "存在",
+          "color": "brown"
+        },
+        {
+          "name": "可能",
+          "color": "green"
+        },
+        {
+          "name": "已知",
+          "color": "green"
+        },
+        {
+          "name": "否決",
+          "color": "red"
+        },
+        {
+          "name": "開悟",
+          "color": "green"
+        },
+        {
+          "name": "如如不動",
+          "color": "gray"
+        },
+        {
+          "name": "放下",
+          "color": "blue"
+        },
+        {
+          "name": "本來如此",
+          "color": "red"
+        },
+        {
+          "name": "天地",
+          "color": "brown"
+        },
+        {
+          "name": "真心",
+          "color": "pink"
+        },
+        {
+          "name": "太清",
+          "color": "default"
+        },
+        {
+          "name": "陰陽",
+          "color": "brown"
+        },
+        {
+          "name": "無門",
+          "color": "orange"
+        },
+        {
+          "name": "音",
+          "color": "orange"
+        },
+        {
+          "name": "振動",
+          "color": "gray"
+        },
+        {
+          "name": "共振",
+          "color": "green"
+        },
+        {
+          "name": "和平",
+          "color": "brown"
+        }
+      ]
+    }
+  ]
+}
