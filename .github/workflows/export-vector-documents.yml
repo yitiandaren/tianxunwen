@@ -1,0 +1,26 @@
+name: Export Vector Documents
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export-vector-documents:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build tx_index.json
+        run: python scripts/build_index.py
+
+      - name: Export vector documents
+        run: python scripts/export_vector_documents.py
+
+      - name: Commit vector documents
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: auto export vector documents
