@@ -82,6 +82,10 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             "meta_description": metadata.get("meta_description", ""),
             "file_name": file,
             "github_path": path
+            "content_status": metadata.get("content_status", ""),
+            "visibility": metadata.get("visibility", ""),
+            "topic_family": metadata.get("topic_family", ""),
+            "semantic_cluster": metadata.get("semantic_cluster", []),
         }
 
         tx_items.append(tx_item)
