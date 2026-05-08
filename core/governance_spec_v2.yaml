@@ -1,0 +1,162 @@
+version: "2.0"
+
+system_name: "Tianxunwen Knowledge Governance System"
+
+description: >
+  天訊文 AI-native 知識治理規格。
+  定義內容生命週期、權限、AI使用範圍、
+  發布治理與知識層級。
+
+# =========================================
+# Content Lifecycle
+# =========================================
+
+content_status:
+
+  raw:
+    description: "原始資料，尚未整理"
+    ai_access: false
+    public_access: false
+
+  processing:
+    description: "正在補 metadata 與結構化"
+    ai_access: true
+    public_access: false
+
+  structured:
+    description: "已完成 schema 化"
+    ai_access: true
+    public_access: false
+
+  reviewed:
+    description: "已人工審核"
+    ai_access: true
+    public_access: false
+
+  publish_ready:
+    description: "允許公開發布"
+    ai_access: true
+    public_access: true
+
+  published:
+    description: "已正式公開"
+    ai_access: true
+    public_access: true
+
+  archived_internal:
+    description: "內部典藏"
+    ai_access: restricted
+    public_access: false
+
+  restricted:
+    description: "限制級內容"
+    ai_access: restricted
+    public_access: false
+
+# =========================================
+# Visibility Layer
+# =========================================
+
+visibility:
+
+  public:
+    description: "完全公開"
+
+  internal:
+    description: "內部使用"
+
+  restricted:
+    description: "限制級"
+
+  private:
+    description: "私人內容"
+
+# =========================================
+# AI Usage Policy
+# =========================================
+
+ai_policy:
+
+  allow_embedding: true
+
+  allow_rag: true
+
+  allow_external_ai: false
+
+  allow_public_gpt: false
+
+  allow_internal_gpt: true
+
+# =========================================
+# Publishing Policy
+# =========================================
+
+publishing_policy:
+
+  github_archive:
+    enabled: true
+
+  notion_sync:
+    enabled: true
+
+  website_publish:
+    enabled: future
+
+  youtube_distribution:
+    enabled: future
+
+# =========================================
+# Metadata Layers
+# =========================================
+
+metadata_layers:
+
+  core_metadata:
+    - tx_id
+    - subject
+    - show_time
+    - content_status
+    - visibility
+    - keywords
+    - related_ids
+
+  semantic_metadata:
+    - keywords
+    - related_ids
+    - meta_description
+    - semantic_cluster
+
+  publishing_metadata:
+    - published_platforms
+    - og_image
+    - canonical_url
+
+# =========================================
+# Source Governance
+# =========================================
+
+source_governance:
+
+  original_text_editable: false
+
+  metadata_editable: true
+
+  source_trace_required: true
+
+  versioning_required: true
+
+# =========================================
+# Future Extensions
+# =========================================
+
+future_extensions:
+
+  vector_database: planned
+
+  semantic_graph: planned
+
+  ai_agent_system: planned
+
+  timeline_intelligence: planned
+
+  concept_mapping: planned
