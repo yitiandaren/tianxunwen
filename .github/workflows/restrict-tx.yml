@@ -1,0 +1,48 @@
+name: Restrict TX
+
+on:
+  workflow_dispatch:
+    inputs:
+      tx_id:
+        description: "TX ID to restrict"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  restrict-tx:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Restrict TX
+        run: |
+          python scripts/restrict_tx.py "${{ github.event.inputs.tx_id }}"
+
+      - name: Build tx_index.json
+        run: python scripts/build_index.py
+
+      - name: Build public_tx_index.json
+        run: python scripts/filter_public_index.py
+
+      - name: Export vector documents
+        run: python scripts/export_vector_documents.py
+
+      - name: Audit metadata
+        run: python scripts/audit_metadata.py
+
+      - name: Commit restriction
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: auto restrict tx
