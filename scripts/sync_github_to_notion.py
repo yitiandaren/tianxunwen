@@ -54,13 +54,16 @@ for row in result.get("results", []):
 
     if "TX-ID" in props:
 
-        tx_id = props["TX-ID"].get(
+        rich_text = props["TX-ID"].get(
             "rich_text",
             []
         )
 
-        if tx_id:
-            tx_id = tx_id[0]["plain_text"]
+        if rich_text:
+            tx_id = rich_text[0].get(
+                "plain_text",
+                ""
+            )
 
     if tx_id:
         existing_pages[tx_id] = row["id"]
@@ -72,11 +75,9 @@ for row in result.get("results", []):
 created = 0
 updated = 0
 
-for item in data:
+for tx_id, item in data.items():
 
-    tx_id = item.get("tx_id", "")
-
-    if not tx_id:
+    if not isinstance(item, dict):
         continue
 
     subject = item.get("subject", "")
@@ -85,11 +86,6 @@ for item in data:
 
     summary = item.get(
         "meta_description",
-        ""
-    )
-
-    github_path = item.get(
-        "github_path",
         ""
     )
 
