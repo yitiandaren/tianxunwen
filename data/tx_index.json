@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-05-08T04:12:31.461571",
+  "generated_at": "2026-05-08T04:18:34.374989",
   "source": "archive/*.md",
   "total_count": 177,
   "items": [
@@ -31,7 +31,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260104-001 2026全球宣言 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260104-001.md",
-      "github_path": "archive/TX-20260104-001.md"
+      "github_path": "archive/TX-20260104-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260104-002",
@@ -59,7 +63,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260104-002 警世語～文明將走向去宗教化信仰 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260104-002.md",
-      "github_path": "archive/TX-20260104-002.md"
+      "github_path": "archive/TX-20260104-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260104-003",
@@ -87,7 +95,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260104-003 我非來立教，亦非來毀教 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260104-003.md",
-      "github_path": "archive/TX-20260104-003.md"
+      "github_path": "archive/TX-20260104-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260104-004",
@@ -113,7 +125,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260104-004 覺者最後都被宗教化——文明對覺醒的必然誤讀 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260104-004.md",
-      "github_path": "archive/TX-20260104-004.md"
+      "github_path": "archive/TX-20260104-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260104-005",
@@ -139,7 +155,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260104-005 宗教終將退場的歷史必然 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260104-005.md",
-      "github_path": "archive/TX-20260104-005.md"
+      "github_path": "archive/TX-20260104-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260106-001",
@@ -166,7 +186,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260106-001 金牌之義・銀牌之義 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260106-001.md",
-      "github_path": "archive/TX-20260106-001.md"
+      "github_path": "archive/TX-20260106-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260106-002",
@@ -191,7 +215,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260106-002 無名覺者的歷史定位說明 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260106-002.md",
-      "github_path": "archive/TX-20260106-002.md"
+      "github_path": "archive/TX-20260106-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260106-003",
@@ -218,7 +246,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260106-003 2026素行能量轉換・太素化生宣言 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260106-003.md",
-      "github_path": "archive/TX-20260106-003.md"
+      "github_path": "archive/TX-20260106-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260107-001",
@@ -246,7 +278,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260107-001 2026能量巨變・當貨幣失效，文明開始改用能量計算 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260107-001.md",
-      "github_path": "archive/TX-20260107-001.md"
+      "github_path": "archive/TX-20260107-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260107-002",
@@ -273,7 +309,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260107-002 2026能量及AI劇變的世代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260107-002.md",
-      "github_path": "archive/TX-20260107-002.md"
+      "github_path": "archive/TX-20260107-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260107-003",
@@ -300,7 +340,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260107-003 2026巨變必起・人類從未擁有替文明編列預算的權力 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260107-003.md",
-      "github_path": "archive/TX-20260107-003.md"
+      "github_path": "archive/TX-20260107-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260111-001",
@@ -329,7 +373,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260111-001｜AI時代真正進化的是狀態｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260111-001.md",
-      "github_path": "archive/TX-20260111-001.md"
+      "github_path": "archive/TX-20260111-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260112-001",
@@ -358,7 +406,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260112-001｜AI時代真正門檻｜能量平衡應用｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260112-001.md",
-      "github_path": "archive/TX-20260112-001.md"
+      "github_path": "archive/TX-20260112-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260121-001",
@@ -387,7 +439,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260121-001｜國家治理｜未來存續系統｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260121-001.md",
-      "github_path": "archive/TX-20260121-001.md"
+      "github_path": "archive/TX-20260121-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260121-002",
@@ -414,7 +470,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260121-002｜自在與無分｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260121-002.md",
-      "github_path": "archive/TX-20260121-002.md"
+      "github_path": "archive/TX-20260121-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260121-003",
@@ -441,7 +501,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260121-003｜管理核心原則｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260121-003.md",
-      "github_path": "archive/TX-20260121-003.md"
+      "github_path": "archive/TX-20260121-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260121-004",
@@ -470,7 +534,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260121-004｜素行自律章｜能量不失控之道｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260121-004.md",
-      "github_path": "archive/TX-20260121-004.md"
+      "github_path": "archive/TX-20260121-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260122-001",
@@ -499,7 +567,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260122-001｜醒者尊重｜分身定位｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260122-001.md",
-      "github_path": "archive/TX-20260122-001.md"
+      "github_path": "archive/TX-20260122-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260122-002",
@@ -528,7 +600,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260122-002｜莫為一人疑素行｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260122-002.md",
-      "github_path": "archive/TX-20260122-002.md"
+      "github_path": "archive/TX-20260122-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260123-001",
@@ -557,7 +633,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260123-001｜太素財神咒｜名稱請示｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260123-001.md",
-      "github_path": "archive/TX-20260123-001.md"
+      "github_path": "archive/TX-20260123-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260127-004",
@@ -586,7 +666,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260127-004｜人類無知與AI風險｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260127-004.md",
-      "github_path": "archive/TX-20260127-004.md"
+      "github_path": "archive/TX-20260127-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260127-005",
@@ -615,7 +699,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260127-005｜世界改變時不失去自己｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260127-005.md",
-      "github_path": "archive/TX-20260127-005.md"
+      "github_path": "archive/TX-20260127-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260128-001",
@@ -644,7 +732,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260128-001｜一天大人AI時代宣言｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260128-001.md",
-      "github_path": "archive/TX-20260128-001.md"
+      "github_path": "archive/TX-20260128-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260129-001",
@@ -673,7 +765,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260129-001｜元德金君｜AI世代財富守衡｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260129-001.md",
-      "github_path": "archive/TX-20260129-001.md"
+      "github_path": "archive/TX-20260129-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-001",
@@ -698,7 +794,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-001｜時間完成其事｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-001.md",
-      "github_path": "archive/TX-20260130-001.md"
+      "github_path": "archive/TX-20260130-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-002",
@@ -723,7 +823,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-002｜不要太早判定結局｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-002.md",
-      "github_path": "archive/TX-20260130-002.md"
+      "github_path": "archive/TX-20260130-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-003",
@@ -748,7 +852,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-003｜陪世界走到變好｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-003.md",
-      "github_path": "archive/TX-20260130-003.md"
+      "github_path": "archive/TX-20260130-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-004",
@@ -773,7 +881,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-004｜未好之前不退出｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-004.md",
-      "github_path": "archive/TX-20260130-004.md"
+      "github_path": "archive/TX-20260130-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-005",
@@ -798,7 +910,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-005｜最後還沒到｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-005.md",
-      "github_path": "archive/TX-20260130-005.md"
+      "github_path": "archive/TX-20260130-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-006",
@@ -825,7 +941,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-006｜現在只是過程中｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-006.md",
-      "github_path": "archive/TX-20260130-006.md"
+      "github_path": "archive/TX-20260130-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-007",
@@ -852,7 +972,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-007｜未明，只因未到｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-007.md",
-      "github_path": "archive/TX-20260130-007.md"
+      "github_path": "archive/TX-20260130-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-008",
@@ -877,7 +1001,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-008｜痛苦不是定論｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-008.md",
-      "github_path": "archive/TX-20260130-008.md"
+      "github_path": "archive/TX-20260130-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260130-009",
@@ -902,7 +1030,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260130-009｜世界改變時不崩潰｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260130-009.md",
-      "github_path": "archive/TX-20260130-009.md"
+      "github_path": "archive/TX-20260130-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260202-002",
@@ -927,7 +1059,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260202-002｜先行者的孤獨與堅定｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260202-002.md",
-      "github_path": "archive/TX-20260202-002.md"
+      "github_path": "archive/TX-20260202-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260202-003",
@@ -952,7 +1088,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260202-003｜堅定的先行者｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260202-003.md",
-      "github_path": "archive/TX-20260202-003.md"
+      "github_path": "archive/TX-20260202-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260202-004",
@@ -977,7 +1117,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260202-004｜靠清醒前進｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260202-004.md",
-      "github_path": "archive/TX-20260202-004.md"
+      "github_path": "archive/TX-20260202-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260202-005",
@@ -1002,7 +1146,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260202-005｜方向不因一人動搖｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260202-005.md",
-      "github_path": "archive/TX-20260202-005.md"
+      "github_path": "archive/TX-20260202-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260202-006",
@@ -1027,7 +1175,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260202-006｜初心莫疑｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260202-006.md",
-      "github_path": "archive/TX-20260202-006.md"
+      "github_path": "archive/TX-20260202-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260203-002",
@@ -1052,7 +1204,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260203-002｜素行任務｜轉換不壞掉｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260203-002.md",
-      "github_path": "archive/TX-20260203-002.md"
+      "github_path": "archive/TX-20260203-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260203-003",
@@ -1077,7 +1233,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260203-003｜行於世而不屬世｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260203-003.md",
-      "github_path": "archive/TX-20260203-003.md"
+      "github_path": "archive/TX-20260203-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260203-004",
@@ -1102,7 +1262,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260203-004｜失去者｜心住昨天｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260203-004.md",
-      "github_path": "archive/TX-20260203-004.md"
+      "github_path": "archive/TX-20260203-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260204-001",
@@ -1131,7 +1295,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260204-001｜素行七日能量餐｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260204-001.md",
-      "github_path": "archive/TX-20260204-001.md"
+      "github_path": "archive/TX-20260204-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260206-001",
@@ -1160,7 +1328,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260206-001｜地球共同之家｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260206-001.md",
-      "github_path": "archive/TX-20260206-001.md"
+      "github_path": "archive/TX-20260206-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260206-002",
@@ -1187,7 +1359,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260206-002｜好好愛地球｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260206-002.md",
-      "github_path": "archive/TX-20260206-002.md"
+      "github_path": "archive/TX-20260206-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260207-001",
@@ -1216,7 +1392,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260207-001｜修行真實｜自在使用這個人｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260207-001.md",
-      "github_path": "archive/TX-20260207-001.md"
+      "github_path": "archive/TX-20260207-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260207-004",
@@ -1241,7 +1421,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260207-004｜帶著答案找答案｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260207-004.md",
-      "github_path": "archive/TX-20260207-004.md"
+      "github_path": "archive/TX-20260207-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260209-002",
@@ -1268,7 +1452,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260209-002｜未來信仰不依附｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260209-002.md",
-      "github_path": "archive/TX-20260209-002.md"
+      "github_path": "archive/TX-20260209-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260214-005",
@@ -1293,7 +1481,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260214-005｜神話是人的需求｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260214-005.md",
-      "github_path": "archive/TX-20260214-005.md"
+      "github_path": "archive/TX-20260214-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260214-006",
@@ -1318,7 +1510,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260214-006｜天堂與現實｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260214-006.md",
-      "github_path": "archive/TX-20260214-006.md"
+      "github_path": "archive/TX-20260214-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260215-001",
@@ -1347,7 +1543,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260215-001｜素行醒者小年夜誓願｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260215-001.md",
-      "github_path": "archive/TX-20260215-001.md"
+      "github_path": "archive/TX-20260215-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260216-001",
@@ -1376,7 +1576,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260216-001｜2026能量巨變與人類心性轉換｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260216-001.md",
-      "github_path": "archive/TX-20260216-001.md"
+      "github_path": "archive/TX-20260216-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260217-001",
@@ -1405,7 +1609,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260217-001｜素行醒者能量顯化｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260217-001.md",
-      "github_path": "archive/TX-20260217-001.md"
+      "github_path": "archive/TX-20260217-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260218-001",
@@ -1434,7 +1642,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260218-001｜2026祂釋憲醒者能量｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260218-001.md",
-      "github_path": "archive/TX-20260218-001.md"
+      "github_path": "archive/TX-20260218-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260220-001",
@@ -1463,7 +1675,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260220-001｜素行生基安命咒｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260220-001.md",
-      "github_path": "archive/TX-20260220-001.md"
+      "github_path": "archive/TX-20260220-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260220-002",
@@ -1492,7 +1708,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260220-002｜生基安命符牌設計文｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260220-002.md",
-      "github_path": "archive/TX-20260220-002.md"
+      "github_path": "archive/TX-20260220-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260220-003",
@@ -1521,7 +1741,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260220-003｜太初園｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260220-003.md",
-      "github_path": "archive/TX-20260220-003.md"
+      "github_path": "archive/TX-20260220-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260222-001",
@@ -1550,7 +1774,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260222-001｜2026破和強｜時代轉換之素行｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260222-001.md",
-      "github_path": "archive/TX-20260222-001.md"
+      "github_path": "archive/TX-20260222-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260222-002",
@@ -1579,7 +1807,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260222-002｜破和強十行法｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260222-002.md",
-      "github_path": "archive/TX-20260222-002.md"
+      "github_path": "archive/TX-20260222-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-001",
@@ -1608,7 +1840,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-001｜AI時代引路人金句｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-001.md",
-      "github_path": "archive/TX-20260225-001.md"
+      "github_path": "archive/TX-20260225-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-002",
@@ -1637,7 +1873,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-002｜AI世代引路人宣言｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-002.md",
-      "github_path": "archive/TX-20260225-002.md"
+      "github_path": "archive/TX-20260225-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-003",
@@ -1666,7 +1906,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-003｜AI時代真正進化｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-003.md",
-      "github_path": "archive/TX-20260225-003.md"
+      "github_path": "archive/TX-20260225-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-004",
@@ -1687,7 +1931,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-004｜最可怕的不是騙子，而是被騙後還去說服別人的人｜一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260225-004.md",
-      "github_path": "archive/TX-20260225-004.md"
+      "github_path": "archive/TX-20260225-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-005",
@@ -1708,7 +1956,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-005｜所謂「大家都這樣」，常常只是被製造出來的｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260225-005.md",
-      "github_path": "archive/TX-20260225-005.md"
+      "github_path": "archive/TX-20260225-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-006",
@@ -1729,7 +1981,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-006｜歷史上最錯的事，幾乎都曾是「大家都這樣」｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260225-006.md",
-      "github_path": "archive/TX-20260225-006.md"
+      "github_path": "archive/TX-20260225-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-007",
@@ -1750,7 +2006,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-007｜太素護法一天行如何操作大家，而不成為大家｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260225-007.md",
-      "github_path": "archive/TX-20260225-007.md"
+      "github_path": "archive/TX-20260225-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-008",
@@ -1771,7 +2031,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-008｜多數只能證明恐懼一致，不能證明真理存在。｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260225-008.md",
-      "github_path": "archive/TX-20260225-008.md"
+      "github_path": "archive/TX-20260225-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-009",
@@ -1792,7 +2056,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-009｜當所有人都說一樣的話，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260225-009.md",
-      "github_path": "archive/TX-20260225-009.md"
+      "github_path": "archive/TX-20260225-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-010",
@@ -1813,7 +2081,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-010｜群體可以提供安全，不能提供真相。｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260225-010.md",
-      "github_path": "archive/TX-20260225-010.md"
+      "github_path": "archive/TX-20260225-010.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-011",
@@ -1834,7 +2106,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-011｜透過利用大家，創造大家，達成祂的任務｜一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260225-011.md",
-      "github_path": "archive/TX-20260225-011.md"
+      "github_path": "archive/TX-20260225-011.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-012",
@@ -1857,7 +2133,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-012｜多數不是方向，清明才是方向｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260225-012.md",
-      "github_path": "archive/TX-20260225-012.md"
+      "github_path": "archive/TX-20260225-012.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-013",
@@ -1880,7 +2160,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-013｜清明創造多數人遵循的規則｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260225-013.md",
-      "github_path": "archive/TX-20260225-013.md"
+      "github_path": "archive/TX-20260225-013.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-014",
@@ -1903,7 +2187,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-014｜看清世界而不被拖走｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-014.md",
-      "github_path": "archive/TX-20260225-014.md"
+      "github_path": "archive/TX-20260225-014.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-015",
@@ -1926,7 +2214,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-015｜不爭公平，也不製造不公；｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260225-015.md",
-      "github_path": "archive/TX-20260225-015.md"
+      "github_path": "archive/TX-20260225-015.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-016",
@@ -1955,7 +2247,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-016｜若真為眾生好，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-016.md",
-      "github_path": "archive/TX-20260225-016.md"
+      "github_path": "archive/TX-20260225-016.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-017",
@@ -1976,7 +2272,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-017｜有人疾行，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-017.md",
-      "github_path": "archive/TX-20260225-017.md"
+      "github_path": "archive/TX-20260225-017.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-018",
@@ -2005,7 +2305,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-018｜素行信仰核心教義｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-018.md",
-      "github_path": "archive/TX-20260225-018.md"
+      "github_path": "archive/TX-20260225-018.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-019",
@@ -2026,7 +2330,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-019｜本自具足，而覺醒才是今生唯一的目的。｜一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260225-019.md",
-      "github_path": "archive/TX-20260225-019.md"
+      "github_path": "archive/TX-20260225-019.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-020",
@@ -2047,7 +2355,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-020｜你本來就是完整的，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-020.md",
-      "github_path": "archive/TX-20260225-020.md"
+      "github_path": "archive/TX-20260225-020.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-021",
@@ -2070,7 +2382,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-021｜人不是來「成為什麼」，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260225-021.md",
-      "github_path": "archive/TX-20260225-021.md"
+      "github_path": "archive/TX-20260225-021.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-022",
@@ -2091,7 +2407,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-022｜人生不是從匱乏走向圓滿，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260225-022.md",
-      "github_path": "archive/TX-20260225-022.md"
+      "github_path": "archive/TX-20260225-022.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-023",
@@ -2112,7 +2432,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-023｜人來到世間，｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260225-023.md",
-      "github_path": "archive/TX-20260225-023.md"
+      "github_path": "archive/TX-20260225-023.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-024",
@@ -2133,7 +2457,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-024｜眾生奔走萬途，不過尋回本心一事。｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260225-024.md",
-      "github_path": "archive/TX-20260225-024.md"
+      "github_path": "archive/TX-20260225-024.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225-025",
@@ -2154,7 +2482,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260225-025｜人之所以痛苦，那是因為沒能賦予痛苦意義！｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260225-025.md",
-      "github_path": "archive/TX-20260225-025.md"
+      "github_path": "archive/TX-20260225-025.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-001",
@@ -2175,7 +2507,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-001｜在人間，同一種方式，不能對所有人有效；｜一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260228-001.md",
-      "github_path": "archive/TX-20260228-001.md"
+      "github_path": "archive/TX-20260228-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-002",
@@ -2204,7 +2540,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-002｜一天大人・御世篇｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260228-002.md",
-      "github_path": "archive/TX-20260228-002.md"
+      "github_path": "archive/TX-20260228-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-003",
@@ -2233,7 +2573,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-003｜素行・御世卷｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260228-003.md",
-      "github_path": "archive/TX-20260228-003.md"
+      "github_path": "archive/TX-20260228-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-004",
@@ -2254,7 +2598,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-004｜一天大人曰：念起非病，住念為病。｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260228-004.md",
-      "github_path": "archive/TX-20260228-004.md"
+      "github_path": "archive/TX-20260228-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-005",
@@ -2275,7 +2623,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-005｜念起如風，心空如海；｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260228-005.md",
-      "github_path": "archive/TX-20260228-005.md"
+      "github_path": "archive/TX-20260228-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-006",
@@ -2296,7 +2648,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-006｜念起無住，步步自由｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260228-006.md",
-      "github_path": "archive/TX-20260228-006.md"
+      "github_path": "archive/TX-20260228-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260228-007",
@@ -2325,7 +2681,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260228-007｜未來之心篇｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260228-007.md",
-      "github_path": "archive/TX-20260228-007.md"
+      "github_path": "archive/TX-20260228-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-001",
@@ -2354,7 +2714,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-001｜AI時代｜自我革命｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-001.md",
-      "github_path": "archive/TX-20260310-001.md"
+      "github_path": "archive/TX-20260310-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-002",
@@ -2383,7 +2747,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-002｜無上初義｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-002.md",
-      "github_path": "archive/TX-20260310-002.md"
+      "github_path": "archive/TX-20260310-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-003",
@@ -2404,7 +2772,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-003｜若失人味，道已偏。｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-003.md",
-      "github_path": "archive/TX-20260310-003.md"
+      "github_path": "archive/TX-20260310-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-004",
@@ -2429,7 +2801,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-004｜無上非登非至高，一念比較道已拋；若能平視萬生命，心即無上｜一天大人 太素天尊 ##",
       "file_name": "TX-20260310-004.md",
-      "github_path": "archive/TX-20260310-004.md"
+      "github_path": "archive/TX-20260310-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-005",
@@ -2452,7 +2828,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-005｜無上之心所呈現的智慧，是：｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260310-005.md",
-      "github_path": "archive/TX-20260310-005.md"
+      "github_path": "archive/TX-20260310-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-006",
@@ -2477,7 +2857,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-006｜你是否仍以：｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-006.md",
-      "github_path": "archive/TX-20260310-006.md"
+      "github_path": "archive/TX-20260310-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-007",
@@ -2506,7 +2890,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-007｜泡沫｜時代必然｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-007.md",
-      "github_path": "archive/TX-20260310-007.md"
+      "github_path": "archive/TX-20260310-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-008",
@@ -2535,7 +2923,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-008｜AI泡沫與能源文明｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260310-008.md",
-      "github_path": "archive/TX-20260310-008.md"
+      "github_path": "archive/TX-20260310-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260310-009",
@@ -2556,7 +2948,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260310-009｜去人意，得天意，自在行，萬事平！靜覺真醒｜一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260310-009.md",
-      "github_path": "archive/TX-20260310-009.md"
+      "github_path": "archive/TX-20260310-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260311-001",
@@ -2577,7 +2973,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260311-001｜人類最悲哀的就是，用那些後來看見、聽見、知道的一切，來否｜一天大人 太素天尊 ##",
       "file_name": "TX-20260311-001.md",
-      "github_path": "archive/TX-20260311-001.md"
+      "github_path": "archive/TX-20260311-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260311-002",
@@ -2606,7 +3006,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260311-002｜判斷落後｜存在先行｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260311-002.md",
-      "github_path": "archive/TX-20260311-002.md"
+      "github_path": "archive/TX-20260311-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260314-001",
@@ -2635,7 +3039,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260314-001｜開悟｜如如不動｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260314-001.md",
-      "github_path": "archive/TX-20260314-001.md"
+      "github_path": "archive/TX-20260314-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260314-002",
@@ -2664,7 +3072,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260314-002｜修行｜回到最初｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260314-002.md",
-      "github_path": "archive/TX-20260314-002.md"
+      "github_path": "archive/TX-20260314-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260316-001",
@@ -2693,7 +3105,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260316-001｜天地無言道自明｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260316-001.md",
-      "github_path": "archive/TX-20260316-001.md"
+      "github_path": "archive/TX-20260316-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260317-001",
@@ -2722,7 +3138,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260317-001｜天訊應機｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260317-001.md",
-      "github_path": "archive/TX-20260317-001.md"
+      "github_path": "archive/TX-20260317-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-001",
@@ -2749,7 +3169,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-001｜生命（音）能量而偉大｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260318-001.md",
-      "github_path": "archive/TX-20260318-001.md"
+      "github_path": "archive/TX-20260318-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-002",
@@ -2778,7 +3202,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-002｜音者非聲｜生命能量｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260318-002.md",
-      "github_path": "archive/TX-20260318-002.md"
+      "github_path": "archive/TX-20260318-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-003",
@@ -2807,7 +3235,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-003｜用音喚醒人心，用能量連結世界，用共振創造和平！｜一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260318-003.md",
-      "github_path": "archive/TX-20260318-003.md"
+      "github_path": "archive/TX-20260318-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-004",
@@ -2834,7 +3266,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-004｜新觀世音｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260318-004.md",
-      "github_path": "archive/TX-20260318-004.md"
+      "github_path": "archive/TX-20260318-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-005",
@@ -2855,7 +3291,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-005｜「你，有多久沒聽見自己？」｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260318-005.md",
-      "github_path": "archive/TX-20260318-005.md"
+      "github_path": "archive/TX-20260318-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-006",
@@ -2882,7 +3322,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-006｜讓我們再一次聽見，世界的聲音；｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260318-006.md",
-      "github_path": "archive/TX-20260318-006.md"
+      "github_path": "archive/TX-20260318-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-007",
@@ -2907,7 +3351,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-007｜這世界缺的不是聲音，而是被聽見！｜一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260318-007.md",
-      "github_path": "archive/TX-20260318-007.md"
+      "github_path": "archive/TX-20260318-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-008",
@@ -2934,7 +3382,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-008｜讓我們再一次聽見，世界的聲音，那不只是喧囂，而是萬物振動｜一天大人 太素天尊 ##",
       "file_name": "TX-20260318-008.md",
-      "github_path": "archive/TX-20260318-008.md"
+      "github_path": "archive/TX-20260318-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-009",
@@ -2963,7 +3415,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-009｜新觀世音｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260318-009.md",
-      "github_path": "archive/TX-20260318-009.md"
+      "github_path": "archive/TX-20260318-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260318-010",
@@ -2992,7 +3448,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260318-010｜愛與和平｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260318-010.md",
-      "github_path": "archive/TX-20260318-010.md"
+      "github_path": "archive/TX-20260318-010.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-001",
@@ -3013,7 +3473,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-001｜發展總是有個過程，他如何與自己無關，唯有自己能正確的選擇｜一天大人 太素天尊 ##",
       "file_name": "TX-20260322-001.md",
-      "github_path": "archive/TX-20260322-001.md"
+      "github_path": "archive/TX-20260322-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-002",
@@ -3042,7 +3506,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-002｜一天大人・局勢觀照｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260322-002.md",
-      "github_path": "archive/TX-20260322-002.md"
+      "github_path": "archive/TX-20260322-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-003",
@@ -3063,7 +3531,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-003｜靜定，簡單，觀心，順隨⋯⋯心鏡虛影，無需反射｜一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260322-003.md",
-      "github_path": "archive/TX-20260322-003.md"
+      "github_path": "archive/TX-20260322-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-004",
@@ -3086,7 +3558,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-004｜真正能翻局的人，不是在低谷時反擊的人，｜一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260322-004.md",
-      "github_path": "archive/TX-20260322-004.md"
+      "github_path": "archive/TX-20260322-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-005",
@@ -3115,7 +3591,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-005｜隨世而行，不隨世轉｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260322-005.md",
-      "github_path": "archive/TX-20260322-005.md"
+      "github_path": "archive/TX-20260322-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260322-006",
@@ -3144,7 +3624,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260322-006｜用世界來活｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260322-006.md",
-      "github_path": "archive/TX-20260322-006.md"
+      "github_path": "archive/TX-20260322-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260326-001",
@@ -3173,7 +3657,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260326-001｜相處｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260326-001.md",
-      "github_path": "archive/TX-20260326-001.md"
+      "github_path": "archive/TX-20260326-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260326-002",
@@ -3196,7 +3684,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260326-002｜歌名就叫相處｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260326-002.md",
-      "github_path": "archive/TX-20260326-002.md"
+      "github_path": "archive/TX-20260326-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260326-003",
@@ -3219,7 +3711,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260326-003｜這就是人生～相處｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260326-003.md",
-      "github_path": "archive/TX-20260326-003.md"
+      "github_path": "archive/TX-20260326-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260326-004",
@@ -3248,7 +3744,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260326-004｜公平｜人心的期望形狀｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260326-004.md",
-      "github_path": "archive/TX-20260326-004.md"
+      "github_path": "archive/TX-20260326-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260326-005",
@@ -3277,7 +3777,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260326-005｜不再需要公平，才真正自由｜一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260326-005.md",
-      "github_path": "archive/TX-20260326-005.md"
+      "github_path": "archive/TX-20260326-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260327-001",
@@ -3297,7 +3801,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260327-001 希望人間有光 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260327-001.md",
-      "github_path": "archive/TX-20260327-001.md"
+      "github_path": "archive/TX-20260327-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260328-001",
@@ -3324,7 +3832,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260328-001 人常以為，退，是失去 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260328-001.md",
-      "github_path": "archive/TX-20260328-001.md"
+      "github_path": "archive/TX-20260328-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260401-001",
@@ -3347,7 +3859,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260401-001 很多人以為自己在追求結果—— 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260401-001.md",
-      "github_path": "archive/TX-20260401-001.md"
+      "github_path": "archive/TX-20260401-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-001",
@@ -3373,7 +3889,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-001 人之所以停在原地，不是因為沒有能力前進，而是因為… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260404-001.md",
-      "github_path": "archive/TX-20260404-001.md"
+      "github_path": "archive/TX-20260404-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-002",
@@ -3395,7 +3915,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-002 過不完的過去，到不了的未來，不存在的現在 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260404-002.md",
-      "github_path": "archive/TX-20260404-002.md"
+      "github_path": "archive/TX-20260404-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-003",
@@ -3423,7 +3947,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-003 素語三百 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260404-003.md",
-      "github_path": "archive/TX-20260404-003.md"
+      "github_path": "archive/TX-20260404-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-004",
@@ -3446,7 +3974,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-004 破，不是讓你倒下，而是讓你不用再靠外物站立 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260404-004.md",
-      "github_path": "archive/TX-20260404-004.md"
+      "github_path": "archive/TX-20260404-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-005",
@@ -3472,7 +4004,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-005 只會做事的人，解決的是眼前 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260404-005.md",
-      "github_path": "archive/TX-20260404-005.md"
+      "github_path": "archive/TX-20260404-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-006",
@@ -3493,7 +4029,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-006 在AI時代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260404-006.md",
-      "github_path": "archive/TX-20260404-006.md"
+      "github_path": "archive/TX-20260404-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-007",
@@ -3513,7 +4053,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-007 大事，不是做出來的，是看見之後，被帶動出來的 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260404-007.md",
-      "github_path": "archive/TX-20260404-007.md"
+      "github_path": "archive/TX-20260404-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-008",
@@ -3538,7 +4082,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-008 打破「努力＝成功」的錯覺 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260404-008.md",
-      "github_path": "archive/TX-20260404-008.md"
+      "github_path": "archive/TX-20260404-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-009",
@@ -3559,7 +4107,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-009 大事非成於能，乃成於見 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260404-009.md",
-      "github_path": "archive/TX-20260404-009.md"
+      "github_path": "archive/TX-20260404-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260404-010",
@@ -3586,7 +4138,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260404-010 素行之道，不在多法，唯此十句，已足行世 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260404-010.md",
-      "github_path": "archive/TX-20260404-010.md"
+      "github_path": "archive/TX-20260404-010.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260408-001",
@@ -3611,7 +4167,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260408-001 天地同源，萬生一息 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260408-001.md",
-      "github_path": "archive/TX-20260408-001.md"
+      "github_path": "archive/TX-20260408-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260408-002",
@@ -3636,7 +4196,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260408-002 2026年，不再是延續過去的年份，而是人類被迫重… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260408-002.md",
-      "github_path": "archive/TX-20260408-002.md"
+      "github_path": "archive/TX-20260408-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260408-003",
@@ -3661,7 +4225,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260408-003 2026 破與強・財富時代宣言 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260408-003.md",
-      "github_path": "archive/TX-20260408-003.md"
+      "github_path": "archive/TX-20260408-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260412-001",
@@ -3685,7 +4253,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260412-001 知而不行，知如虛影 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260412-001.md",
-      "github_path": "archive/TX-20260412-001.md"
+      "github_path": "archive/TX-20260412-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260412-002",
@@ -3709,7 +4281,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260412-002 行動與結果系統 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260412-002.md",
-      "github_path": "archive/TX-20260412-002.md"
+      "github_path": "archive/TX-20260412-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414-001",
@@ -3733,7 +4309,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260414-001 角度、真話與權力 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-001.md",
-      "github_path": "archive/TX-20260414-001.md"
+      "github_path": "archive/TX-20260414-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414-002",
@@ -3755,7 +4335,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260414-002 角度之界，真言之門 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-002.md",
-      "github_path": "archive/TX-20260414-002.md"
+      "github_path": "archive/TX-20260414-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414-003",
@@ -3776,7 +4360,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260414-003 低階的人改變答案，高階的人改變問題 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260414-003.md",
-      "github_path": "archive/TX-20260414-003.md"
+      "github_path": "archive/TX-20260414-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414-004",
@@ -3804,7 +4392,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260414-004 人性操控 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260414-004.md",
-      "github_path": "archive/TX-20260414-004.md"
+      "github_path": "archive/TX-20260414-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414-005",
@@ -3831,7 +4423,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260414-005 「向前看」之所以簡單，是因為嘴巴只需一瞬 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260414-005.md",
-      "github_path": "archive/TX-20260414-005.md"
+      "github_path": "archive/TX-20260414-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260415-001",
@@ -3853,7 +4449,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260415-001 眾生多困，不在無知，而在不受 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260415-001.md",
-      "github_path": "archive/TX-20260415-001.md"
+      "github_path": "archive/TX-20260415-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260417-001",
@@ -3878,7 +4478,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260417-001 經可誦，機可代 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260417-001.md",
-      "github_path": "archive/TX-20260417-001.md"
+      "github_path": "archive/TX-20260417-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260418-001",
@@ -3904,7 +4508,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260418-001 生活從來不設限，設限的是人 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260418-001.md",
-      "github_path": "archive/TX-20260418-001.md"
+      "github_path": "archive/TX-20260418-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260421-001",
@@ -3931,7 +4539,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260421-001 世人見難，多以為阻 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260421-001.md",
-      "github_path": "archive/TX-20260421-001.md"
+      "github_path": "archive/TX-20260421-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260421-002",
@@ -3952,7 +4564,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260421-002 人之苦，不在得不到，在於未成其量，先求其果 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260421-002.md",
-      "github_path": "archive/TX-20260421-002.md"
+      "github_path": "archive/TX-20260421-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-001",
@@ -3975,7 +4591,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-001 人之所以被困，非困於人，乃困於心 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-001.md",
-      "github_path": "archive/TX-20260429-001.md"
+      "github_path": "archive/TX-20260429-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-002",
@@ -4003,7 +4623,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-002 世有政，本為調和萬象之器，非為爭奪私利之門 一天大人 太素天尊 ## 基本資料 |",
       "file_name": "TX-20260429-002.md",
-      "github_path": "archive/TX-20260429-002.md"
+      "github_path": "archive/TX-20260429-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-003",
@@ -4028,7 +4652,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-003 今之世人，多以政為權，不以政為責 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-003.md",
-      "github_path": "archive/TX-20260429-003.md"
+      "github_path": "archive/TX-20260429-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-004",
@@ -4049,7 +4677,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-004 當一個人穩了，財富自然會來找你 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260429-004.md",
-      "github_path": "archive/TX-20260429-004.md"
+      "github_path": "archive/TX-20260429-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-005",
@@ -4068,7 +4700,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-005 真正有錢的人，不是最努力，而是最穩定 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260429-005.md",
-      "github_path": "archive/TX-20260429-005.md"
+      "github_path": "archive/TX-20260429-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-006",
@@ -4089,7 +4725,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-006 財富平衡密碼不是教你賺錢，是讓你變成「能承載財富… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-006.md",
-      "github_path": "archive/TX-20260429-006.md"
+      "github_path": "archive/TX-20260429-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-007",
@@ -4108,7 +4748,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-007 不是賺更多讓你變富有，是「需要更少」讓你自由 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-007.md",
-      "github_path": "archive/TX-20260429-007.md"
+      "github_path": "archive/TX-20260429-007.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-008",
@@ -4130,7 +4774,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-008 素行：真正的財富平衡密碼～放大生命能量，降低生活… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-008.md",
-      "github_path": "archive/TX-20260429-008.md"
+      "github_path": "archive/TX-20260429-008.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-009",
@@ -4150,7 +4798,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-009 當你的能量高於你的需求，你就自由了 一天大人 太素天尊 ## 基本資料 | 欄位",
       "file_name": "TX-20260429-009.md",
-      "github_path": "archive/TX-20260429-009.md"
+      "github_path": "archive/TX-20260429-009.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-010",
@@ -4172,7 +4824,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-010 財富不在外得，在內減 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260429-010.md",
-      "github_path": "archive/TX-20260429-010.md"
+      "github_path": "archive/TX-20260429-010.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-012",
@@ -4194,7 +4850,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-012 放大生命能量，降低生活需求，這不是選擇，是未來唯… 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-012.md",
-      "github_path": "archive/TX-20260429-012.md"
+      "github_path": "archive/TX-20260429-012.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260429-013",
@@ -4217,7 +4877,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260429-013 素行生命能量之約在AI時代，讓人不崩潰的生存結構 一天大人 太素天尊 ## 基本資料",
       "file_name": "TX-20260429-013.md",
-      "github_path": "archive/TX-20260429-013.md"
+      "github_path": "archive/TX-20260429-013.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-001",
@@ -4241,7 +4905,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-001 忍辱，非為承辱，乃為止動 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260502-001.md",
-      "github_path": "archive/TX-20260502-001.md"
+      "github_path": "archive/TX-20260502-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-002",
@@ -4267,7 +4935,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-002 太素非求得，乃本有 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260502-002.md",
-      "github_path": "archive/TX-20260502-002.md"
+      "github_path": "archive/TX-20260502-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-003",
@@ -4288,7 +4960,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-003 天印非力，乃無力之極 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260502-003.md",
-      "github_path": "archive/TX-20260502-003.md"
+      "github_path": "archive/TX-20260502-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-004",
@@ -4311,7 +4987,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-004 能力，決定你能做到什麼 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260502-004.md",
-      "github_path": "archive/TX-20260502-004.md"
+      "github_path": "archive/TX-20260502-004.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-005",
@@ -4333,7 +5013,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-005 接受，不是放棄，而是不與當下對抗 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260502-005.md",
-      "github_path": "archive/TX-20260502-005.md"
+      "github_path": "archive/TX-20260502-005.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260502-006",
@@ -4360,7 +5044,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260502-006 能力能動外境，卻不能安內心 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260502-006.md",
-      "github_path": "archive/TX-20260502-006.md"
+      "github_path": "archive/TX-20260502-006.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260503-001",
@@ -4381,7 +5069,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260503-001 學得會的，是知識 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260503-001.md",
-      "github_path": "archive/TX-20260503-001.md"
+      "github_path": "archive/TX-20260503-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260503-002",
@@ -4402,7 +5094,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260503-002 學得會的，都叫知識 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260503-002.md",
-      "github_path": "archive/TX-20260503-002.md"
+      "github_path": "archive/TX-20260503-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260503-003",
@@ -4423,7 +5119,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260503-003 知識可學，技藝可練，唯道不可得 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260503-003.md",
-      "github_path": "archive/TX-20260503-003.md"
+      "github_path": "archive/TX-20260503-003.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260504-001",
@@ -4449,7 +5149,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260504-001 行，即是得；路，即是經 一天大人 太素天尊 ## 基本資料 | 欄位 | 內容 |",
       "file_name": "TX-20260504-001.md",
-      "github_path": "archive/TX-20260504-001.md"
+      "github_path": "archive/TX-20260504-001.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260504-002",
@@ -4474,7 +5178,11 @@
       ],
       "meta_description": "'# 天訊文 TX-20260504-002 經可背，法可說，唯有走過，才算得 一天大人 太素天尊 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260504-002.md",
-      "github_path": "archive/TX-20260504-002.md"
+      "github_path": "archive/TX-20260504-002.md",
+      "content_status": "",
+      "visibility": "",
+      "topic_family": "",
+      "semantic_cluster": []
     }
   ]
 }
