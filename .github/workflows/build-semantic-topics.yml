@@ -1,0 +1,40 @@
+name: Build Semantic Topics
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-semantic-topics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Build semantic topics
+        run: python scripts/build_semantic_topics.py
+
+      - name: Validate TX files
+        run: python scripts/validate_tx.py
+
+      - name: Build tx_index.json
+        run: python scripts/build_index.py
+
+      - name: Audit metadata
+        run: python scripts/audit_metadata.py
+
+      - name: Commit semantic topics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: auto build semantic topics
