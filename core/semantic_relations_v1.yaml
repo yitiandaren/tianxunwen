@@ -1,0 +1,41 @@
+version: "1.0"
+
+relation_types:
+
+  related:
+    description: >
+      一般相關概念。
+
+  expands:
+    description: >
+      對某概念進一步展開。
+
+  continues:
+    description: >
+      延續同一主題。
+
+  contrasts:
+    description: >
+      相對或對照觀點。
+
+  foundation_of:
+    description: >
+      作為另一篇的基礎思想。
+
+  applied_in:
+    description: >
+      將某概念實際應用。
+
+  resolves:
+    description: >
+      回應或解決某問題。
+
+  warns_about:
+    description: >
+      對某狀態提出警示。
+
+  evolves_to:
+    description: >
+      概念演化。
+
+default_relation: related
