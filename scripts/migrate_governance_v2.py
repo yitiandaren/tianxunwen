@@ -1,41 +1,77 @@
-name: Migrate Governance v2
+import os
+import re
+import yaml
 
-on:
-  workflow_dispatch:
+ARCHIVE_DIR = "archive"
 
-permissions:
-  contents: write
+frontmatter_pattern = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
-jobs:
-  migrate-governance-v2:
-    runs-on: ubuntu-latest
+STATUS_MAP = {
+    "published": "published",
+    "draft": "structured",
+    "internal": "archived_internal",
+    "restricted": "restricted",
+    "已發布": "published",
+    "待發布": "structured",
+    "隱藏": "archived_internal",
+    "全平台完成": "published"
+}
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+def split_frontmatter(content):
+    match = frontmatter_pattern.match(content)
+    if not match:
+        return None, content
+    return match.group(1), content[match.end():]
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+updated_count = 0
 
-      - name: Install dependencies
-        run: pip install pyyaml
+for root, dirs, files in os.walk(ARCHIVE_DIR):
+    for file in files:
+        if not file.endswith(".md"):
+            continue
 
-      - name: Migrate governance v2
-        run: python scripts/migrate_governance_v2.py
+        path = os.path.join(root, file)
 
-      - name: Build tx_index.json
-        run: python scripts/build_index.py
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-      - name: Audit metadata
-        run: python scripts/audit_metadata.py
+        frontmatter_text, body = split_frontmatter(content)
 
-      - name: Commit governance migration
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: auto migrate TX governance v2
-          file_pattern: |
-            archive/**/*.md
-            data/tx_index.json
-            data/metadata_audit.json
+        if frontmatter_text is None:
+            continue
+
+        metadata = yaml.safe_load(frontmatter_text) or {}
+        updated = False
+
+        if "content_status" not in metadata or metadata["content_status"] in [None, "", []]:
+            old_status = metadata.get("publish_status", "draft")
+            metadata["content_status"] = STATUS_MAP.get(old_status, "structured")
+            updated = True
+
+        if "visibility" not in metadata or metadata["visibility"] in [None, "", []]:
+            if metadata.get("content_status") in ["published", "publish_ready"]:
+                metadata["visibility"] = "public"
+            elif metadata.get("content_status") in ["archived_internal"]:
+                metadata["visibility"] = "internal"
+            elif metadata.get("content_status") in ["restricted"]:
+                metadata["visibility"] = "restricted"
+            else:
+                metadata["visibility"] = "internal"
+            updated = True
+
+        if updated:
+            new_frontmatter = yaml.safe_dump(
+                metadata,
+                allow_unicode=True,
+                sort_keys=False
+            ).strip()
+
+            new_content = f"---\n{new_frontmatter}\n---\n{body}"
+
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new_content)
+
+            updated_count += 1
+            print(f"Migrated governance v2: {path}")
+
+print(f"Governance v2 migration completed. Updated files: {updated_count}")
