@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-05-08T10:32:28.686087",
+  "generated_at": "2026-05-21T05:27:50.804626",
   "source": "archive/*.md",
   "total_count": 177,
   "items": [
@@ -195,7 +195,7 @@
     {
       "tx_id": "TX-20260106-002",
       "subject": "無名覺者的歷史定位說明",
-      "show_time": "'2026-01-06T10:41:00'",
+      "show_time": "'2026-01-06T10:41:21'",
       "category": "破與強・新時代",
       "tags": [
         "覺醒",
@@ -224,7 +224,7 @@
     {
       "tx_id": "TX-20260106-003",
       "subject": "2026素行能量轉換・太素化生宣言",
-      "show_time": "'2026-01-06T10:41:00'",
+      "show_time": "'2026-01-06T10:41:47'",
       "category": "破與強・新時代",
       "tags": [
         "太素",
