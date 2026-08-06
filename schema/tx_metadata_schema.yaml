@@ -1,41 +1,55 @@
-version: "2.0"
+version: "2.1"
+
+id_policy:
+  canonical_master_id: yts_id
+  archive_id: tx_id
+  legacy_id: legacy_id
+  filename_uses: tx_id
+  rules:
+    - yts_id 為 YTS 正式主 ID；新物件建立後永久不變
+    - tx_id 為本公開典藏既有穩定 ID，並作為檔名與 URL 錨點
+    - legacy_id 保存 2026-06 ID 遷移前的 TX-YYYYMMDD-NNN
+    - 既有檔案可分階段補入 yts_id，不得因此改動原文
+
+id_patterns:
+  yts_id: '^YTS-TX-\d{14}-\d{3}$'
+  tx_id: '^TX-\d{14}$'
+  legacy_id: '^TX-\d{8}-\d{3}$'
 
 required_fields:
-
   - tx_id
   - subject
   - source_author
   - source_type
   - show_time
-
   - content_status
   - visibility
-
   - keywords
   - related_ids
 
 optional_fields:
-
+  - yts_id
+  - legacy_id
   - old_id
   - publish_code
   - category
   - tags
-
   - editor_intro
   - open_question
   - meta_description
-
   - semantic_cluster
   - topic_family
-
   - published_platforms
   - og_image
   - canonical_url
-
   - license
+  - created_by
+  - created_at
+  - updated_at
+  - reviewed_by
+  - reviewed_at
 
 allowed_content_status:
-
   - raw
   - processing
   - structured
@@ -44,54 +58,47 @@ allowed_content_status:
   - published
   - archived_internal
   - restricted
+  - 原文已確認
 
 allowed_visibility:
-
   - public
   - internal
   - restricted
   - private
+  - hidden
 
 required_array_fields:
-
   - keywords
   - related_ids
 
 recommended_array_fields:
-
   - tags
   - published_platforms
 
 field_types:
-
+  yts_id: string
   tx_id: string
+  legacy_id: string
+  old_id: string
   subject: string
   source_author: string
   source_type: string
-
   show_time: string
-
+  publish_code: string
   content_status: string
   visibility: string
-
   category: string
-
   keywords: list
   related_ids: list
-
   tags: list
   published_platforms: list
-
+  semantic_cluster: list
   meta_description: string
   editor_intro: string
   open_question: string
 
 governance:
-
   original_text_editable: false
-
   metadata_editable: true
-
   ai_embedding_allowed: true
-
   ai_external_training_allowed: false

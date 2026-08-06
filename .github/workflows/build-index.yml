@@ -7,20 +7,29 @@ on:
       - "scripts/build_index.py"
       - "scripts/validate_tx.py"
       - "scripts/audit_metadata.py"
+      - "scripts/build_id_mapping_csv.py"
+      - "schema/**"
       - "core/**"
+      - "templates/**"
+      - "data/id_mapping.json"
       - "data/categories.json"
       - "data/tags.json"
       - "data/related_map.json"
-
+  pull_request:
+    paths:
+      - "archive/**/*.md"
+      - "scripts/**"
+      - "schema/**"
+      - "core/**"
+      - "templates/**"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  validate-build-audit:
+  validate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,14 +45,33 @@ jobs:
       - name: Validate TX files
         run: python scripts/validate_tx.py
 
+  rebuild-derived-data:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
       - name: Build tx_index.json
         run: python scripts/build_index.py
 
       - name: Audit metadata
         run: python scripts/audit_metadata.py
 
+      - name: Build ID mapping CSV
+        run: python scripts/build_id_mapping_csv.py
+
       - name: Commit updated data files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update tx index and metadata audit"
-          file_pattern: data/tx_index.json data/metadata_audit.json
+          commit_message: "auto: rebuild TX derived data"
+          file_pattern: data/tx_index.json data/metadata_audit.json id_mapping.csv
