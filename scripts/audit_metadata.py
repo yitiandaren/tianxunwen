@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from datetime import datetime, timezone
 
 import yaml
@@ -17,14 +18,16 @@ FIELDS_TO_CHECK = [
     "published_platforms",
 ]
 
+FRONTMATTER_PATTERN = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n", re.DOTALL)
+
 
 def load_metadata(path: str) -> dict:
     with open(path, "r", encoding="utf-8") as f:
         content = f.read()
-    if not content.startswith("---"):
+    match = FRONTMATTER_PATTERN.match(content)
+    if not match:
         return {}
-    _, frontmatter, _ = content.split("---", 2)
-    return yaml.safe_load(frontmatter) or {}
+    return yaml.safe_load(match.group(1)) or {}
 
 
 def derive_yts_id(metadata: dict) -> str:
