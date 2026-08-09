@@ -1,105 +1,79 @@
+import json
 import os
 import re
-import json
-from datetime import datetime
+from datetime import datetime, timezone
+
+import yaml
 
 ARCHIVE_DIR = "archive"
 OUTPUT_FILE = "data/tx_index.json"
 
-tx_items = []
+FRONTMATTER_PATTERN = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n", re.DOTALL)
 
-frontmatter_pattern = re.compile(r"---(.*?)---", re.DOTALL)
 
-def parse_frontmatter(content):
-    match = frontmatter_pattern.search(content)
-
+def load_metadata(path: str) -> dict:
+    with open(path, "r", encoding="utf-8") as f:
+        content = f.read()
+    match = FRONTMATTER_PATTERN.match(content)
     if not match:
         return {}
+    return yaml.safe_load(match.group(1)) or {}
 
-    block = match.group(1)
 
-    data = {}
+def derive_yts_id(metadata: dict) -> str:
+    yts_id = str(metadata.get("yts_id", "") or "")
+    if yts_id:
+        return yts_id
+    tx_id = str(metadata.get("tx_id", "") or "")
+    if tx_id.startswith("TX-") and len(tx_id) == 17:
+        return f"YTS-{tx_id}-001"
+    return ""
 
-    current_key = None
 
-    for line in block.splitlines():
+tx_items = []
 
-        if not line.strip():
+for root, dirs, filenames in os.walk(ARCHIVE_DIR):
+    dirs.sort()
+    for filename in sorted(filenames):
+        if not filename.endswith(".md"):
             continue
 
-        # array item
-        if line.strip().startswith("- ") and current_key:
-            if not isinstance(data[current_key], list):
-                data[current_key] = [data[current_key]]
+        path = os.path.join(root, filename)
+        metadata = load_metadata(path)
 
-            data[current_key].append(
-                line.strip()[2:].strip().strip('"')
-            )
-
-            continue
-
-        if ":" not in line:
-            continue
-
-        key, value = line.split(":", 1)
-
-        key = key.strip()
-        value = value.strip().strip('"')
-
-        current_key = key
-
-        # empty list support
-        if value == "":
-            data[key] = []
-        else:
-            data[key] = value
-
-    return data
-
-for root, dirs, files in os.walk(ARCHIVE_DIR):
-
-    for file in files:
-
-        if not file.endswith(".md"):
-            continue
-
-        path = os.path.join(root, file)
-
-        with open(path, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        metadata = parse_frontmatter(content)
-
-        tx_item = {
+        tx_items.append({
+            "yts_id": derive_yts_id(metadata),
             "tx_id": metadata.get("tx_id", ""),
+            "legacy_id": metadata.get("legacy_id", ""),
+            "old_id": metadata.get("old_id", ""),
             "subject": metadata.get("subject", ""),
-            "show_time": metadata.get("show_time", ""),
+            "show_time": str(metadata.get("show_time", "")),
             "category": metadata.get("category", ""),
             "tags": metadata.get("tags", []),
             "keywords": metadata.get("keywords", []),
             "publish_status": metadata.get("publish_status", ""),
             "related_ids": metadata.get("related_ids", []),
             "meta_description": metadata.get("meta_description", ""),
-            "file_name": file,
+            "file_name": filename,
             "github_path": path,
             "content_status": metadata.get("content_status", ""),
             "visibility": metadata.get("visibility", ""),
             "topic_family": metadata.get("topic_family", ""),
             "semantic_cluster": metadata.get("semantic_cluster", []),
-        }
-
-        tx_items.append(tx_item)
+        })
 
 output = {
     "schema_name": "suxing_tx_index",
-    "version": "1.0",
-    "generated_at": datetime.utcnow().isoformat(),
-    "source": "archive/*.md",
+    "version": "2.1",
+    "generated_at": datetime.now(timezone.utc).isoformat(),
+    "source": "archive/**/*.md",
+    "id_policy": {
+        "canonical_master_id": "yts_id",
+        "archive_id": "tx_id",
+        "legacy_id": "legacy_id"
+    },
     "total_count": len(tx_items),
-    "items": sorted(
-        tx_items,
-        key=lambda x: x["tx_id"]
-    )
+    "items": sorted(tx_items, key=lambda item: item["tx_id"])
 }
 
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:

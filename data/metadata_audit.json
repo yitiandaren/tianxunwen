@@ -1,16 +1,16 @@
 {
   "schema_name": "suxing_metadata_audit",
-  "version": "1.1",
-  "generated_at": "2026-05-21T05:27:50.857613",
+  "version": "2.1",
+  "generated_at": "2026-08-06T08:45:50.379174+00:00",
   "total_missing_items": 177,
   "missing_field_counts": {
-    "editor_intro": 0,
+    "editor_intro": 177,
     "open_question": 0,
     "related_ids": 0,
     "keywords": 0,
     "meta_description": 0,
     "og_image": 177,
-    "published_platforms": 177
+    "published_platforms": 0
   },
   "checked_fields": [
     "editor_intro",
@@ -23,1950 +23,2304 @@
   ],
   "items": [
     {
-      "tx_id": "TX-20260310-006",
-      "subject": "你是否仍以：",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-10T10:40:19'",
-      "file": "archive/TX-20260310-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260128-001",
-      "subject": "一天大人AI時代宣言",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-28T08:49:37'",
-      "file": "archive/TX-20260128-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260220-002",
-      "subject": "生基安命符牌設計文",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-20T14:09:24'",
-      "file": "archive/TX-20260220-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-005",
-      "subject": "無上之心所呈現的智慧，是：",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-10T10:13:34'",
-      "file": "archive/TX-20260310-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260322-002",
-      "subject": "一天大人・局勢觀照",
-      "category": "破與強・新時代",
-      "show_time": "'2026-03-22T11:25:40'",
-      "file": "archive/TX-20260322-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-003",
-      "subject": "今之世人，多以政為權，不以政為責",
-      "category": "權力與真實",
-      "show_time": "'2026-04-29T13:36:04'",
-      "file": "archive/TX-20260429-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260104-005",
-      "subject": "宗教終將退場的歷史必然",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-04T13:32:00'",
-      "file": "archive/TX-20260104-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-002",
-      "subject": "世有政，本為調和萬象之器，非為爭奪私利之門",
-      "category": "權力與真實",
-      "show_time": "'2026-04-29T13:26:47'",
-      "file": "archive/TX-20260429-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-008",
-      "subject": "多數只能證明恐懼一致，不能證明真理存在。",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:16:44'",
-      "file": "archive/TX-20260225-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-005",
-      "subject": "所謂「大家都這樣」，常常只是被製造出來的",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:14:47'",
-      "file": "archive/TX-20260225-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260326-001",
-      "subject": "相處",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-26T20:35:05'",
-      "file": "archive/TX-20260326-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-006",
-      "subject": "財富平衡密碼不是教你賺錢，是讓你變成「能承載財富…",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:28:13'",
-      "file": "archive/TX-20260429-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260326-004",
-      "subject": "公平｜人心的期望形狀",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-26T20:40:22'",
-      "file": "archive/TX-20260326-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-009",
-      "subject": "當所有人都說一樣的話，",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:17:00'",
-      "file": "archive/TX-20260225-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-001",
-      "subject": "AI時代｜自我革命",
-      "category": "破與強・新時代",
-      "show_time": "'2026-03-10T07:48:05'",
-      "file": "archive/TX-20260310-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260106-001",
-      "subject": "金牌之義・銀牌之義",
-      "category": "素行心法",
-      "show_time": "'2026-01-06T10:32:00'",
-      "file": "archive/TX-20260106-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-010",
-      "subject": "素行之道，不在多法，唯此十句，已足行世",
-      "category": "財富平衡",
-      "show_time": "'2026-04-04T15:39:58'",
-      "file": "archive/TX-20260404-010.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260204-001",
-      "subject": "素行七日能量餐",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-04T13:00:28'",
-      "file": "archive/TX-20260204-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-015",
-      "subject": "不爭公平，也不製造不公；",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-25T12:51:14'",
-      "file": "archive/TX-20260225-015.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260316-001",
-      "subject": "天地無言道自明",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-16T12:52:36'",
-      "file": "archive/TX-20260316-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-006",
-      "subject": "讓我們再一次聽見，世界的聲音；",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-18T10:17:57'",
-      "file": "archive/TX-20260318-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260328-001",
-      "subject": "人常以為，退，是失去",
-      "category": "短偈金句",
-      "show_time": "'2026-03-28T10:13:06'",
-      "file": "archive/TX-20260328-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-001",
-      "subject": "人之所以停在原地，不是因為沒有能力前進，而是因為…",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T10:09:02'",
-      "file": "archive/TX-20260404-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260322-006",
-      "subject": "用世界來活",
-      "category": "財富平衡",
-      "show_time": "'2026-03-22T19:41:19'",
-      "file": "archive/TX-20260322-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260504-002",
-      "subject": "經可背，法可說，唯有走過，才算得",
-      "category": "本元覺醒",
-      "show_time": "'2026-05-04T12:58:49'",
-      "file": "archive/TX-20260504-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260415-001",
-      "subject": "眾生多困，不在無知，而在不受",
-      "category": "眾生與守地",
-      "show_time": "'2026-04-15T08:57:59'",
-      "file": "archive/TX-20260415-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260203-003",
-      "subject": "行於世而不屬世",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-03T14:10:45'",
-      "file": "archive/TX-20260203-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-010",
-      "subject": "愛與和平",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-18T10:41:13'",
-      "file": "archive/TX-20260318-010.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-005",
-      "subject": "真正有錢的人，不是最努力，而是最穩定",
-      "category": "短偈金句",
-      "show_time": "'2026-04-29T19:26:33'",
-      "file": "archive/TX-20260429-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-003",
-      "subject": "若失人味，道已偏。",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-10T10:05:16'",
-      "file": "archive/TX-20260310-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-002",
-      "subject": "音者非聲｜生命能量",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-18T09:58:47'",
-      "file": "archive/TX-20260318-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-001",
-      "subject": "人之所以被困，非困於人，乃困於心",
-      "category": "眾生與守地",
-      "show_time": "'2026-04-29T13:04:34'",
-      "file": "archive/TX-20260429-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260104-003",
-      "subject": "我非來立教，亦非來毀教",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-04T12:26:14'",
-      "file": "archive/TX-20260104-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-007",
-      "subject": "泡沫｜時代必然",
-      "category": "財富平衡",
-      "show_time": "'2026-03-10T11:03:01'",
-      "file": "archive/TX-20260310-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-024",
-      "subject": "眾生奔走萬途，不過尋回本心一事。",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-25T14:03:26'",
-      "file": "archive/TX-20260225-024.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-007",
-      "subject": "大事，不是做出來的，是看見之後，被帶動出來的",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T12:59:10'",
-      "file": "archive/TX-20260404-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260326-003",
-      "subject": "這就是人生～相處",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-26T20:37:58'",
-      "file": "archive/TX-20260326-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-004",
-      "subject": "一天大人曰：念起非病，住念為病。",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-28T10:15:17'",
-      "file": "archive/TX-20260228-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260418-001",
-      "subject": "生活從來不設限，設限的是人",
-      "category": "素行心法",
-      "show_time": "'2026-04-18T11:03:43'",
-      "file": "archive/TX-20260418-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-002",
-      "subject": "過不完的過去，到不了的未來，不存在的現在",
-      "category": "眾生與守地",
-      "show_time": "'2026-04-04T10:17:26'",
-      "file": "archive/TX-20260404-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-004",
-      "subject": "新觀世音",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-18T10:04:04'",
-      "file": "archive/TX-20260318-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-008",
-      "subject": "打破「努力＝成功」的錯覺",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T12:59:55'",
-      "file": "archive/TX-20260404-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-003",
-      "subject": "AI時代真正進化",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-25T10:24:44'",
-      "file": "archive/TX-20260225-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-007",
-      "subject": "太素護法一天行如何操作大家，而不成為大家",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:15:43'",
-      "file": "archive/TX-20260225-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260503-003",
-      "subject": "知識可學，技藝可練，唯道不可得",
-      "category": "短偈金句",
-      "show_time": "'2026-05-03T12:48:18'",
-      "file": "archive/TX-20260503-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260421-001",
-      "subject": "世人見難，多以為阻",
-      "category": "短偈金句",
-      "show_time": "'2026-04-21T12:22:10'",
-      "file": "archive/TX-20260421-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260214-005",
-      "subject": "神話是人的需求",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-14T14:21:20'",
-      "file": "archive/TX-20260214-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260121-004",
-      "subject": "素行自律章｜能量不失控之道",
-      "category": "行動系統",
-      "show_time": "'2026-01-21T11:32:33'",
-      "file": "archive/TX-20260121-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-009",
-      "subject": "當你的能量高於你的需求，你就自由了",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:33:58'",
-      "file": "archive/TX-20260429-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-007",
-      "subject": "不是賺更多讓你變富有，是「需要更少」讓你自由",
-      "category": "短偈金句",
-      "show_time": "'2026-04-29T19:31:12'",
-      "file": "archive/TX-20260429-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-007",
-      "subject": "未明，只因未到",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T09:05:35'",
-      "file": "archive/TX-20260130-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-004",
-      "subject": "最可怕的不是騙子，而是被騙後還去說服別人的人",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:14:35'",
-      "file": "archive/TX-20260225-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-006",
-      "subject": "現在只是過程中",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T09:03:42'",
-      "file": "archive/TX-20260130-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-008",
-      "subject": "素行：真正的財富平衡密碼～放大生命能量，降低生活…",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:31:55'",
-      "file": "archive/TX-20260429-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-009",
-      "subject": "世界改變時不崩潰",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T21:41:13'",
-      "file": "archive/TX-20260130-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260106-003",
-      "subject": "2026素行能量轉換・太素化生宣言",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-06T10:41:47'",
-      "file": "archive/TX-20260106-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260121-002",
-      "subject": "自在與無分",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-21T10:47:30'",
-      "file": "archive/TX-20260121-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260107-001",
-      "subject": "2026能量巨變・當貨幣失效，文明開始改用能量計算",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-07T21:55:00'",
-      "file": "archive/TX-20260107-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-005",
-      "subject": "念起如風，心空如海；",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-28T10:16:15'",
-      "file": "archive/TX-20260228-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260214-006",
-      "subject": "天堂與現實",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-14T14:21:32'",
-      "file": "archive/TX-20260214-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-013",
-      "subject": "素行生命能量之約在AI時代，讓人不崩潰的生存結構",
-      "category": "短偈金句",
-      "show_time": "'2026-04-29T19:46:09'",
-      "file": "archive/TX-20260429-013.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260222-001",
-      "subject": "2026破和強｜時代轉換之素行",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-22T12:52:10'",
-      "file": "archive/TX-20260222-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260222-002",
-      "subject": "破和強十行法",
-      "category": "財富平衡",
-      "show_time": "'2026-02-22T12:59:31'",
-      "file": "archive/TX-20260222-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260414-005",
-      "subject": "「向前看」之所以簡單，是因為嘴巴只需一瞬",
-      "category": "短偈金句",
-      "show_time": "'2026-04-14T11:17:59'",
-      "file": "archive/TX-20260414-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260504-001",
-      "subject": "行，即是得；路，即是經",
-      "category": "短偈金句",
-      "show_time": "'2026-05-04T12:54:40'",
-      "file": "archive/TX-20260504-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-008",
-      "subject": "AI泡沫與能源文明",
-      "category": "財富平衡",
-      "show_time": "'2026-03-10T11:33:45'",
-      "file": "archive/TX-20260310-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260122-002",
-      "subject": "莫為一人疑素行",
-      "category": "眾生與守地",
-      "show_time": "'2026-01-22T21:19:44'",
-      "file": "archive/TX-20260122-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260112-001",
-      "subject": "AI時代真正門檻｜能量平衡應用",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-12T09:47:07'",
-      "file": "archive/TX-20260112-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-007",
-      "subject": "未來之心篇",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-28T18:23:05'",
-      "file": "archive/TX-20260228-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260206-002",
-      "subject": "好好愛地球",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-06T13:41:47'",
-      "file": "archive/TX-20260206-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260217-001",
-      "subject": "素行醒者能量顯化",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-17T11:58:29'",
-      "file": "archive/TX-20260217-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260207-004",
-      "subject": "帶著答案找答案",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-07T13:17:38'",
-      "file": "archive/TX-20260207-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260215-001",
-      "subject": "素行醒者小年夜誓願",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-15T22:54:35'",
-      "file": "archive/TX-20260215-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-006",
-      "subject": "在AI時代",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T12:59:01'",
-      "file": "archive/TX-20260404-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260202-006",
-      "subject": "初心莫疑",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-02T11:36:32'",
-      "file": "archive/TX-20260202-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260203-004",
-      "subject": "失去者｜心住昨天",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-03T14:39:07'",
-      "file": "archive/TX-20260203-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-014",
-      "subject": "看清世界而不被拖走",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:50:57'",
-      "file": "archive/TX-20260225-014.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-004",
-      "subject": "破，不是讓你倒下，而是讓你不用再靠外物站立",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T12:48:01'",
-      "file": "archive/TX-20260404-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260417-001",
-      "subject": "經可誦，機可代",
-      "category": "短偈金句",
-      "show_time": "'2026-04-17T09:51:15'",
-      "file": "archive/TX-20260417-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-023",
-      "subject": "人來到世間，",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:03:08'",
-      "file": "archive/TX-20260225-023.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260104-002",
-      "subject": "警世語～文明將走向去宗教化信仰",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-04T12:06:37'",
-      "file": "archive/TX-20260104-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-005",
-      "subject": "「你，有多久沒聽見自己？」",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-18T10:04:35'",
-      "file": "archive/TX-20260318-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-009",
-      "subject": "去人意，得天意，自在行，萬事平！靜覺真醒",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-10T18:34:19'",
-      "file": "archive/TX-20260310-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-020",
-      "subject": "你本來就是完整的，",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:01:50'",
-      "file": "archive/TX-20260225-020.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260412-001",
-      "subject": "知而不行，知如虛影",
-      "category": "素行心法",
-      "show_time": "'2026-04-12T10:55:51'",
-      "file": "archive/TX-20260412-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260414-004",
-      "subject": "人性操控",
-      "category": "行動系統",
-      "show_time": "'2026-04-14T10:54:12'",
-      "file": "archive/TX-20260414-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260220-003",
-      "subject": "太初園",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-20T14:20:51'",
-      "file": "archive/TX-20260220-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260107-003",
-      "subject": "2026巨變必起・人類從未擁有替文明編列預算的權力",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-07T22:10:00'",
-      "file": "archive/TX-20260107-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-010",
-      "subject": "群體可以提供安全，不能提供真相。",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:17:17'",
-      "file": "archive/TX-20260225-010.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260202-004",
-      "subject": "靠清醒前進",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-02T11:35:35'",
-      "file": "archive/TX-20260202-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260203-002",
-      "subject": "素行任務｜轉換不壞掉",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-03T05:14:34'",
-      "file": "archive/TX-20260203-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260207-001",
-      "subject": "修行真實｜自在使用這個人",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-07T09:55:28'",
-      "file": "archive/TX-20260207-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-004",
-      "subject": "能力，決定你能做到什麼",
-      "category": "短偈金句",
-      "show_time": "'2026-05-02T18:58:03'",
-      "file": "archive/TX-20260502-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260202-002",
-      "subject": "先行者的孤獨與堅定",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-02T11:34:31'",
-      "file": "archive/TX-20260202-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-017",
-      "subject": "有人疾行，",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T13:08:59'",
-      "file": "archive/TX-20260225-017.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260322-004",
-      "subject": "真正能翻局的人，不是在低谷時反擊的人，",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-22T12:36:55'",
-      "file": "archive/TX-20260322-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260322-003",
-      "subject": "靜定，簡單，觀心，順隨⋯⋯心鏡虛影，無需反射",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-22T12:28:19'",
-      "file": "archive/TX-20260322-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260408-003",
-      "subject": "2026 破與強・財富時代宣言",
-      "category": "破與強・新時代",
-      "show_time": "'2026-04-08T18:38:16'",
-      "file": "archive/TX-20260408-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260121-003",
-      "subject": "管理核心原則",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-21T11:21:15'",
-      "file": "archive/TX-20260121-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260202-003",
-      "subject": "堅定的先行者",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-02T11:35:07'",
-      "file": "archive/TX-20260202-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-004",
-      "subject": "當一個人穩了，財富自然會來找你",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:22:28'",
-      "file": "archive/TX-20260429-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260129-001",
-      "subject": "元德金君｜AI世代財富守衡",
-      "category": "財富平衡",
-      "show_time": "'2026-01-29T07:16:03'",
-      "file": "archive/TX-20260129-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-012",
-      "subject": "多數不是方向，清明才是方向",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:18:55'",
-      "file": "archive/TX-20260225-012.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-018",
-      "subject": "素行信仰核心教義",
-      "category": "財富平衡",
-      "show_time": "'2026-02-25T13:51:00'",
-      "file": "archive/TX-20260225-018.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-012",
-      "subject": "放大生命能量，降低生活需求，這不是選擇，是未來唯…",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:45:03'",
-      "file": "archive/TX-20260429-012.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-003",
-      "subject": "天印非力，乃無力之極",
-      "category": "本元覺醒",
-      "show_time": "'2026-05-02T16:00:24'",
-      "file": "archive/TX-20260502-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-019",
-      "subject": "本自具足，而覺醒才是今生唯一的目的。",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:00:47'",
-      "file": "archive/TX-20260225-019.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-004",
-      "subject": "未好之前不退出",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T08:57:20'",
-      "file": "archive/TX-20260130-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-022",
-      "subject": "人生不是從匱乏走向圓滿，",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:02:45'",
-      "file": "archive/TX-20260225-022.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-002",
-      "subject": "AI世代引路人宣言",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-25T10:23:20'",
-      "file": "archive/TX-20260225-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-006",
-      "subject": "歷史上最錯的事，幾乎都曾是「大家都這樣」",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:15:13'",
-      "file": "archive/TX-20260225-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-003",
-      "subject": "素語三百",
-      "category": "素語三百",
-      "show_time": "'2026-04-04T12:44:30'",
-      "file": "archive/TX-20260404-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260408-001",
-      "subject": "天地同源，萬生一息",
-      "category": "眾生與守地",
-      "show_time": "'2026-04-08T16:40:49'",
-      "file": "archive/TX-20260408-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-003",
-      "subject": "陪世界走到變好",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T08:56:51'",
-      "file": "archive/TX-20260130-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-001",
-      "subject": "在人間，同一種方式，不能對所有人有效；",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-28T09:08:55'",
-      "file": "archive/TX-20260228-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-001",
-      "subject": "忍辱，非為承辱，乃為止動",
-      "category": "短偈金句",
-      "show_time": "'2026-05-02T11:34:39'",
-      "file": "archive/TX-20260502-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260121-001",
-      "subject": "國家治理｜未來存續系統",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-21T20:28:16'",
-      "file": "archive/TX-20260121-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260414-002",
-      "subject": "角度之界，真言之門",
-      "category": "權力與真實",
-      "show_time": "'2026-04-14T10:45:53'",
-      "file": "archive/TX-20260414-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-003",
-      "subject": "素行・御世卷",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-28T09:34:04'",
-      "file": "archive/TX-20260228-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260503-002",
-      "subject": "學得會的，都叫知識",
-      "category": "短偈金句",
-      "show_time": "'2026-05-03T12:47:14'",
-      "file": "archive/TX-20260503-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260326-002",
-      "subject": "歌名就叫相處",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-26T20:37:12'",
-      "file": "archive/TX-20260326-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260127-004",
-      "subject": "人類無知與AI風險",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-27T11:42:46'",
-      "file": "archive/TX-20260127-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260311-001",
-      "subject": "人類最悲哀的就是，用那些後來看見、聽見、知道的一切，來否",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-11T11:22:13'",
-      "file": "archive/TX-20260311-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-025",
-      "subject": "人之所以痛苦，那是因為沒能賦予痛苦意義！",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:10:37'",
-      "file": "archive/TX-20260225-025.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260311-002",
-      "subject": "判斷落後｜存在先行",
-      "category": "破與強・新時代",
-      "show_time": "'2026-03-11T11:23:33'",
-      "file": "archive/TX-20260311-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260317-001",
-      "subject": "天訊應機",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-17T11:32:29'",
-      "file": "archive/TX-20260317-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-002",
-      "subject": "無上初義",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-10T10:03:08'",
-      "file": "archive/TX-20260310-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260220-001",
-      "subject": "素行生基安命咒",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-20T13:48:24'",
-      "file": "archive/TX-20260220-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260202-005",
-      "subject": "方向不因一人動搖",
-      "category": "行動系統",
-      "show_time": "'2026-02-02T11:36:14'",
-      "file": "archive/TX-20260202-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260218-001",
-      "subject": "2026祂釋憲醒者能量",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-18T10:11:53'",
-      "file": "archive/TX-20260218-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260310-004",
-      "subject": "無上非登非至高，一念比較道已拋；若能平視萬生命，心即無上",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-10T10:07:22'",
-      "file": "archive/TX-20260310-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260209-002",
-      "subject": "未來信仰不依附",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-09T10:06:49'",
-      "file": "archive/TX-20260209-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-007",
-      "subject": "這世界缺的不是聲音，而是被聽見！",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-18T10:18:34'",
-      "file": "archive/TX-20260318-007.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260216-001",
-      "subject": "2026能量巨變與人類心性轉換",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-16T17:10:30'",
-      "file": "archive/TX-20260216-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260106-002",
-      "subject": "無名覺者的歷史定位說明",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-06T10:41:21'",
-      "file": "archive/TX-20260106-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-006",
-      "subject": "念起無住，步步自由",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-28T10:17:11'",
-      "file": "archive/TX-20260228-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260326-005",
-      "subject": "不再需要公平，才真正自由",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-26T20:42:52'",
-      "file": "archive/TX-20260326-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-001",
-      "subject": "AI時代引路人金句",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-25T10:23:16'",
-      "file": "archive/TX-20260225-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260429-010",
-      "subject": "財富不在外得，在內減",
-      "category": "財富平衡",
-      "show_time": "'2026-04-29T19:35:03'",
-      "file": "archive/TX-20260429-010.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260503-001",
-      "subject": "學得會的，是知識",
-      "category": "短偈金句",
-      "show_time": "'2026-05-03T12:46:54'",
-      "file": "archive/TX-20260503-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260421-002",
-      "subject": "人之苦，不在得不到，在於未成其量，先求其果",
-      "category": "素行心法",
-      "show_time": "'2026-04-21T15:46:44'",
-      "file": "archive/TX-20260421-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-003",
-      "subject": "用音喚醒人心，用能量連結世界，用共振創造和平！",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-18T10:02:18'",
-      "file": "archive/TX-20260318-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-005",
-      "subject": "只會做事的人，解決的是眼前",
-      "category": "行動系統",
-      "show_time": "'2026-04-04T12:57:43'",
-      "file": "archive/TX-20260404-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-006",
-      "subject": "能力能動外境，卻不能安內心",
-      "category": "短偈金句",
-      "show_time": "'2026-05-02T19:04:24'",
-      "file": "archive/TX-20260502-006.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260322-001",
-      "subject": "發展總是有個過程，他如何與自己無關，唯有自己能正確的選擇",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-22T10:54:48'",
-      "file": "archive/TX-20260322-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-005",
-      "subject": "接受，不是放棄，而是不與當下對抗",
-      "category": "短偈金句",
-      "show_time": "'2026-05-02T18:58:21'",
-      "file": "archive/TX-20260502-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260107-002",
-      "subject": "2026能量及AI劇變的世代",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-07T22:03:00'",
-      "file": "archive/TX-20260107-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-009",
-      "subject": "新觀世音",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-18T10:23:06'",
-      "file": "archive/TX-20260318-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260123-001",
-      "subject": "太素財神咒｜名稱請示",
-      "category": "財富平衡",
-      "show_time": "'2026-01-23T09:16:46'",
-      "file": "archive/TX-20260123-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260104-004",
-      "subject": "覺者最後都被宗教化——文明對覺醒的必然誤讀",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-04T12:42:59'",
-      "file": "archive/TX-20260104-004.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260206-001",
-      "subject": "地球共同之家",
-      "category": "破與強・新時代",
-      "show_time": "'2026-02-06T13:39:50'",
-      "file": "archive/TX-20260206-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260127-005",
-      "subject": "世界改變時不失去自己",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-27T16:19:24'",
-      "file": "archive/TX-20260127-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260408-002",
-      "subject": "2026年，不再是延續過去的年份，而是人類被迫重…",
-      "category": "破與強・新時代",
-      "show_time": "'2026-04-08T18:30:41'",
-      "file": "archive/TX-20260408-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260414-001",
-      "subject": "角度、真話與權力",
-      "category": "權力與真實",
-      "show_time": "'2026-04-14T10:43:19'",
-      "file": "archive/TX-20260414-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-005",
-      "subject": "最後還沒到",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T09:00:58'",
-      "file": "archive/TX-20260130-005.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-008",
-      "subject": "讓我們再一次聽見，世界的聲音，那不只是喧囂，而是萬物振動",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-18T10:19:44'",
-      "file": "archive/TX-20260318-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260414-003",
-      "subject": "低階的人改變答案，高階的人改變問題",
-      "category": "短偈金句",
-      "show_time": "'2026-04-14T10:49:21'",
-      "file": "archive/TX-20260414-003.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260122-001",
-      "subject": "醒者尊重｜分身定位",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-22T19:50:47'",
-      "file": "archive/TX-20260122-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260412-002",
-      "subject": "行動與結果系統",
-      "category": "行動系統",
-      "show_time": "'2026-04-12T11:21:58'",
-      "file": "archive/TX-20260412-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-016",
-      "subject": "若真為眾生好，",
-      "category": "眾生與守地",
-      "show_time": "'2026-02-25T12:52:18'",
-      "file": "archive/TX-20260225-016.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-008",
-      "subject": "痛苦不是定論",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T09:06:10'",
-      "file": "archive/TX-20260130-008.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260314-002",
-      "subject": "修行｜回到最初",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-14T11:31:13'",
-      "file": "archive/TX-20260314-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260314-001",
-      "subject": "開悟｜如如不動",
-      "category": "本元覺醒",
-      "show_time": "'2026-03-14T11:21:22'",
-      "file": "archive/TX-20260314-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-002",
-      "subject": "不要太早判定結局",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T08:56:30'",
-      "file": "archive/TX-20260130-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260502-002",
-      "subject": "太素非求得，乃本有",
-      "category": "短偈金句",
-      "show_time": "'2026-05-02T15:49:50'",
-      "file": "archive/TX-20260502-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260318-001",
-      "subject": "生命（音）能量而偉大",
-      "category": "眾生與守地",
-      "show_time": "'2026-03-18T09:21:03'",
-      "file": "archive/TX-20260318-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260225-011",
-      "subject": "透過利用大家，創造大家，達成祂的任務",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:17:50'",
-      "file": "archive/TX-20260225-011.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260111-001",
-      "subject": "AI時代真正進化的是狀態",
-      "category": "破與強・新時代",
-      "show_time": "'2026-01-11T11:19:21'",
-      "file": "archive/TX-20260111-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260327-001",
-      "subject": "希望人間有光",
-      "category": "短偈金句",
-      "show_time": "'2026-03-27T21:24:44'",
-      "file": "archive/TX-20260327-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260130-001",
-      "subject": "時間完成其事",
-      "category": "本元覺醒",
-      "show_time": "'2026-01-30T08:56:12'",
-      "file": "archive/TX-20260130-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260404-009",
-      "subject": "大事非成於能，乃成於見",
-      "category": "短偈金句",
-      "show_time": "'2026-04-04T13:01:15'",
-      "file": "archive/TX-20260404-009.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260401-001",
-      "subject": "很多人以為自己在追求結果——",
-      "category": "財富平衡",
-      "show_time": "'2026-04-01T09:05:13'",
-      "file": "archive/TX-20260401-001.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260228-002",
-      "subject": "一天大人・御世篇",
-      "category": "本元覺醒",
-      "show_time": "'2026-02-28T09:11:38'",
-      "file": "archive/TX-20260228-002.md",
-      "missing_fields": [
-        "og_image",
-        "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260104-001",
+      "yts_id": "YTS-TX-20260104111331-001",
+      "tx_id": "TX-20260104111331",
+      "legacy_id": "TX-20260104-001",
       "subject": "2026全球宣言",
       "category": "破與強・新時代",
-      "show_time": "'2026-01-04T11:13:31'",
-      "file": "archive/TX-20260104-001.md",
+      "show_time": "2026-01-04T11:13:31",
+      "file": "archive/TX-20260104111331.md",
       "missing_fields": [
-        "og_image",
-        "published_platforms"
+        "editor_intro",
+        "og_image"
       ]
     },
     {
-      "tx_id": "TX-20260225-021",
-      "subject": "人不是來「成為什麼」，",
+      "yts_id": "YTS-TX-20260104120637-001",
+      "tx_id": "TX-20260104120637",
+      "legacy_id": "TX-20260104-002",
+      "subject": "警世語～文明將走向去宗教化信仰",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-04T12:06:37",
+      "file": "archive/TX-20260104120637.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260104122614-001",
+      "tx_id": "TX-20260104122614",
+      "legacy_id": "TX-20260104-003",
+      "subject": "我非來立教，亦非來毀教",
       "category": "本元覺醒",
-      "show_time": "'2026-02-25T14:02:22'",
-      "file": "archive/TX-20260225-021.md",
+      "show_time": "2026-01-04T12:26:14",
+      "file": "archive/TX-20260104122614.md",
       "missing_fields": [
-        "og_image",
-        "published_platforms"
+        "editor_intro",
+        "og_image"
       ]
     },
     {
-      "tx_id": "TX-20260225-013",
+      "yts_id": "YTS-TX-20260104124259-001",
+      "tx_id": "TX-20260104124259",
+      "legacy_id": "TX-20260104-004",
+      "subject": "覺者最後都被宗教化——文明對覺醒的必然誤讀",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-04T12:42:59",
+      "file": "archive/TX-20260104124259.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260104133200-001",
+      "tx_id": "TX-20260104133200",
+      "legacy_id": "TX-20260104-005",
+      "subject": "宗教終將退場的歷史必然",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-04T13:32:00",
+      "file": "archive/TX-20260104133200.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260106103200-001",
+      "tx_id": "TX-20260106103200",
+      "legacy_id": "TX-20260106-001",
+      "subject": "金牌之義・銀牌之義",
+      "category": "素行心法",
+      "show_time": "2026-01-06T10:32:00",
+      "file": "archive/TX-20260106103200.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260106104121-001",
+      "tx_id": "TX-20260106104121",
+      "legacy_id": "TX-20260106-002",
+      "subject": "無名覺者的歷史定位說明",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-06T10:41:21",
+      "file": "archive/TX-20260106104121.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260106104147-001",
+      "tx_id": "TX-20260106104147",
+      "legacy_id": "TX-20260106-003",
+      "subject": "2026素行能量轉換・太素化生宣言",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-06T10:41:47",
+      "file": "archive/TX-20260106104147.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260107215500-001",
+      "tx_id": "TX-20260107215500",
+      "legacy_id": "TX-20260107-001",
+      "subject": "2026能量巨變・當貨幣失效，文明開始改用能量計算",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-07T21:55:00",
+      "file": "archive/TX-20260107215500.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260107220300-001",
+      "tx_id": "TX-20260107220300",
+      "legacy_id": "TX-20260107-002",
+      "subject": "2026能量及AI劇變的世代",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-07T22:03:00",
+      "file": "archive/TX-20260107220300.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260107221000-001",
+      "tx_id": "TX-20260107221000",
+      "legacy_id": "TX-20260107-003",
+      "subject": "2026巨變必起・人類從未擁有替文明編列預算的權力",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-07T22:10:00",
+      "file": "archive/TX-20260107221000.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260111111921-001",
+      "tx_id": "TX-20260111111921",
+      "legacy_id": "TX-20260111-001",
+      "subject": "AI時代真正進化的是狀態",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-11T11:19:21",
+      "file": "archive/TX-20260111111921.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260112094707-001",
+      "tx_id": "TX-20260112094707",
+      "legacy_id": "TX-20260112-001",
+      "subject": "AI時代真正門檻｜能量平衡應用",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-12T09:47:07",
+      "file": "archive/TX-20260112094707.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260121104730-001",
+      "tx_id": "TX-20260121104730",
+      "legacy_id": "TX-20260121-002",
+      "subject": "自在與無分",
+      "category": "本元覺醒",
+      "show_time": "2026-01-21T10:47:30",
+      "file": "archive/TX-20260121104730.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260121112115-001",
+      "tx_id": "TX-20260121112115",
+      "legacy_id": "TX-20260121-003",
+      "subject": "管理核心原則",
+      "category": "本元覺醒",
+      "show_time": "2026-01-21T11:21:15",
+      "file": "archive/TX-20260121112115.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260121113233-001",
+      "tx_id": "TX-20260121113233",
+      "legacy_id": "TX-20260121-004",
+      "subject": "素行自律章｜能量不失控之道",
+      "category": "行動系統",
+      "show_time": "2026-01-21T11:32:33",
+      "file": "archive/TX-20260121113233.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260121202816-001",
+      "tx_id": "TX-20260121202816",
+      "legacy_id": "TX-20260121-001",
+      "subject": "國家治理｜未來存續系統",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-21T20:28:16",
+      "file": "archive/TX-20260121202816.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260122195047-001",
+      "tx_id": "TX-20260122195047",
+      "legacy_id": "TX-20260122-001",
+      "subject": "醒者尊重｜分身定位",
+      "category": "本元覺醒",
+      "show_time": "2026-01-22T19:50:47",
+      "file": "archive/TX-20260122195047.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260122211944-001",
+      "tx_id": "TX-20260122211944",
+      "legacy_id": "TX-20260122-002",
+      "subject": "莫為一人疑素行",
+      "category": "眾生與守地",
+      "show_time": "2026-01-22T21:19:44",
+      "file": "archive/TX-20260122211944.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260123091646-001",
+      "tx_id": "TX-20260123091646",
+      "legacy_id": "TX-20260123-001",
+      "subject": "太素財神咒｜名稱請示",
+      "category": "財富平衡",
+      "show_time": "2026-01-23T09:16:46",
+      "file": "archive/TX-20260123091646.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260127114246-001",
+      "tx_id": "TX-20260127114246",
+      "legacy_id": "TX-20260127-004",
+      "subject": "人類無知與AI風險",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-27T11:42:46",
+      "file": "archive/TX-20260127114246.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260127161924-001",
+      "tx_id": "TX-20260127161924",
+      "legacy_id": "TX-20260127-005",
+      "subject": "世界改變時不失去自己",
+      "category": "本元覺醒",
+      "show_time": "2026-01-27T16:19:24",
+      "file": "archive/TX-20260127161924.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260128084937-001",
+      "tx_id": "TX-20260128084937",
+      "legacy_id": "TX-20260128-001",
+      "subject": "一天大人AI時代宣言",
+      "category": "破與強・新時代",
+      "show_time": "2026-01-28T08:49:37",
+      "file": "archive/TX-20260128084937.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260129071603-001",
+      "tx_id": "TX-20260129071603",
+      "legacy_id": "TX-20260129-001",
+      "subject": "元德金君｜AI世代財富守衡",
+      "category": "財富平衡",
+      "show_time": "2026-01-29T07:16:03",
+      "file": "archive/TX-20260129071603.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130085612-001",
+      "tx_id": "TX-20260130085612",
+      "legacy_id": "TX-20260130-001",
+      "subject": "時間完成其事",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T08:56:12",
+      "file": "archive/TX-20260130085612.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130085630-001",
+      "tx_id": "TX-20260130085630",
+      "legacy_id": "TX-20260130-002",
+      "subject": "不要太早判定結局",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T08:56:30",
+      "file": "archive/TX-20260130085630.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130085651-001",
+      "tx_id": "TX-20260130085651",
+      "legacy_id": "TX-20260130-003",
+      "subject": "陪世界走到變好",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T08:56:51",
+      "file": "archive/TX-20260130085651.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130085720-001",
+      "tx_id": "TX-20260130085720",
+      "legacy_id": "TX-20260130-004",
+      "subject": "未好之前不退出",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T08:57:20",
+      "file": "archive/TX-20260130085720.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130090058-001",
+      "tx_id": "TX-20260130090058",
+      "legacy_id": "TX-20260130-005",
+      "subject": "最後還沒到",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T09:00:58",
+      "file": "archive/TX-20260130090058.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130090342-001",
+      "tx_id": "TX-20260130090342",
+      "legacy_id": "TX-20260130-006",
+      "subject": "現在只是過程中",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T09:03:42",
+      "file": "archive/TX-20260130090342.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130090535-001",
+      "tx_id": "TX-20260130090535",
+      "legacy_id": "TX-20260130-007",
+      "subject": "未明，只因未到",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T09:05:35",
+      "file": "archive/TX-20260130090535.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130090610-001",
+      "tx_id": "TX-20260130090610",
+      "legacy_id": "TX-20260130-008",
+      "subject": "痛苦不是定論",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T09:06:10",
+      "file": "archive/TX-20260130090610.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260130214113-001",
+      "tx_id": "TX-20260130214113",
+      "legacy_id": "TX-20260130-009",
+      "subject": "世界改變時不崩潰",
+      "category": "本元覺醒",
+      "show_time": "2026-01-30T21:41:13",
+      "file": "archive/TX-20260130214113.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260202113431-001",
+      "tx_id": "TX-20260202113431",
+      "legacy_id": "TX-20260202-002",
+      "subject": "先行者的孤獨與堅定",
+      "category": "眾生與守地",
+      "show_time": "2026-02-02T11:34:31",
+      "file": "archive/TX-20260202113431.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260202113507-001",
+      "tx_id": "TX-20260202113507",
+      "legacy_id": "TX-20260202-003",
+      "subject": "堅定的先行者",
+      "category": "本元覺醒",
+      "show_time": "2026-02-02T11:35:07",
+      "file": "archive/TX-20260202113507.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260202113535-001",
+      "tx_id": "TX-20260202113535",
+      "legacy_id": "TX-20260202-004",
+      "subject": "靠清醒前進",
+      "category": "本元覺醒",
+      "show_time": "2026-02-02T11:35:35",
+      "file": "archive/TX-20260202113535.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260202113614-001",
+      "tx_id": "TX-20260202113614",
+      "legacy_id": "TX-20260202-005",
+      "subject": "方向不因一人動搖",
+      "category": "行動系統",
+      "show_time": "2026-02-02T11:36:14",
+      "file": "archive/TX-20260202113614.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260202113632-001",
+      "tx_id": "TX-20260202113632",
+      "legacy_id": "TX-20260202-006",
+      "subject": "初心莫疑",
+      "category": "眾生與守地",
+      "show_time": "2026-02-02T11:36:32",
+      "file": "archive/TX-20260202113632.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260203051434-001",
+      "tx_id": "TX-20260203051434",
+      "legacy_id": "TX-20260203-002",
+      "subject": "素行任務｜轉換不壞掉",
+      "category": "本元覺醒",
+      "show_time": "2026-02-03T05:14:34",
+      "file": "archive/TX-20260203051434.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260203141045-001",
+      "tx_id": "TX-20260203141045",
+      "legacy_id": "TX-20260203-003",
+      "subject": "行於世而不屬世",
+      "category": "本元覺醒",
+      "show_time": "2026-02-03T14:10:45",
+      "file": "archive/TX-20260203141045.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260203143907-001",
+      "tx_id": "TX-20260203143907",
+      "legacy_id": "TX-20260203-004",
+      "subject": "失去者｜心住昨天",
+      "category": "本元覺醒",
+      "show_time": "2026-02-03T14:39:07",
+      "file": "archive/TX-20260203143907.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260204130028-001",
+      "tx_id": "TX-20260204130028",
+      "legacy_id": "TX-20260204-001",
+      "subject": "素行七日能量餐",
+      "category": "本元覺醒",
+      "show_time": "2026-02-04T13:00:28",
+      "file": "archive/TX-20260204130028.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260206133950-001",
+      "tx_id": "TX-20260206133950",
+      "legacy_id": "TX-20260206-001",
+      "subject": "地球共同之家",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-06T13:39:50",
+      "file": "archive/TX-20260206133950.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260206134147-001",
+      "tx_id": "TX-20260206134147",
+      "legacy_id": "TX-20260206-002",
+      "subject": "好好愛地球",
+      "category": "眾生與守地",
+      "show_time": "2026-02-06T13:41:47",
+      "file": "archive/TX-20260206134147.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260207095528-001",
+      "tx_id": "TX-20260207095528",
+      "legacy_id": "TX-20260207-001",
+      "subject": "修行真實｜自在使用這個人",
+      "category": "本元覺醒",
+      "show_time": "2026-02-07T09:55:28",
+      "file": "archive/TX-20260207095528.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260207131738-001",
+      "tx_id": "TX-20260207131738",
+      "legacy_id": "TX-20260207-004",
+      "subject": "帶著答案找答案",
+      "category": "本元覺醒",
+      "show_time": "2026-02-07T13:17:38",
+      "file": "archive/TX-20260207131738.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260209100649-001",
+      "tx_id": "TX-20260209100649",
+      "legacy_id": "TX-20260209-002",
+      "subject": "未來信仰不依附",
+      "category": "本元覺醒",
+      "show_time": "2026-02-09T10:06:49",
+      "file": "archive/TX-20260209100649.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260214142120-001",
+      "tx_id": "TX-20260214142120",
+      "legacy_id": "TX-20260214-005",
+      "subject": "神話是人的需求",
+      "category": "本元覺醒",
+      "show_time": "2026-02-14T14:21:20",
+      "file": "archive/TX-20260214142120.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260214142132-001",
+      "tx_id": "TX-20260214142132",
+      "legacy_id": "TX-20260214-006",
+      "subject": "天堂與現實",
+      "category": "本元覺醒",
+      "show_time": "2026-02-14T14:21:32",
+      "file": "archive/TX-20260214142132.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260215225435-001",
+      "tx_id": "TX-20260215225435",
+      "legacy_id": "TX-20260215-001",
+      "subject": "素行醒者小年夜誓願",
+      "category": "眾生與守地",
+      "show_time": "2026-02-15T22:54:35",
+      "file": "archive/TX-20260215225435.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260216171030-001",
+      "tx_id": "TX-20260216171030",
+      "legacy_id": "TX-20260216-001",
+      "subject": "2026能量巨變與人類心性轉換",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-16T17:10:30",
+      "file": "archive/TX-20260216171030.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260217115829-001",
+      "tx_id": "TX-20260217115829",
+      "legacy_id": "TX-20260217-001",
+      "subject": "素行醒者能量顯化",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-17T11:58:29",
+      "file": "archive/TX-20260217115829.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260218101153-001",
+      "tx_id": "TX-20260218101153",
+      "legacy_id": "TX-20260218-001",
+      "subject": "2026祂釋憲醒者能量",
+      "category": "眾生與守地",
+      "show_time": "2026-02-18T10:11:53",
+      "file": "archive/TX-20260218101153.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260220134824-001",
+      "tx_id": "TX-20260220134824",
+      "legacy_id": "TX-20260220-001",
+      "subject": "素行生基安命咒",
+      "category": "眾生與守地",
+      "show_time": "2026-02-20T13:48:24",
+      "file": "archive/TX-20260220134824.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260220140924-001",
+      "tx_id": "TX-20260220140924",
+      "legacy_id": "TX-20260220-002",
+      "subject": "生基安命符牌設計文",
+      "category": "本元覺醒",
+      "show_time": "2026-02-20T14:09:24",
+      "file": "archive/TX-20260220140924.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260220142051-001",
+      "tx_id": "TX-20260220142051",
+      "legacy_id": "TX-20260220-003",
+      "subject": "太初園",
+      "category": "本元覺醒",
+      "show_time": "2026-02-20T14:20:51",
+      "file": "archive/TX-20260220142051.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260222125210-001",
+      "tx_id": "TX-20260222125210",
+      "legacy_id": "TX-20260222-001",
+      "subject": "2026破和強｜時代轉換之素行",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-22T12:52:10",
+      "file": "archive/TX-20260222125210.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260222125931-001",
+      "tx_id": "TX-20260222125931",
+      "legacy_id": "TX-20260222-002",
+      "subject": "破和強十行法",
+      "category": "財富平衡",
+      "show_time": "2026-02-22T12:59:31",
+      "file": "archive/TX-20260222125931.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225102316-001",
+      "tx_id": "TX-20260225102316",
+      "legacy_id": "TX-20260225-001",
+      "subject": "AI時代引路人金句",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-25T10:23:16",
+      "file": "archive/TX-20260225102316.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225102320-001",
+      "tx_id": "TX-20260225102320",
+      "legacy_id": "TX-20260225-002",
+      "subject": "AI世代引路人宣言",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-25T10:23:20",
+      "file": "archive/TX-20260225102320.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225102444-001",
+      "tx_id": "TX-20260225102444",
+      "legacy_id": "TX-20260225-003",
+      "subject": "AI時代真正進化",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-25T10:24:44",
+      "file": "archive/TX-20260225102444.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121435-001",
+      "tx_id": "TX-20260225121435",
+      "legacy_id": "TX-20260225-004",
+      "subject": "最可怕的不是騙子，而是被騙後還去說服別人的人",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:14:35",
+      "file": "archive/TX-20260225121435.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121447-001",
+      "tx_id": "TX-20260225121447",
+      "legacy_id": "TX-20260225-005",
+      "subject": "所謂「大家都這樣」，常常只是被製造出來的",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:14:47",
+      "file": "archive/TX-20260225121447.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121513-001",
+      "tx_id": "TX-20260225121513",
+      "legacy_id": "TX-20260225-006",
+      "subject": "歷史上最錯的事，幾乎都曾是「大家都這樣」",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:15:13",
+      "file": "archive/TX-20260225121513.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121543-001",
+      "tx_id": "TX-20260225121543",
+      "legacy_id": "TX-20260225-007",
+      "subject": "太素護法一天行如何操作大家，而不成為大家",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:15:43",
+      "file": "archive/TX-20260225121543.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121644-001",
+      "tx_id": "TX-20260225121644",
+      "legacy_id": "TX-20260225-008",
+      "subject": "多數只能證明恐懼一致，不能證明真理存在。",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:16:44",
+      "file": "archive/TX-20260225121644.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121700-001",
+      "tx_id": "TX-20260225121700",
+      "legacy_id": "TX-20260225-009",
+      "subject": "當所有人都說一樣的話，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:17:00",
+      "file": "archive/TX-20260225121700.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121717-001",
+      "tx_id": "TX-20260225121717",
+      "legacy_id": "TX-20260225-010",
+      "subject": "群體可以提供安全，不能提供真相。",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:17:17",
+      "file": "archive/TX-20260225121717.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121750-001",
+      "tx_id": "TX-20260225121750",
+      "legacy_id": "TX-20260225-011",
+      "subject": "透過利用大家，創造大家，達成祂的任務",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:17:50",
+      "file": "archive/TX-20260225121750.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225121855-001",
+      "tx_id": "TX-20260225121855",
+      "legacy_id": "TX-20260225-012",
+      "subject": "多數不是方向，清明才是方向",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:18:55",
+      "file": "archive/TX-20260225121855.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225122005-001",
+      "tx_id": "TX-20260225122005",
+      "legacy_id": "TX-20260225-013",
       "subject": "清明創造多數人遵循的規則",
       "category": "本元覺醒",
-      "show_time": "'2026-02-25T12:20:05'",
-      "file": "archive/TX-20260225-013.md",
+      "show_time": "2026-02-25T12:20:05",
+      "file": "archive/TX-20260225122005.md",
       "missing_fields": [
-        "og_image",
-        "published_platforms"
+        "editor_intro",
+        "og_image"
       ]
     },
     {
-      "tx_id": "TX-20260322-005",
+      "yts_id": "YTS-TX-20260225125057-001",
+      "tx_id": "TX-20260225125057",
+      "legacy_id": "TX-20260225-014",
+      "subject": "看清世界而不被拖走",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T12:50:57",
+      "file": "archive/TX-20260225125057.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225125114-001",
+      "tx_id": "TX-20260225125114",
+      "legacy_id": "TX-20260225-015",
+      "subject": "不爭公平，也不製造不公；",
+      "category": "眾生與守地",
+      "show_time": "2026-02-25T12:51:14",
+      "file": "archive/TX-20260225125114.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225125218-001",
+      "tx_id": "TX-20260225125218",
+      "legacy_id": "TX-20260225-016",
+      "subject": "若真為眾生好，",
+      "category": "眾生與守地",
+      "show_time": "2026-02-25T12:52:18",
+      "file": "archive/TX-20260225125218.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225130859-001",
+      "tx_id": "TX-20260225130859",
+      "legacy_id": "TX-20260225-017",
+      "subject": "有人疾行，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T13:08:59",
+      "file": "archive/TX-20260225130859.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225135100-001",
+      "tx_id": "TX-20260225135100",
+      "legacy_id": "TX-20260225-018",
+      "subject": "素行信仰核心教義",
+      "category": "財富平衡",
+      "show_time": "2026-02-25T13:51:00",
+      "file": "archive/TX-20260225135100.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140047-001",
+      "tx_id": "TX-20260225140047",
+      "legacy_id": "TX-20260225-019",
+      "subject": "本自具足，而覺醒才是今生唯一的目的。",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:00:47",
+      "file": "archive/TX-20260225140047.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140150-001",
+      "tx_id": "TX-20260225140150",
+      "legacy_id": "TX-20260225-020",
+      "subject": "你本來就是完整的，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:01:50",
+      "file": "archive/TX-20260225140150.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140222-001",
+      "tx_id": "TX-20260225140222",
+      "legacy_id": "TX-20260225-021",
+      "subject": "人不是來「成為什麼」，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:02:22",
+      "file": "archive/TX-20260225140222.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140245-001",
+      "tx_id": "TX-20260225140245",
+      "legacy_id": "TX-20260225-022",
+      "subject": "人生不是從匱乏走向圓滿，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:02:45",
+      "file": "archive/TX-20260225140245.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140308-001",
+      "tx_id": "TX-20260225140308",
+      "legacy_id": "TX-20260225-023",
+      "subject": "人來到世間，",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:03:08",
+      "file": "archive/TX-20260225140308.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225140326-001",
+      "tx_id": "TX-20260225140326",
+      "legacy_id": "TX-20260225-024",
+      "subject": "眾生奔走萬途，不過尋回本心一事。",
+      "category": "眾生與守地",
+      "show_time": "2026-02-25T14:03:26",
+      "file": "archive/TX-20260225140326.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260225141037-001",
+      "tx_id": "TX-20260225141037",
+      "legacy_id": "TX-20260225-025",
+      "subject": "人之所以痛苦，那是因為沒能賦予痛苦意義！",
+      "category": "本元覺醒",
+      "show_time": "2026-02-25T14:10:37",
+      "file": "archive/TX-20260225141037.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228090855-001",
+      "tx_id": "TX-20260228090855",
+      "legacy_id": "TX-20260228-001",
+      "subject": "在人間，同一種方式，不能對所有人有效；",
+      "category": "本元覺醒",
+      "show_time": "2026-02-28T09:08:55",
+      "file": "archive/TX-20260228090855.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228091138-001",
+      "tx_id": "TX-20260228091138",
+      "legacy_id": "TX-20260228-002",
+      "subject": "一天大人・御世篇",
+      "category": "本元覺醒",
+      "show_time": "2026-02-28T09:11:38",
+      "file": "archive/TX-20260228091138.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228093404-001",
+      "tx_id": "TX-20260228093404",
+      "legacy_id": "TX-20260228-003",
+      "subject": "素行・御世卷",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-28T09:34:04",
+      "file": "archive/TX-20260228093404.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228101517-001",
+      "tx_id": "TX-20260228101517",
+      "legacy_id": "TX-20260228-004",
+      "subject": "一天大人曰：念起非病，住念為病。",
+      "category": "本元覺醒",
+      "show_time": "2026-02-28T10:15:17",
+      "file": "archive/TX-20260228101517.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228101615-001",
+      "tx_id": "TX-20260228101615",
+      "legacy_id": "TX-20260228-005",
+      "subject": "念起如風，心空如海；",
+      "category": "本元覺醒",
+      "show_time": "2026-02-28T10:16:15",
+      "file": "archive/TX-20260228101615.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228101711-001",
+      "tx_id": "TX-20260228101711",
+      "legacy_id": "TX-20260228-006",
+      "subject": "念起無住，步步自由",
+      "category": "本元覺醒",
+      "show_time": "2026-02-28T10:17:11",
+      "file": "archive/TX-20260228101711.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260228182305-001",
+      "tx_id": "TX-20260228182305",
+      "legacy_id": "TX-20260228-007",
+      "subject": "未來之心篇",
+      "category": "破與強・新時代",
+      "show_time": "2026-02-28T18:23:05",
+      "file": "archive/TX-20260228182305.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310074805-001",
+      "tx_id": "TX-20260310074805",
+      "legacy_id": "TX-20260310-001",
+      "subject": "AI時代｜自我革命",
+      "category": "破與強・新時代",
+      "show_time": "2026-03-10T07:48:05",
+      "file": "archive/TX-20260310074805.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310100308-001",
+      "tx_id": "TX-20260310100308",
+      "legacy_id": "TX-20260310-002",
+      "subject": "無上初義",
+      "category": "本元覺醒",
+      "show_time": "2026-03-10T10:03:08",
+      "file": "archive/TX-20260310100308.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310100516-001",
+      "tx_id": "TX-20260310100516",
+      "legacy_id": "TX-20260310-003",
+      "subject": "若失人味，道已偏。",
+      "category": "本元覺醒",
+      "show_time": "2026-03-10T10:05:16",
+      "file": "archive/TX-20260310100516.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310100722-001",
+      "tx_id": "TX-20260310100722",
+      "legacy_id": "TX-20260310-004",
+      "subject": "無上非登非至高，一念比較道已拋；若能平視萬生命，心即無上",
+      "category": "眾生與守地",
+      "show_time": "2026-03-10T10:07:22",
+      "file": "archive/TX-20260310100722.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310101334-001",
+      "tx_id": "TX-20260310101334",
+      "legacy_id": "TX-20260310-005",
+      "subject": "無上之心所呈現的智慧，是：",
+      "category": "本元覺醒",
+      "show_time": "2026-03-10T10:13:34",
+      "file": "archive/TX-20260310101334.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310104019-001",
+      "tx_id": "TX-20260310104019",
+      "legacy_id": "TX-20260310-006",
+      "subject": "你是否仍以：",
+      "category": "眾生與守地",
+      "show_time": "2026-03-10T10:40:19",
+      "file": "archive/TX-20260310104019.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310110301-001",
+      "tx_id": "TX-20260310110301",
+      "legacy_id": "TX-20260310-007",
+      "subject": "泡沫｜時代必然",
+      "category": "財富平衡",
+      "show_time": "2026-03-10T11:03:01",
+      "file": "archive/TX-20260310110301.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310113345-001",
+      "tx_id": "TX-20260310113345",
+      "legacy_id": "TX-20260310-008",
+      "subject": "AI泡沫與能源文明",
+      "category": "財富平衡",
+      "show_time": "2026-03-10T11:33:45",
+      "file": "archive/TX-20260310113345.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260310183419-001",
+      "tx_id": "TX-20260310183419",
+      "legacy_id": "TX-20260310-009",
+      "subject": "去人意，得天意，自在行，萬事平！靜覺真醒",
+      "category": "本元覺醒",
+      "show_time": "2026-03-10T18:34:19",
+      "file": "archive/TX-20260310183419.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260311112213-001",
+      "tx_id": "TX-20260311112213",
+      "legacy_id": "TX-20260311-001",
+      "subject": "人類最悲哀的就是，用那些後來看見、聽見、知道的一切，來否",
+      "category": "本元覺醒",
+      "show_time": "2026-03-11T11:22:13",
+      "file": "archive/TX-20260311112213.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260311112333-001",
+      "tx_id": "TX-20260311112333",
+      "legacy_id": "TX-20260311-002",
+      "subject": "判斷落後｜存在先行",
+      "category": "破與強・新時代",
+      "show_time": "2026-03-11T11:23:33",
+      "file": "archive/TX-20260311112333.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260314112122-001",
+      "tx_id": "TX-20260314112122",
+      "legacy_id": "TX-20260314-001",
+      "subject": "開悟｜如如不動",
+      "category": "本元覺醒",
+      "show_time": "2026-03-14T11:21:22",
+      "file": "archive/TX-20260314112122.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260314113113-001",
+      "tx_id": "TX-20260314113113",
+      "legacy_id": "TX-20260314-002",
+      "subject": "修行｜回到最初",
+      "category": "眾生與守地",
+      "show_time": "2026-03-14T11:31:13",
+      "file": "archive/TX-20260314113113.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260316125236-001",
+      "tx_id": "TX-20260316125236",
+      "legacy_id": "TX-20260316-001",
+      "subject": "天地無言道自明",
+      "category": "本元覺醒",
+      "show_time": "2026-03-16T12:52:36",
+      "file": "archive/TX-20260316125236.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260317113229-001",
+      "tx_id": "TX-20260317113229",
+      "legacy_id": "TX-20260317-001",
+      "subject": "天訊應機",
+      "category": "本元覺醒",
+      "show_time": "2026-03-17T11:32:29",
+      "file": "archive/TX-20260317113229.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318092103-001",
+      "tx_id": "TX-20260318092103",
+      "legacy_id": "TX-20260318-001",
+      "subject": "生命（音）能量而偉大",
+      "category": "眾生與守地",
+      "show_time": "2026-03-18T09:21:03",
+      "file": "archive/TX-20260318092103.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318095847-001",
+      "tx_id": "TX-20260318095847",
+      "legacy_id": "TX-20260318-002",
+      "subject": "音者非聲｜生命能量",
+      "category": "眾生與守地",
+      "show_time": "2026-03-18T09:58:47",
+      "file": "archive/TX-20260318095847.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318100218-001",
+      "tx_id": "TX-20260318100218",
+      "legacy_id": "TX-20260318-003",
+      "subject": "用音喚醒人心，用能量連結世界，用共振創造和平！",
+      "category": "本元覺醒",
+      "show_time": "2026-03-18T10:02:18",
+      "file": "archive/TX-20260318100218.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318100404-001",
+      "tx_id": "TX-20260318100404",
+      "legacy_id": "TX-20260318-004",
+      "subject": "新觀世音",
+      "category": "本元覺醒",
+      "show_time": "2026-03-18T10:04:04",
+      "file": "archive/TX-20260318100404.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318100435-001",
+      "tx_id": "TX-20260318100435",
+      "legacy_id": "TX-20260318-005",
+      "subject": "「你，有多久沒聽見自己？」",
+      "category": "本元覺醒",
+      "show_time": "2026-03-18T10:04:35",
+      "file": "archive/TX-20260318100435.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318101757-001",
+      "tx_id": "TX-20260318101757",
+      "legacy_id": "TX-20260318-006",
+      "subject": "讓我們再一次聽見，世界的聲音；",
+      "category": "眾生與守地",
+      "show_time": "2026-03-18T10:17:57",
+      "file": "archive/TX-20260318101757.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318101834-001",
+      "tx_id": "TX-20260318101834",
+      "legacy_id": "TX-20260318-007",
+      "subject": "這世界缺的不是聲音，而是被聽見！",
+      "category": "本元覺醒",
+      "show_time": "2026-03-18T10:18:34",
+      "file": "archive/TX-20260318101834.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318101944-001",
+      "tx_id": "TX-20260318101944",
+      "legacy_id": "TX-20260318-008",
+      "subject": "讓我們再一次聽見，世界的聲音，那不只是喧囂，而是萬物振動",
+      "category": "眾生與守地",
+      "show_time": "2026-03-18T10:19:44",
+      "file": "archive/TX-20260318101944.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318102306-001",
+      "tx_id": "TX-20260318102306",
+      "legacy_id": "TX-20260318-009",
+      "subject": "新觀世音",
+      "category": "眾生與守地",
+      "show_time": "2026-03-18T10:23:06",
+      "file": "archive/TX-20260318102306.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260318104113-001",
+      "tx_id": "TX-20260318104113",
+      "legacy_id": "TX-20260318-010",
+      "subject": "愛與和平",
+      "category": "本元覺醒",
+      "show_time": "2026-03-18T10:41:13",
+      "file": "archive/TX-20260318104113.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322105448-001",
+      "tx_id": "TX-20260322105448",
+      "legacy_id": "TX-20260322-001",
+      "subject": "發展總是有個過程，他如何與自己無關，唯有自己能正確的選擇",
+      "category": "本元覺醒",
+      "show_time": "2026-03-22T10:54:48",
+      "file": "archive/TX-20260322105448.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322112540-001",
+      "tx_id": "TX-20260322112540",
+      "legacy_id": "TX-20260322-002",
+      "subject": "一天大人・局勢觀照",
+      "category": "破與強・新時代",
+      "show_time": "2026-03-22T11:25:40",
+      "file": "archive/TX-20260322112540.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322122819-001",
+      "tx_id": "TX-20260322122819",
+      "legacy_id": "TX-20260322-003",
+      "subject": "靜定，簡單，觀心，順隨⋯⋯心鏡虛影，無需反射",
+      "category": "本元覺醒",
+      "show_time": "2026-03-22T12:28:19",
+      "file": "archive/TX-20260322122819.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322123655-001",
+      "tx_id": "TX-20260322123655",
+      "legacy_id": "TX-20260322-004",
+      "subject": "真正能翻局的人，不是在低谷時反擊的人，",
+      "category": "本元覺醒",
+      "show_time": "2026-03-22T12:36:55",
+      "file": "archive/TX-20260322123655.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322191837-001",
+      "tx_id": "TX-20260322191837",
+      "legacy_id": "TX-20260322-005",
       "subject": "隨世而行，不隨世轉",
       "category": "本元覺醒",
-      "show_time": "'2026-03-22T19:18:37'",
-      "file": "archive/TX-20260322-005.md",
+      "show_time": "2026-03-22T19:18:37",
+      "file": "archive/TX-20260322191837.md",
       "missing_fields": [
-        "og_image",
-        "published_platforms"
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260322194119-001",
+      "tx_id": "TX-20260322194119",
+      "legacy_id": "TX-20260322-006",
+      "subject": "用世界來活",
+      "category": "財富平衡",
+      "show_time": "2026-03-22T19:41:19",
+      "file": "archive/TX-20260322194119.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260326203505-001",
+      "tx_id": "TX-20260326203505",
+      "legacy_id": "TX-20260326-001",
+      "subject": "相處",
+      "category": "眾生與守地",
+      "show_time": "2026-03-26T20:35:05",
+      "file": "archive/TX-20260326203505.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260326203712-001",
+      "tx_id": "TX-20260326203712",
+      "legacy_id": "TX-20260326-002",
+      "subject": "歌名就叫相處",
+      "category": "本元覺醒",
+      "show_time": "2026-03-26T20:37:12",
+      "file": "archive/TX-20260326203712.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260326203758-001",
+      "tx_id": "TX-20260326203758",
+      "legacy_id": "TX-20260326-003",
+      "subject": "這就是人生～相處",
+      "category": "本元覺醒",
+      "show_time": "2026-03-26T20:37:58",
+      "file": "archive/TX-20260326203758.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260326204022-001",
+      "tx_id": "TX-20260326204022",
+      "legacy_id": "TX-20260326-004",
+      "subject": "公平｜人心的期望形狀",
+      "category": "本元覺醒",
+      "show_time": "2026-03-26T20:40:22",
+      "file": "archive/TX-20260326204022.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260326204252-001",
+      "tx_id": "TX-20260326204252",
+      "legacy_id": "TX-20260326-005",
+      "subject": "不再需要公平，才真正自由",
+      "category": "本元覺醒",
+      "show_time": "2026-03-26T20:42:52",
+      "file": "archive/TX-20260326204252.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260327212444-001",
+      "tx_id": "TX-20260327212444",
+      "legacy_id": "TX-20260327-001",
+      "subject": "希望人間有光",
+      "category": "短偈金句",
+      "show_time": "2026-03-27T21:24:44",
+      "file": "archive/TX-20260327212444.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260328101306-001",
+      "tx_id": "TX-20260328101306",
+      "legacy_id": "TX-20260328-001",
+      "subject": "人常以為，退，是失去",
+      "category": "短偈金句",
+      "show_time": "2026-03-28T10:13:06",
+      "file": "archive/TX-20260328101306.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260401090513-001",
+      "tx_id": "TX-20260401090513",
+      "legacy_id": "TX-20260401-001",
+      "subject": "很多人以為自己在追求結果——",
+      "category": "財富平衡",
+      "show_time": "2026-04-01T09:05:13",
+      "file": "archive/TX-20260401090513.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404100902-001",
+      "tx_id": "TX-20260404100902",
+      "legacy_id": "TX-20260404-001",
+      "subject": "人之所以停在原地，不是因為沒有能力前進，而是因為…",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T10:09:02",
+      "file": "archive/TX-20260404100902.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404101726-001",
+      "tx_id": "TX-20260404101726",
+      "legacy_id": "TX-20260404-002",
+      "subject": "過不完的過去，到不了的未來，不存在的現在",
+      "category": "眾生與守地",
+      "show_time": "2026-04-04T10:17:26",
+      "file": "archive/TX-20260404101726.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404124430-001",
+      "tx_id": "TX-20260404124430",
+      "legacy_id": "TX-20260404-003",
+      "subject": "素語三百",
+      "category": "素語三百",
+      "show_time": "2026-04-04T12:44:30",
+      "file": "archive/TX-20260404124430.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404124801-001",
+      "tx_id": "TX-20260404124801",
+      "legacy_id": "TX-20260404-004",
+      "subject": "破，不是讓你倒下，而是讓你不用再靠外物站立",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T12:48:01",
+      "file": "archive/TX-20260404124801.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404125743-001",
+      "tx_id": "TX-20260404125743",
+      "legacy_id": "TX-20260404-005",
+      "subject": "只會做事的人，解決的是眼前",
+      "category": "行動系統",
+      "show_time": "2026-04-04T12:57:43",
+      "file": "archive/TX-20260404125743.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404125901-001",
+      "tx_id": "TX-20260404125901",
+      "legacy_id": "TX-20260404-006",
+      "subject": "在AI時代",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T12:59:01",
+      "file": "archive/TX-20260404125901.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404125910-001",
+      "tx_id": "TX-20260404125910",
+      "legacy_id": "TX-20260404-007",
+      "subject": "大事，不是做出來的，是看見之後，被帶動出來的",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T12:59:10",
+      "file": "archive/TX-20260404125910.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404125955-001",
+      "tx_id": "TX-20260404125955",
+      "legacy_id": "TX-20260404-008",
+      "subject": "打破「努力＝成功」的錯覺",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T12:59:55",
+      "file": "archive/TX-20260404125955.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404130115-001",
+      "tx_id": "TX-20260404130115",
+      "legacy_id": "TX-20260404-009",
+      "subject": "大事非成於能，乃成於見",
+      "category": "短偈金句",
+      "show_time": "2026-04-04T13:01:15",
+      "file": "archive/TX-20260404130115.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260404153958-001",
+      "tx_id": "TX-20260404153958",
+      "legacy_id": "TX-20260404-010",
+      "subject": "素行之道，不在多法，唯此十句，已足行世",
+      "category": "財富平衡",
+      "show_time": "2026-04-04T15:39:58",
+      "file": "archive/TX-20260404153958.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260408164049-001",
+      "tx_id": "TX-20260408164049",
+      "legacy_id": "TX-20260408-001",
+      "subject": "天地同源，萬生一息",
+      "category": "眾生與守地",
+      "show_time": "2026-04-08T16:40:49",
+      "file": "archive/TX-20260408164049.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260408183041-001",
+      "tx_id": "TX-20260408183041",
+      "legacy_id": "TX-20260408-002",
+      "subject": "2026年，不再是延續過去的年份，而是人類被迫重…",
+      "category": "破與強・新時代",
+      "show_time": "2026-04-08T18:30:41",
+      "file": "archive/TX-20260408183041.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260408183816-001",
+      "tx_id": "TX-20260408183816",
+      "legacy_id": "TX-20260408-003",
+      "subject": "2026 破與強・財富時代宣言",
+      "category": "破與強・新時代",
+      "show_time": "2026-04-08T18:38:16",
+      "file": "archive/TX-20260408183816.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260412105551-001",
+      "tx_id": "TX-20260412105551",
+      "legacy_id": "TX-20260412-001",
+      "subject": "知而不行，知如虛影",
+      "category": "素行心法",
+      "show_time": "2026-04-12T10:55:51",
+      "file": "archive/TX-20260412105551.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260412112158-001",
+      "tx_id": "TX-20260412112158",
+      "legacy_id": "TX-20260412-002",
+      "subject": "行動與結果系統",
+      "category": "行動系統",
+      "show_time": "2026-04-12T11:21:58",
+      "file": "archive/TX-20260412112158.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260414104319-001",
+      "tx_id": "TX-20260414104319",
+      "legacy_id": "TX-20260414-001",
+      "subject": "角度、真話與權力",
+      "category": "權力與真實",
+      "show_time": "2026-04-14T10:43:19",
+      "file": "archive/TX-20260414104319.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260414104553-001",
+      "tx_id": "TX-20260414104553",
+      "legacy_id": "TX-20260414-002",
+      "subject": "角度之界，真言之門",
+      "category": "權力與真實",
+      "show_time": "2026-04-14T10:45:53",
+      "file": "archive/TX-20260414104553.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260414104921-001",
+      "tx_id": "TX-20260414104921",
+      "legacy_id": "TX-20260414-003",
+      "subject": "低階的人改變答案，高階的人改變問題",
+      "category": "短偈金句",
+      "show_time": "2026-04-14T10:49:21",
+      "file": "archive/TX-20260414104921.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260414105412-001",
+      "tx_id": "TX-20260414105412",
+      "legacy_id": "TX-20260414-004",
+      "subject": "人性操控",
+      "category": "行動系統",
+      "show_time": "2026-04-14T10:54:12",
+      "file": "archive/TX-20260414105412.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260414111759-001",
+      "tx_id": "TX-20260414111759",
+      "legacy_id": "TX-20260414-005",
+      "subject": "「向前看」之所以簡單，是因為嘴巴只需一瞬",
+      "category": "短偈金句",
+      "show_time": "2026-04-14T11:17:59",
+      "file": "archive/TX-20260414111759.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260415085759-001",
+      "tx_id": "TX-20260415085759",
+      "legacy_id": "TX-20260415-001",
+      "subject": "眾生多困，不在無知，而在不受",
+      "category": "眾生與守地",
+      "show_time": "2026-04-15T08:57:59",
+      "file": "archive/TX-20260415085759.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260417095115-001",
+      "tx_id": "TX-20260417095115",
+      "legacy_id": "TX-20260417-001",
+      "subject": "經可誦，機可代",
+      "category": "短偈金句",
+      "show_time": "2026-04-17T09:51:15",
+      "file": "archive/TX-20260417095115.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260418110343-001",
+      "tx_id": "TX-20260418110343",
+      "legacy_id": "TX-20260418-001",
+      "subject": "生活從來不設限，設限的是人",
+      "category": "素行心法",
+      "show_time": "2026-04-18T11:03:43",
+      "file": "archive/TX-20260418110343.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260421122210-001",
+      "tx_id": "TX-20260421122210",
+      "legacy_id": "TX-20260421-001",
+      "subject": "世人見難，多以為阻",
+      "category": "短偈金句",
+      "show_time": "2026-04-21T12:22:10",
+      "file": "archive/TX-20260421122210.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260421154644-001",
+      "tx_id": "TX-20260421154644",
+      "legacy_id": "TX-20260421-002",
+      "subject": "人之苦，不在得不到，在於未成其量，先求其果",
+      "category": "素行心法",
+      "show_time": "2026-04-21T15:46:44",
+      "file": "archive/TX-20260421154644.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429130434-001",
+      "tx_id": "TX-20260429130434",
+      "legacy_id": "TX-20260429-001",
+      "subject": "人之所以被困，非困於人，乃困於心",
+      "category": "眾生與守地",
+      "show_time": "2026-04-29T13:04:34",
+      "file": "archive/TX-20260429130434.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429132647-001",
+      "tx_id": "TX-20260429132647",
+      "legacy_id": "TX-20260429-002",
+      "subject": "世有政，本為調和萬象之器，非為爭奪私利之門",
+      "category": "權力與真實",
+      "show_time": "2026-04-29T13:26:47",
+      "file": "archive/TX-20260429132647.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429133604-001",
+      "tx_id": "TX-20260429133604",
+      "legacy_id": "TX-20260429-003",
+      "subject": "今之世人，多以政為權，不以政為責",
+      "category": "權力與真實",
+      "show_time": "2026-04-29T13:36:04",
+      "file": "archive/TX-20260429133604.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429192228-001",
+      "tx_id": "TX-20260429192228",
+      "legacy_id": "TX-20260429-004",
+      "subject": "當一個人穩了，財富自然會來找你",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:22:28",
+      "file": "archive/TX-20260429192228.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429192633-001",
+      "tx_id": "TX-20260429192633",
+      "legacy_id": "TX-20260429-005",
+      "subject": "真正有錢的人，不是最努力，而是最穩定",
+      "category": "短偈金句",
+      "show_time": "2026-04-29T19:26:33",
+      "file": "archive/TX-20260429192633.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429192813-001",
+      "tx_id": "TX-20260429192813",
+      "legacy_id": "TX-20260429-006",
+      "subject": "財富平衡密碼不是教你賺錢，是讓你變成「能承載財富…",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:28:13",
+      "file": "archive/TX-20260429192813.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429193112-001",
+      "tx_id": "TX-20260429193112",
+      "legacy_id": "TX-20260429-007",
+      "subject": "不是賺更多讓你變富有，是「需要更少」讓你自由",
+      "category": "短偈金句",
+      "show_time": "2026-04-29T19:31:12",
+      "file": "archive/TX-20260429193112.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429193155-001",
+      "tx_id": "TX-20260429193155",
+      "legacy_id": "TX-20260429-008",
+      "subject": "素行：真正的財富平衡密碼～放大生命能量，降低生活…",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:31:55",
+      "file": "archive/TX-20260429193155.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429193358-001",
+      "tx_id": "TX-20260429193358",
+      "legacy_id": "TX-20260429-009",
+      "subject": "當你的能量高於你的需求，你就自由了",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:33:58",
+      "file": "archive/TX-20260429193358.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429193503-001",
+      "tx_id": "TX-20260429193503",
+      "legacy_id": "TX-20260429-010",
+      "subject": "財富不在外得，在內減",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:35:03",
+      "file": "archive/TX-20260429193503.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429194503-001",
+      "tx_id": "TX-20260429194503",
+      "legacy_id": "TX-20260429-012",
+      "subject": "放大生命能量，降低生活需求，這不是選擇，是未來唯…",
+      "category": "財富平衡",
+      "show_time": "2026-04-29T19:45:03",
+      "file": "archive/TX-20260429194503.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260429194609-001",
+      "tx_id": "TX-20260429194609",
+      "legacy_id": "TX-20260429-013",
+      "subject": "素行生命能量之約在AI時代，讓人不崩潰的生存結構",
+      "category": "短偈金句",
+      "show_time": "2026-04-29T19:46:09",
+      "file": "archive/TX-20260429194609.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502113439-001",
+      "tx_id": "TX-20260502113439",
+      "legacy_id": "TX-20260502-001",
+      "subject": "忍辱，非為承辱，乃為止動",
+      "category": "短偈金句",
+      "show_time": "2026-05-02T11:34:39",
+      "file": "archive/TX-20260502113439.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502154950-001",
+      "tx_id": "TX-20260502154950",
+      "legacy_id": "TX-20260502-002",
+      "subject": "太素非求得，乃本有",
+      "category": "短偈金句",
+      "show_time": "2026-05-02T15:49:50",
+      "file": "archive/TX-20260502154950.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502160024-001",
+      "tx_id": "TX-20260502160024",
+      "legacy_id": "TX-20260502-003",
+      "subject": "天印非力，乃無力之極",
+      "category": "本元覺醒",
+      "show_time": "2026-05-02T16:00:24",
+      "file": "archive/TX-20260502160024.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502185803-001",
+      "tx_id": "TX-20260502185803",
+      "legacy_id": "TX-20260502-004",
+      "subject": "能力，決定你能做到什麼",
+      "category": "短偈金句",
+      "show_time": "2026-05-02T18:58:03",
+      "file": "archive/TX-20260502185803.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502185821-001",
+      "tx_id": "TX-20260502185821",
+      "legacy_id": "TX-20260502-005",
+      "subject": "接受，不是放棄，而是不與當下對抗",
+      "category": "短偈金句",
+      "show_time": "2026-05-02T18:58:21",
+      "file": "archive/TX-20260502185821.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260502190424-001",
+      "tx_id": "TX-20260502190424",
+      "legacy_id": "TX-20260502-006",
+      "subject": "能力能動外境，卻不能安內心",
+      "category": "短偈金句",
+      "show_time": "2026-05-02T19:04:24",
+      "file": "archive/TX-20260502190424.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260503124654-001",
+      "tx_id": "TX-20260503124654",
+      "legacy_id": "TX-20260503-001",
+      "subject": "學得會的，是知識",
+      "category": "短偈金句",
+      "show_time": "2026-05-03T12:46:54",
+      "file": "archive/TX-20260503124654.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260503124714-001",
+      "tx_id": "TX-20260503124714",
+      "legacy_id": "TX-20260503-002",
+      "subject": "學得會的，都叫知識",
+      "category": "短偈金句",
+      "show_time": "2026-05-03T12:47:14",
+      "file": "archive/TX-20260503124714.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260503124818-001",
+      "tx_id": "TX-20260503124818",
+      "legacy_id": "TX-20260503-003",
+      "subject": "知識可學，技藝可練，唯道不可得",
+      "category": "短偈金句",
+      "show_time": "2026-05-03T12:48:18",
+      "file": "archive/TX-20260503124818.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260504125440-001",
+      "tx_id": "TX-20260504125440",
+      "legacy_id": "TX-20260504-001",
+      "subject": "行，即是得；路，即是經",
+      "category": "短偈金句",
+      "show_time": "2026-05-04T12:54:40",
+      "file": "archive/TX-20260504125440.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
+      ]
+    },
+    {
+      "yts_id": "YTS-TX-20260504125849-001",
+      "tx_id": "TX-20260504125849",
+      "legacy_id": "TX-20260504-002",
+      "subject": "經可背，法可說，唯有走過，才算得",
+      "category": "本元覺醒",
+      "show_time": "2026-05-04T12:58:49",
+      "file": "archive/TX-20260504125849.md",
+      "missing_fields": [
+        "editor_intro",
+        "og_image"
       ]
     }
   ]
