@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-09-15T04:32:40.442874",
+  "generated_at": "2026-09-17T07:50:45.572210",
   "source": "archive/*.md",
-  "total_count": 447,
+  "total_count": 448,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -11214,6 +11214,35 @@
       "meta_description": "不預設生命，才能看見生命本質中的奇蹟。",
       "file_name": "TX-20260913155039.md",
       "github_path": "archive/TX-20260913155039.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260917150700",
+      "subject": "活在這一睜一閉之間",
+      "show_time": "2026-09-17T15:07:00",
+      "category": "素行心法",
+      "tags": [
+        "素行心法",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "引路人",
+        "看清",
+        "放下"
+      ],
+      "publish_status": "已發布",
+      "related_ids": "[]",
+      "meta_description": "人的一生都活在睜眼與閉眼之間；真正的引路人是在睜眼時提醒不被迷惑，在閉眼前明白終究都要放下；真正的醒，是在能睜眼時就懂閉眼，在活著時就不被人生所困。",
+      "file_name": "TX-20260917150700.md",
+      "github_path": "archive/TX-20260917150700.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
