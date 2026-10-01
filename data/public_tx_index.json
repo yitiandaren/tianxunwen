@@ -6591,6 +6591,48 @@
       "semantic_edges": [],
       "embedding_ready": false,
       "embedding_text": ""
+    },
+    {
+      "tx_id": "TX-20260917150700",
+      "subject": "活在這一睜一閉之間",
+      "show_time": "2026-09-17T15:07:00",
+      "category": "素行心法",
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "引路人",
+        "看清",
+        "放下"
+      ],
+      "topic_family": "",
+      "semantic_cluster": [],
+      "meta_description": "人的一生都活在睜眼與閉眼之間；真正的引路人是在睜眼時提醒不被迷惑，在閉眼前明白終究都要放下；真正的醒，是在能睜眼時就懂閉眼，在活著時就不被人生所困。",
+      "related_ids": "[]",
+      "semantic_edges": [],
+      "embedding_ready": false,
+      "embedding_text": ""
+    },
+    {
+      "tx_id": "TX-20261001090557",
+      "subject": "看高、看遠，走出眼前的一步",
+      "show_time": "2026-10-01T09:05:57",
+      "category": "生活指引",
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "生活指引"
+      ],
+      "topic_family": "",
+      "semantic_cluster": [],
+      "meta_description": "一天大人 太素天尊《看高、看遠，走出眼前的一步》天訊文原典。現世時間：20261001090557；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "related_ids": "[]",
+      "semantic_edges": [],
+      "embedding_ready": false,
+      "embedding_text": ""
     }
   ]
 }
