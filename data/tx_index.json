@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-01T04:30:49.278263",
+  "generated_at": "2026-10-01T23:42:23.177637",
   "source": "archive/*.md",
-  "total_count": 449,
+  "total_count": 459,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -11220,6 +11220,64 @@
       "semantic_cluster": []
     },
     {
+      "tx_id": "TX-20260917145000",
+      "subject": "總以為還有很多時間，後來才知道，有些普通得不能再普通的一天，竟然就是一生再也到不了的一天。",
+      "show_time": "2026-09-17T14:50:00",
+      "category": [],
+      "tags": [
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "總以為還有很多時間，後來才知道，有些普通得不能再普通的一天，竟然就是一生再也到不了的一天。",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《總以為還有很多時間，後來才知道，有些普通得不能再普通的一天，竟然就是一生再也到不了的一天。》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260917145000.md",
+      "github_path": "archive/TX-20260917145000.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "短偈金句",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260917145622",
+      "subject": "十八歲那年的夏天",
+      "show_time": "2026-09-17T14:56:22",
+      "category": "素行生活與生活需求",
+      "tags": [
+        "青春",
+        "告別",
+        "回憶",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "十八歲那年的夏天",
+        "青春",
+        "告別",
+        "回憶",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《十八歲那年的夏天》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260917145622.md",
+      "github_path": "archive/TX-20260917145622.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "生活指引",
+      "semantic_cluster": []
+    },
+    {
       "tx_id": "TX-20260917150700",
       "subject": "活在這一睜一閉之間",
       "show_time": "2026-09-17T15:07:00",
@@ -11246,6 +11304,264 @@
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260918090020",
+      "subject": "滿足，不是因為擁有足夠，而是因為包容不足。",
+      "show_time": "2026-09-18T09:00:20",
+      "category": "素行生活與生活需求",
+      "tags": [
+        "滿足",
+        "包容",
+        "不足",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "滿足，不是因為擁有足夠，而是因為包容不足。",
+        "滿足",
+        "包容",
+        "不足",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《滿足，不是因為擁有足夠，而是因為包容不足。》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260918090020.md",
+      "github_path": "archive/TX-20260918090020.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "短偈金句",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260918092258",
+      "subject": "滿足的人，不是因為一切都已足夠",
+      "show_time": "2026-09-18T09:22:58",
+      "category": "素行生活與生活需求",
+      "tags": [
+        "滿足",
+        "包容",
+        "生命",
+        "接受",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "滿足的人，不是因為一切都已足夠",
+        "滿足",
+        "包容",
+        "生命",
+        "接受",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《滿足的人，不是因為一切都已足夠》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260918092258.md",
+      "github_path": "archive/TX-20260918092258.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "生活指引",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260921110900",
+      "subject": "一天之音・聽頌咒文",
+      "show_time": "2026-09-21T11:09:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "一天之音",
+        "九音",
+        "靜定",
+        "觀心",
+        "順隨",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "一天之音・聽頌咒文",
+        "一天之音",
+        "九音",
+        "靜定",
+        "觀心",
+        "順隨",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《一天之音・聽頌咒文》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260921110900.md",
+      "github_path": "archive/TX-20260921110900.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "修行方法",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260922095130",
+      "subject": "當你接受自己的無知，永遠比知道的更多",
+      "show_time": "2026-09-22T09:51:30",
+      "category": "修行與覺醒",
+      "tags": [
+        "無知",
+        "智慧",
+        "進步",
+        "可能",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "當你接受自己的無知，永遠比知道的更多",
+        "無知",
+        "智慧",
+        "進步",
+        "可能",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《當你接受自己的無知，永遠比知道的更多》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260922095130.md",
+      "github_path": "archive/TX-20260922095130.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "短偈金句",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260922095235",
+      "subject": "承認無知，不是縮小自己，而是讓自己重新擁有無限的可能",
+      "show_time": "2026-09-22T09:52:35",
+      "category": "修行與覺醒",
+      "tags": [
+        "無知",
+        "智慧",
+        "覺知",
+        "可能",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "承認無知，不是縮小自己，而是讓自己重新擁有無限的可能",
+        "無知",
+        "智慧",
+        "覺知",
+        "可能",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《承認無知，不是縮小自己，而是讓自己重新擁有無限的可能》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260922095235.md",
+      "github_path": "archive/TX-20260922095235.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "義理教導",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260923222838",
+      "subject": "別拿一輩子等待以後",
+      "show_time": "2026-09-23T22:28:38",
+      "category": "生命與生命能量",
+      "tags": [
+        "生命",
+        "時間",
+        "當下",
+        "活著",
+        "無常",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "別拿一輩子等待以後",
+        "生命",
+        "時間",
+        "當下",
+        "活著",
+        "無常",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《別拿一輩子等待以後》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260923222838.md",
+      "github_path": "archive/TX-20260923222838.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "義理教導",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260927121321",
+      "subject": "同行",
+      "show_time": "2026-09-27T12:13:21",
+      "category": [],
+      "tags": [
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "同行",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《同行》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260927121321.md",
+      "github_path": "archive/TX-20260927121321.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "待人工說明",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260930171139",
+      "subject": "賺錢看能力，用錢看智慧，有錢看能量",
+      "show_time": "2026-09-30T17:11:39",
+      "category": "生活指引",
+      "tags": [
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "賺錢看能力，用錢看智慧，有錢看能量",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人太素天尊《賺錢看能力，用錢看智慧，有錢看能量》天訊文典藏。不刪減、不改寫、不詮釋。",
+      "file_name": "TX-20260930171139.md",
+      "github_path": "archive/TX-20260930171139.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "生活指引",
       "semantic_cluster": []
     },
     {
