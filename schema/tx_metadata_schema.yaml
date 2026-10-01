@@ -57,6 +57,17 @@ required_array_fields:
   - keywords
   - related_ids
 
+compatibility_defaults:
+
+  # 既有典藏若未記錄關聯篇目，視同空關聯清單，不改寫原典檔。
+  related_ids: []
+
+tx_id_patterns:
+
+  # 舊式識別碼與目前使用的 canonical 14 碼識別碼並存。
+  - '^TX-\d{8}-\d{3}$'
+  - '^TX-\d{14}(?:-\d{3})?$'
+
 recommended_array_fields:
 
   - tags

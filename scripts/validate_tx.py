@@ -16,6 +16,8 @@ required_fields = schema.get("required_fields", [])
 allowed_content_status = schema.get("allowed_content_status", [])
 allowed_visibility = schema.get("allowed_visibility", [])
 required_array_fields = schema.get("required_array_fields", [])
+compatibility_defaults = schema.get("compatibility_defaults", {})
+tx_id_patterns = [re.compile(pattern) for pattern in schema.get("tx_id_patterns", [r"^TX-\d{8}-\d{3}$"])]
 
 errors = []
 seen_tx_ids = set()
@@ -44,13 +46,15 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
         for field in required_fields:
             value = metadata.get(field)
-            if value in [None, "", []]:
+            if value is None and field in compatibility_defaults:
+                value = compatibility_defaults[field]
+            if value in [None, ""]:
                 errors.append(f"{path}: 缺少必要欄位 {field}")
 
         tx_id = metadata.get("tx_id", "")
 
         if tx_id:
-            if not tx_id_pattern.match(tx_id):
+            if not any(pattern.match(tx_id) for pattern in tx_id_patterns):
                 errors.append(f"{path}: tx_id 格式錯誤：{tx_id}")
 
             if tx_id in seen_tx_ids:
@@ -74,6 +78,8 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
         for field in required_array_fields:
             value = metadata.get(field)
+            if value is None and field in compatibility_defaults:
+                value = compatibility_defaults[field]
             if not isinstance(value, list):
                 errors.append(f"{path}: {field} 必須是 list")
 

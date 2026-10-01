@@ -49,8 +49,14 @@ def parse_frontmatter(content):
         current_key = key
 
         # empty list support
-        if value == "":
+        if value in ["", "[]"]:
             data[key] = []
+        elif value.startswith("[") and value.endswith("]"):
+            try:
+                parsed = json.loads(value)
+                data[key] = parsed if isinstance(parsed, list) else value
+            except json.JSONDecodeError:
+                data[key] = value
         else:
             data[key] = value
 

@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-01T04:23:14.327163",
+  "generated_at": "2026-10-01T04:30:12.454169",
   "source": "archive/*.md",
   "total_count": 449,
   "items": [
@@ -10865,7 +10865,7 @@
         "短偈"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "指出面對科技變革，核心在於人的自我定位與內在價值。",
       "file_name": "TX-20260910104354.md",
       "github_path": "archive/TX-20260910104354.md",
@@ -10892,7 +10892,7 @@
         "AI時代"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "科技本身不決定世界走向，真正決定方向的是使用科技的生命。",
       "file_name": "TX-20260910110130.md",
       "github_path": "archive/TX-20260910110130.md",
@@ -10917,7 +10917,7 @@
         "天訊文"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "愚者望順，智者求全；素行順隨，順全一生。",
       "file_name": "TX-20260911100433.md",
       "github_path": "archive/TX-20260911100433.md",
@@ -10942,7 +10942,7 @@
         "天訊文"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "引路的人，先走出一條世界尚未看見的路。",
       "file_name": "TX-20260911103400.md",
       "github_path": "archive/TX-20260911103400.md",
@@ -10967,7 +10967,7 @@
         "天訊文"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "喚醒，才能產生行動。",
       "file_name": "TX-20260911110934.md",
       "github_path": "archive/TX-20260911110934.md",
@@ -10994,7 +10994,7 @@
         "生命"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "人生並非雕刻完美的自己，而是在歷經萬象之後，仍能不為所動地回歸原來。",
       "file_name": "TX-20260912104232.md",
       "github_path": "archive/TX-20260912104232.md",
@@ -11021,7 +11021,7 @@
         "短偈"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "歷經世間萬象而不為所動，方為真正覺醒自在。",
       "file_name": "TX-20260912104259.md",
       "github_path": "archive/TX-20260912104259.md",
@@ -11048,7 +11048,7 @@
         "素行生命"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "探討肉身、念頭與執著的生滅；輪迴非在死後，而在當下一念未放之重複。",
       "file_name": "TX-20260913145718.md",
       "github_path": "archive/TX-20260913145718.md",
@@ -11075,7 +11075,7 @@
         "素行生命"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "《素行生命書》總綱，開展「素行生命三問」與「信、行、醒」之生命回歸大道。",
       "file_name": "TX-20260913151709.md",
       "github_path": "archive/TX-20260913151709.md",
@@ -11102,7 +11102,7 @@
         "短偈"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "若心中仍有所執所求，則空與修皆非真自在。",
       "file_name": "TX-20260913153725.md",
       "github_path": "archive/TX-20260913153725.md",
@@ -11129,7 +11129,7 @@
         "觀心"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "修空並非修成空的人，而是念起知其起、念過不留念，連放下之念亦不執著。",
       "file_name": "TX-20260913153921.md",
       "github_path": "archive/TX-20260913153921.md",
@@ -11156,7 +11156,7 @@
         "短偈"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "真空不知空，真悟不守悟；有心求空已有相，無我無空方得自在。",
       "file_name": "TX-20260913154537.md",
       "github_path": "archive/TX-20260913154537.md",
@@ -11183,7 +11183,7 @@
         "生命"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "剖析空非放掉萬物，而是萬物來去心無所住；無空可修、無悟可證方為本然。",
       "file_name": "TX-20260913154713.md",
       "github_path": "archive/TX-20260913154713.md",
@@ -11210,7 +11210,7 @@
         "短偈"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "不預設生命，才能看見生命本質中的奇蹟。",
       "file_name": "TX-20260913155039.md",
       "github_path": "archive/TX-20260913155039.md",
@@ -11239,7 +11239,7 @@
         "放下"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "人的一生都活在睜眼與閉眼之間；真正的引路人是在睜眼時提醒不被迷惑，在閉眼前明白終究都要放下；真正的醒，是在能睜眼時就懂閉眼，在活著時就不被人生所困。",
       "file_name": "TX-20260917150700.md",
       "github_path": "archive/TX-20260917150700.md",
@@ -11266,7 +11266,7 @@
         "生活指引"
       ],
       "publish_status": "已發布",
-      "related_ids": "[]",
+      "related_ids": [],
       "meta_description": "一天大人 太素天尊《看高、看遠，走出眼前的一步》天訊文原典。現世時間：20261001090557；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
       "file_name": "TX-20261001090557.md",
       "github_path": "archive/TX-20261001090557.md",
