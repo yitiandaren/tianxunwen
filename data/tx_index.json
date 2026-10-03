@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-01T23:43:33.784264",
+  "generated_at": "2026-10-03T12:34:03.134968",
   "source": "archive/*.md",
-  "total_count": 459,
+  "total_count": 464,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -10848,6 +10848,96 @@
       "semantic_cluster": []
     },
     {
+      "tx_id": "TX-20260905084708",
+      "subject": "能讓過去真的過去，就是此生最大的獲得。",
+      "show_time": "2026-09-05T08:47:08",
+      "category": "修行與覺醒",
+      "tags": [
+        "修行與覺醒",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "能讓過去真的過去，就是此生最大的獲得。",
+        "短偈金句",
+        "修行與覺醒",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《能讓過去真的過去，就是此生最大的獲得。》天訊文原典。現世時間：20260905084708；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260905084708.md",
+      "github_path": "archive/TX-20260905084708.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260905084732",
+      "subject": "人生最大的獲得",
+      "show_time": "2026-09-05T08:47:32",
+      "category": "修行與覺醒",
+      "tags": [
+        "修行與覺醒",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "人生最大的獲得",
+        "短偈金句",
+        "修行與覺醒",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《人生最大的獲得》天訊文原典。現世時間：20260905084732；首次文字平台：WhatsApp/LINE [待確認]。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260905084732.md",
+      "github_path": "archive/TX-20260905084732.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260905084947",
+      "subject": "無樣萬象",
+      "show_time": "2026-09-05T08:49:47",
+      "category": "修行與覺醒",
+      "tags": [
+        "修行與覺醒",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "無樣萬象",
+        "短偈金句",
+        "修行與覺醒",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《無樣萬象》天訊文原典。現世時間：20260905084947；首次文字平台：WhatsApp/LINE [待確認]。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260905084947.md",
+      "github_path": "archive/TX-20260905084947.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
       "tx_id": "TX-20260910104354",
       "subject": "人類真正要面對的，不是AI變強，而是人的價值重新被定義",
       "show_time": "2026-09-10T10:43:54",
@@ -11214,6 +11304,66 @@
       "meta_description": "不預設生命，才能看見生命本質中的奇蹟。",
       "file_name": "TX-20260913155039.md",
       "github_path": "archive/TX-20260913155039.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260913165200",
+      "subject": "當你覺得該做時，你就義務反顧的做，直到他們看到了你的真，一定也會跟著一起做！",
+      "show_time": "2026-09-13T16:52:00",
+      "category": "待確認",
+      "tags": [
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "當你覺得該做時，你就義務反顧的做，直到他們看到了你的真，一定也會跟著一起做！",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《當你覺得該做時，你就義務反顧的做，直到他們看到了你的真，一定也會跟著一起做！》天訊文原典。現世時間：20260913165200；首次文字平台：Facebook。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260913165200.md",
+      "github_path": "archive/TX-20260913165200.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260915105617",
+      "subject": "我不是來讓你們相信我",
+      "show_time": "2026-09-15T10:56:17",
+      "category": "關於素行",
+      "tags": [
+        "關於素行",
+        "義理教導",
+        "天訊文",
+        "素行",
+        "信仰",
+        "無樣"
+      ],
+      "keywords": [
+        "我不是來讓你們相信我",
+        "義理教導",
+        "關於素行",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《我不是來讓你們相信我》天訊文原典。現世時間：20260915105617；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260915105617.md",
+      "github_path": "archive/TX-20260915105617.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
