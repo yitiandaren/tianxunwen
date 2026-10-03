@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-03T12:34:53.814276",
+  "generated_at": "2026-10-03T13:12:13.810638",
   "source": "archive/*.md",
   "total_count": 464,
   "items": [
@@ -10929,12 +10929,12 @@
       ],
       "publish_status": "已發布",
       "related_ids": [],
-      "meta_description": "一天大人 太素天尊《無樣萬象》天訊文原典。現世時間：20260905084947；首次文字平台：WhatsApp/LINE [待確認]。原文照錄，不增刪、不改寫。",
+      "meta_description": "一天大人《無樣萬象》天訊文原典。現世時間：20260905084947；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
       "file_name": "TX-20260905084947.md",
       "github_path": "archive/TX-20260905084947.md",
       "content_status": "published",
       "visibility": "public",
-      "topic_family": "",
+      "topic_family": "短偈金句",
       "semantic_cluster": []
     },
     {
