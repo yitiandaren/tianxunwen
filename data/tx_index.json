@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-03T13:33:09.671102",
+  "generated_at": "2026-10-03T18:34:32.708138",
   "source": "archive/*.md",
-  "total_count": 464,
+  "total_count": 474,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -10842,6 +10842,306 @@
       "meta_description": "'一天大人太素天尊《不以言傳法，以生命行法》天訊文典藏。不刪減、不改寫、不詮釋。'",
       "file_name": "TX-20260810111852.md",
       "github_path": "archive/TX-20260810111852.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260826112320",
+      "subject": "自己活好，也讓眾生活好；彼此共存，各自自在",
+      "show_time": "2026-08-26T11:23:20+08:00",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "義理教導",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "自己活好，也讓眾生活好；彼此共存，各自自在",
+        "愛自己・愛地球・愛眾生",
+        "義理教導",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《自己活好，也讓眾生活好；彼此共存，各自自在》天訊文原典。現世時間：20260826112320；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260826112320.md",
+      "github_path": "archive/TX-20260826112320.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260901162120",
+      "subject": "人把一生用來追逐不確定活，卻忽略了唯一確定的死。",
+      "show_time": "2026-09-01T16:21:20",
+      "category": "生命與生命能量",
+      "tags": [
+        "生命與生命能量",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "人把一生用來追逐不確定活，卻忽略了唯一確定的死。",
+        "生命與生命能量",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《人把一生用來追逐不確定活，卻忽略了唯一確定的死。》天訊文原典。現世時間：20260901162120；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260901162120.md",
+      "github_path": "archive/TX-20260901162120.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902101701",
+      "subject": "可憐見其苦，可恨見其因，可悲見其迷；因由己種，果終己受。",
+      "show_time": "2026-09-02T10:17:01",
+      "category": "關於素行",
+      "tags": [
+        "關於素行",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "可憐見其苦，可恨見其因，可悲見其迷；因由己種，果終己受。",
+        "關於素行",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《可憐見其苦，可恨見其因，可悲見其迷；因由己種，果終己受。》天訊文原典。現世時間：20260902101701；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902101701.md",
+      "github_path": "archive/TX-20260902101701.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902102336",
+      "subject": "若一生只是為了學會「做人」，那為何出生時已經是人？",
+      "show_time": "2026-09-02T10:23:36",
+      "category": "關於素行",
+      "tags": [
+        "關於素行",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "若一生只是為了學會「做人」，那為何出生時已經是人？",
+        "關於素行",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《若一生只是為了學會「做人」，那為何出生時已經是人？》天訊文原典。現世時間：20260902102336；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902102336.md",
+      "github_path": "archive/TX-20260902102336.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902104331",
+      "subject": "病痛有時不是生命的阻礙，而是生命逼你改變的最後提醒。",
+      "show_time": "2026-09-02T10:43:31",
+      "category": "生命與生命能量",
+      "tags": [
+        "生命與生命能量",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "病痛有時不是生命的阻礙，而是生命逼你改變的最後提醒。",
+        "生命與生命能量",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《病痛有時不是生命的阻礙，而是生命逼你改變的最後提醒。》天訊文原典。現世時間：20260902104331；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902104331.md",
+      "github_path": "archive/TX-20260902104331.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902170652",
+      "subject": "不干擾眾生，就是最大的慈悲！",
+      "show_time": "2026-09-02T17:06:52",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "不干擾眾生，就是最大的慈悲！",
+        "愛自己・愛地球・愛眾生",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《不干擾眾生，就是最大的慈悲！》天訊文原典。現世時間：20260902170652；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902170652.md",
+      "github_path": "archive/TX-20260902170652.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902170736",
+      "subject": "別讓牠們遇到我們變成災難",
+      "show_time": "2026-09-02T17:07:36",
+      "category": "素行生活與生活需求",
+      "tags": [
+        "素行生活與生活需求",
+        "生活指引",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "別讓牠們遇到我們變成災難",
+        "素行生活與生活需求",
+        "生活指引",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《別讓牠們遇到我們變成災難》天訊文原典。現世時間：20260902170736；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902170736.md",
+      "github_path": "archive/TX-20260902170736.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260902171010",
+      "subject": "沒事就讓他們因為我們而安全自在的活著，一旦有事，就快速解決恢復他們健康的身體",
+      "show_time": "2026-09-02T17:10:10",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "生活指引",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "沒事就讓他們因為我們而安全自在的活著，一旦有事，就快速解決恢復他們健康的身體",
+        "愛自己・愛地球・愛眾生",
+        "生活指引",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《沒事就讓他們因為我們而安全自在的活著，一旦有事，就快速解決恢復他們健康的身體》天訊文原典。現世時間：20260902171010；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260902171010.md",
+      "github_path": "archive/TX-20260902171010.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260903085614",
+      "subject": "真正要看的從來不只是世界，而是那個正在看世界的自己。",
+      "show_time": "2026-09-03T08:56:14",
+      "category": "修行與覺醒",
+      "tags": [
+        "修行與覺醒",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "真正要看的從來不只是世界，而是那個正在看世界的自己。",
+        "修行與覺醒",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《真正要看的從來不只是世界，而是那個正在看世界的自己。》天訊文原典。現世時間：20260903085614；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260903085614.md",
+      "github_path": "archive/TX-20260903085614.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260903093824",
+      "subject": "讓自己在行動中看到答案",
+      "show_time": "2026-09-03T09:38:24+08:00",
+      "category": "關於素行",
+      "tags": [
+        "關於素行",
+        "短偈金句",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "讓自己在行動中看到答案",
+        "關於素行",
+        "短偈金句",
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人 太素天尊《讓自己在行動中看到答案》天訊文原典。現世時間：20260903093824；首次文字平台：WhatsApp/LINE（待完整核實）。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260903093824.md",
+      "github_path": "archive/TX-20260903093824.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
