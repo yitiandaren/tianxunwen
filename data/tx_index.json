@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-03T13:14:50.913129",
+  "generated_at": "2026-10-03T13:33:09.671102",
   "source": "archive/*.md",
   "total_count": 464,
   "items": [
@@ -10899,7 +10899,7 @@
       ],
       "publish_status": "已發布",
       "related_ids": [],
-      "meta_description": "一天大人 太素天尊《人生最大的獲得》天訊文原典。現世時間：20260905084732；首次文字平台：WhatsApp/LINE [待確認]。原文照錄，不增刪、不改寫。",
+      "meta_description": "一天大人 太素天尊《人生最大的獲得》天訊文原典。現世時間：20260905084732；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
       "file_name": "TX-20260905084732.md",
       "github_path": "archive/TX-20260905084732.md",
       "content_status": "published",
@@ -10934,8 +10934,8 @@
       "github_path": "archive/TX-20260905084947.md",
       "content_status": "published",
       "visibility": "public",
-      "topic_family": "短偈金句",
-      "semantic_cluster": []
+      "topic_family": "義理教導",
+      "semantic_cluster": "短偈金句"
     },
     {
       "tx_id": "TX-20260910104354",
