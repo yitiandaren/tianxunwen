@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-03T18:35:51.977270",
-  "total_missing_items": 474,
+  "generated_at": "2026-10-04T11:09:35.684319",
+  "total_missing_items": 478,
   "missing_field_counts": {
-    "editor_intro": 392,
-    "open_question": 391,
-    "related_ids": 392,
+    "editor_intro": 396,
+    "open_question": 395,
+    "related_ids": 396,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 474,
+    "og_image": 478,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -219,6 +219,19 @@
       "category": "素行心法",
       "show_time": "'2026-04-12T10:55:51'",
       "file": "archive/TX-20260412105551.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20260825084332",
+      "subject": "不知如何？知又何如？",
+      "category": "修行與覺醒",
+      "show_time": "2026-08-25T08:43:32",
+      "file": "archive/TX-20260825084332.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -1501,6 +1514,19 @@
       ]
     },
     {
+      "tx_id": "TX-20260825092530-003",
+      "subject": "「修有所樣，終究困於樣。」",
+      "category": "修行與覺醒",
+      "show_time": "2026-08-25T09:25:30",
+      "file": "archive/TX-20260825092530-003.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260130090610",
       "subject": "痛苦不是定論",
       "category": "本元覺醒",
@@ -1803,6 +1829,19 @@
       "category": "財富平衡",
       "show_time": "'2026-01-29T07:16:03'",
       "file": "archive/TX-20260129071603.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20260825092529",
+      "subject": "如果修行，只是在尋找自己喜歡的樣子，那麼修行最後仍然是在滿足「人心」。",
+      "category": "修行與覺醒",
+      "show_time": "2026-08-25T09:25:29",
+      "file": "archive/TX-20260825092529.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -2374,6 +2413,19 @@
       "category": "破與強・新時代",
       "show_time": "'2026-02-06T13:39:50'",
       "file": "archive/TX-20260206133950.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20260825085621",
+      "subject": "原來無樣，方便為樣；\\n無少無老，一切因樣！",
+      "category": "關於素行",
+      "show_time": "2026-08-25T08:56:21",
+      "file": "archive/TX-20260825085621.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
