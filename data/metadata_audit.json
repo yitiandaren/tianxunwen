@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-05T22:04:39.066374",
-  "total_missing_items": 478,
+  "generated_at": "2026-10-07T09:38:54.691818",
+  "total_missing_items": 480,
   "missing_field_counts": {
-    "editor_intro": 396,
-    "open_question": 395,
-    "related_ids": 396,
+    "editor_intro": 398,
+    "open_question": 397,
+    "related_ids": 398,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 478,
+    "og_image": 480,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -3040,6 +3040,19 @@
       ]
     },
     {
+      "tx_id": "TX-20260901000001",
+      "subject": "天心常定：天地自然與素行之道",
+      "category": "義理教導",
+      "show_time": "2026-09-01T08:00:00+08:00",
+      "file": "archive/TX-20260901000001.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260615101642",
       "subject": "相信的力量",
       "category": "天訊文",
@@ -4698,6 +4711,19 @@
       "category": "短偈金句",
       "show_time": "'2026-04-21T12:22:11'",
       "file": "archive/TX-20260421122211.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20260901000002",
+      "subject": "太素之光：愛自己與愛眾生的起點",
+      "category": "義理教導",
+      "show_time": "2026-09-01T09:00:00+08:00",
+      "file": "archive/TX-20260901000002.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
