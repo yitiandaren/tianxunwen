@@ -6429,6 +6429,44 @@
       "embedding_text": ""
     },
     {
+      "tx_id": "TX-20260901000001",
+      "subject": "天心常定：天地自然與素行之道",
+      "show_time": "2026-09-01T08:00:00+08:00",
+      "category": "義理教導",
+      "keywords": [
+        "一天大人",
+        "天訊文",
+        "素行",
+        "義理教導"
+      ],
+      "topic_family": "",
+      "semantic_cluster": [],
+      "meta_description": "一天大人《天心常定：天地自然與素行之道》天訊文原典。現世時間：20260901080000+0800；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "related_ids": [],
+      "semantic_edges": [],
+      "embedding_ready": false,
+      "embedding_text": ""
+    },
+    {
+      "tx_id": "TX-20260901000002",
+      "subject": "太素之光：愛自己與愛眾生的起點",
+      "show_time": "2026-09-01T09:00:00+08:00",
+      "category": "義理教導",
+      "keywords": [
+        "一天大人",
+        "天訊文",
+        "素行",
+        "義理教導"
+      ],
+      "topic_family": "",
+      "semantic_cluster": [],
+      "meta_description": "一天大人《太素之光：愛自己與愛眾生的起點》天訊文原典。現世時間：20260901090000+0800；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "related_ids": [],
+      "semantic_edges": [],
+      "embedding_ready": false,
+      "embedding_text": ""
+    },
+    {
       "tx_id": "TX-20260901162120",
       "subject": "人把一生用來追逐不確定活，卻忽略了唯一確定的死。",
       "show_time": "2026-09-01T16:21:20",

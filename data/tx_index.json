@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-05T22:04:39.006714",
+  "generated_at": "2026-10-07T09:38:23.699061",
   "source": "archive/*.md",
-  "total_count": 478,
+  "total_count": 480,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -10992,6 +10992,58 @@
       "meta_description": "一天大人 太素天尊《自己活好，也讓眾生活好；彼此共存，各自自在》天訊文原典。現世時間：20260826112320；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
       "file_name": "TX-20260826112320.md",
       "github_path": "archive/TX-20260826112320.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260901000001",
+      "subject": "天心常定：天地自然與素行之道",
+      "show_time": "2026-09-01T08:00:00+08:00",
+      "category": "義理教導",
+      "tags": [
+        "義理教導",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "一天大人",
+        "天訊文",
+        "素行",
+        "義理教導"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人《天心常定：天地自然與素行之道》天訊文原典。現世時間：20260901080000+0800；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260901000001.md",
+      "github_path": "archive/TX-20260901000001.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20260901000002",
+      "subject": "太素之光：愛自己與愛眾生的起點",
+      "show_time": "2026-09-01T09:00:00+08:00",
+      "category": "義理教導",
+      "tags": [
+        "義理教導",
+        "天訊文",
+        "素行"
+      ],
+      "keywords": [
+        "一天大人",
+        "天訊文",
+        "素行",
+        "義理教導"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人《太素之光：愛自己與愛眾生的起點》天訊文原典。現世時間：20260901090000+0800；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
+      "file_name": "TX-20260901000002.md",
+      "github_path": "archive/TX-20260901000002.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
