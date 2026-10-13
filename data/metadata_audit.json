@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-07T09:38:54.691818",
-  "total_missing_items": 480,
+  "generated_at": "2026-10-13T05:34:36.867500",
+  "total_missing_items": 484,
   "missing_field_counts": {
-    "editor_intro": 398,
-    "open_question": 397,
-    "related_ids": 398,
+    "editor_intro": 402,
+    "open_question": 401,
+    "related_ids": 402,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 480,
+    "og_image": 484,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -2117,6 +2117,19 @@
       ]
     },
     {
+      "tx_id": "TX-20261013131027",
+      "subject": "無樣，不只是自己不必活成別人的模樣，更是不要求別人活成自己認為好的模樣",
+      "category": "愛自己・愛地球・愛眾生",
+      "show_time": "2026-10-13T13:10:27",
+      "file": "archive/TX-20261013131027.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260723162038",
       "subject": "《時間長廊》",
       "category": "天訊文",
@@ -2990,6 +3003,19 @@
       ]
     },
     {
+      "tx_id": "TX-20261013131004",
+      "subject": "讓世界自在地有它自己的樣子",
+      "category": "愛自己・愛地球・愛眾生",
+      "show_time": "2026-10-13T13:10:04",
+      "file": "archive/TX-20261013131004.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260915105617",
       "subject": "我不是來讓你們相信我",
       "category": "關於素行",
@@ -3816,6 +3842,19 @@
       "category": "天訊文",
       "show_time": "'2026-06-24T09:11:03'",
       "file": "archive/TX-20260624091103.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261013131058",
+      "subject": "讓每個人都能自在地活出自己的一生",
+      "category": "愛自己・愛地球・愛眾生",
+      "show_time": "2026-10-13T13:10:58",
+      "file": "archive/TX-20261013131058.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -5515,6 +5554,19 @@
       "category": "天訊文",
       "show_time": "'2026-05-14T11:31:41'",
       "file": "archive/TX-20260514113141.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261013131541",
+      "subject": "讓每個人活成自己的樣子",
+      "category": "愛自己・愛地球・愛眾生",
+      "show_time": "2026-10-13T13:15:41",
+      "file": "archive/TX-20261013131541.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
