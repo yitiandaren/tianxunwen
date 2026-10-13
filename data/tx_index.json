@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-07T09:38:54.607459",
+  "generated_at": "2026-10-13T05:34:12.110341",
   "source": "archive/*.md",
-  "total_count": 480,
+  "total_count": 484,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12208,6 +12208,115 @@
       "meta_description": "一天大人 太素天尊《看高、看遠，走出眼前的一步》天訊文原典。現世時間：20261001090557；首次文字平台：WhatsApp。原文照錄，不增刪、不改寫。",
       "file_name": "TX-20261001090557.md",
       "github_path": "archive/TX-20261001090557.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261013131004",
+      "subject": "讓世界自在地有它自己的樣子",
+      "show_time": "2026-10-13T13:10:04",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "自在",
+        "天訊文"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "自在",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人天訊文原文：不是讓世界變成我喜歡的樣子，而是讓世界自在地有它自己的樣子。",
+      "file_name": "TX-20261013131004.md",
+      "github_path": "archive/TX-20261013131004.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261013131027",
+      "subject": "無樣，不只是自己不必活成別人的模樣，更是不要求別人活成自己認為好的模樣",
+      "show_time": "2026-10-13T13:10:27",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "無樣",
+        "天訊文"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "無樣",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人天訊文原文：無樣，不只是自己不必活成別人的模樣，更是不要求別人活成自己認為好的模樣。",
+      "file_name": "TX-20261013131027.md",
+      "github_path": "archive/TX-20261013131027.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261013131058",
+      "subject": "讓每個人都能自在地活出自己的一生",
+      "show_time": "2026-10-13T13:10:58",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "真正的愛",
+        "天訊文"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "真正的愛",
+        "素行"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人天訊文原文：每個人都有自己的生命、選擇與生活方式；真正的愛，不是以「為你好」之名改變別人。",
+      "file_name": "TX-20261013131058.md",
+      "github_path": "archive/TX-20261013131058.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261013131541",
+      "subject": "讓每個人活成自己的樣子",
+      "show_time": "2026-10-13T13:15:41",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "無樣",
+        "真愛",
+        "天訊文"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "無樣",
+        "真愛"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人示曰：讓每個人活成自己的樣子。原文闡述無樣、自由、尊重與真愛。",
+      "file_name": "TX-20261013131541.md",
+      "github_path": "archive/TX-20261013131541.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
