@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-13T05:34:36.867500",
-  "total_missing_items": 484,
+  "generated_at": "2026-10-14T06:37:04.982184",
+  "total_missing_items": 485,
   "missing_field_counts": {
-    "editor_intro": 402,
-    "open_question": 401,
-    "related_ids": 402,
+    "editor_intro": 403,
+    "open_question": 402,
+    "related_ids": 403,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 484,
+    "og_image": 485,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -1283,6 +1283,19 @@
       "missing_fields": [
         "og_image",
         "published_platforms"
+      ]
+    },
+    {
+      "tx_id": "TX-20261014114953",
+      "subject": "委屈求全，全以不全",
+      "category": "愛自己・愛地球・愛眾生",
+      "show_time": "2026-10-14T11:49:53",
+      "file": "archive/TX-20261014114953.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
       ]
     },
     {
