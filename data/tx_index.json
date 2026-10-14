@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-13T05:34:36.788093",
+  "generated_at": "2026-10-14T06:36:52.405316",
   "source": "archive/*.md",
-  "total_count": 484,
+  "total_count": 485,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12317,6 +12317,38 @@
       "meta_description": "一天大人示曰：讓每個人活成自己的樣子。原文闡述無樣、自由、尊重與真愛。",
       "file_name": "TX-20261013131541.md",
       "github_path": "archive/TX-20261013131541.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261014114953",
+      "subject": "委屈求全，全以不全",
+      "show_time": "2026-10-14T11:49:53",
+      "category": "愛自己・愛地球・愛眾生",
+      "tags": [
+        "愛自己・愛地球・愛眾生",
+        "委屈求全",
+        "順隨",
+        "自在",
+        "天訊文"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "委屈求全",
+        "圓滿",
+        "順隨",
+        "自在"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人示曰：委屈求全，全以不全。原文闡述不以委屈自己或強求他人作為圓滿之代價。",
+      "file_name": "TX-20261014114953.md",
+      "github_path": "archive/TX-20261014114953.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
