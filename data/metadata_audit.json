@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-14T06:37:04.982184",
-  "total_missing_items": 485,
+  "generated_at": "2026-10-17T04:34:35.646362",
+  "total_missing_items": 488,
   "missing_field_counts": {
-    "editor_intro": 403,
-    "open_question": 402,
-    "related_ids": 403,
+    "editor_intro": 406,
+    "open_question": 405,
+    "related_ids": 406,
     "keywords": 0,
     "meta_description": 0,
-    "og_image": 485,
+    "og_image": 488,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -434,6 +434,19 @@
       "category": "天訊文",
       "show_time": "'2026-05-23T10:16:34'",
       "file": "archive/TX-20260523101634.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261017094107",
+      "subject": "對錯之執，人生之困",
+      "category": "修行與覺醒",
+      "show_time": "2026-10-17T09:41:07+08:00",
+      "file": "archive/TX-20261017094107.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -2041,6 +2054,19 @@
       ]
     },
     {
+      "tx_id": "TX-20261017120346",
+      "subject": "科技已進未來，信仰仍在過去",
+      "category": "時事・文明與 AI",
+      "show_time": "2026-10-17T12:03:46+08:00",
+      "file": "archive/TX-20261017120346.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260516101711",
       "subject": "有心用心決心，無心自在！",
       "category": "天訊文",
@@ -2298,6 +2324,19 @@
       "category": "短偈金句",
       "show_time": "'2026-02-14T13:38:00'",
       "file": "archive/TX-20260214133800.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261017094136",
+      "subject": "天不為人而存在",
+      "category": "修行與覺醒",
+      "show_time": "2026-10-17T09:41:36+08:00",
+      "file": "archive/TX-20261017094136.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
