@@ -7421,6 +7421,31 @@
       "embedding_text": ""
     },
     {
+      "tx_id": "TX-20261016135918",
+      "subject": "天不為人而存在",
+      "show_time": "2026-10-16T13:59:18+08:00",
+      "category": "修行與覺醒",
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "天道",
+        "因果",
+        "輪迴",
+        "觀心",
+        "順隨",
+        "眾生"
+      ],
+      "topic_family": "",
+      "semantic_cluster": [],
+      "meta_description": "一天大人示曰：天不為人而存在。本文從萬物共生、因果與敬天，談不以人心定義天道。",
+      "related_ids": [],
+      "semantic_edges": [],
+      "embedding_ready": false,
+      "embedding_text": ""
+    },
+    {
       "tx_id": "TX-20261017094107",
       "subject": "對錯之執，人生之困",
       "show_time": "2026-10-17T09:41:07+08:00",
@@ -7439,31 +7464,6 @@
       "topic_family": "",
       "semantic_cluster": [],
       "meta_description": "一天大人示曰：放下對錯之爭，方得生命自在。本文說明不讓執著於對成為生命前行的枷鎖。",
-      "related_ids": [],
-      "semantic_edges": [],
-      "embedding_ready": false,
-      "embedding_text": ""
-    },
-    {
-      "tx_id": "TX-20261017094136",
-      "subject": "天不為人而存在",
-      "show_time": "2026-10-17T09:41:36+08:00",
-      "category": "修行與覺醒",
-      "keywords": [
-        "一天大人",
-        "太素天尊",
-        "天訊文",
-        "素行",
-        "天道",
-        "因果",
-        "輪迴",
-        "觀心",
-        "順隨",
-        "眾生"
-      ],
-      "topic_family": "",
-      "semantic_cluster": [],
-      "meta_description": "一天大人示曰：天不為人而存在。本文從萬物共生、因果與敬天，談不以人心定義天道。",
       "related_ids": [],
       "semantic_edges": [],
       "embedding_ready": false,
