@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-18T00:12:04.680958",
-  "total_missing_items": 488,
+  "generated_at": "2026-10-18T08:54:12.427033",
+  "total_missing_items": 489,
   "missing_field_counts": {
-    "editor_intro": 406,
-    "open_question": 405,
-    "related_ids": 406,
+    "editor_intro": 407,
+    "open_question": 406,
+    "related_ids": 407,
     "keywords": 0,
-    "meta_description": 0,
-    "og_image": 488,
+    "meta_description": 1,
+    "og_image": 489,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -4163,6 +4163,20 @@
         "editor_intro",
         "open_question",
         "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261018154643",
+      "subject": "一天大人語錄（無題名）",
+      "category": "",
+      "show_time": "2026-10-18T15:46:43+08:00",
+      "file": "archive/TX-20261018154643.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "meta_description",
         "og_image"
       ]
     },
