@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-18T08:58:45.505409",
+  "generated_at": "2026-10-18T08:59:49.878523",
   "source": "archive/*.md",
   "total_count": 489,
   "items": [
@@ -12471,7 +12471,7 @@
     },
     {
       "tx_id": "TX-20261018154643",
-      "subject": "一天大人語錄（無題名）",
+      "subject": "TX-20261018154643",
       "show_time": "2026-10-18T15:46:43+08:00",
       "category": [],
       "tags": [],
