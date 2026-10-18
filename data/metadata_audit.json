@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-18T08:58:45.581571",
+  "generated_at": "2026-10-18T09:00:20.652106",
   "total_missing_items": 489,
   "missing_field_counts": {
     "editor_intro": 407,
@@ -4168,7 +4168,7 @@
     },
     {
       "tx_id": "TX-20261018154643",
-      "subject": "一天大人語錄（無題名）",
+      "subject": "TX-20261018154643",
       "category": "",
       "show_time": "2026-10-18T15:46:43+08:00",
       "file": "archive/TX-20261018154643.md",
