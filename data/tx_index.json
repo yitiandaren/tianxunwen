@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-19T03:59:53.134185",
+  "generated_at": "2026-10-19T07:24:40.926861",
   "source": "archive/*.md",
   "total_count": 490,
   "items": [
@@ -12475,12 +12475,7 @@
       "show_time": "2026-10-18T15:46:43+08:00",
       "category": [],
       "tags": [],
-      "keywords": [
-        "一天大人",
-        "太素天尊",
-        "語錄",
-        "無樣"
-      ],
+      "keywords": [],
       "publish_status": "已發布",
       "related_ids": [],
       "meta_description": [],
