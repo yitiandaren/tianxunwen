@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-18T09:00:20.569489",
+  "generated_at": "2026-10-19T03:59:23.143921",
   "source": "archive/*.md",
-  "total_count": 489,
+  "total_count": 490,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12486,6 +12486,43 @@
       "meta_description": [],
       "file_name": "TX-20261018154643.md",
       "github_path": "archive/TX-20261018154643.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261019091851",
+      "subject": "引路的力量",
+      "show_time": "2026-10-19T09:18:51+08:00",
+      "category": "本元覺醒",
+      "tags": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "引路",
+        "引導",
+        "覺知",
+        "依賴",
+        "集體行動"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "引路",
+        "引導",
+        "覺知",
+        "依賴",
+        "集體行動"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人示曰：真正偉大的引路，不是讓天下人都跟著自己走，而是讓天下人最終都能自在地走自己的路。",
+      "file_name": "TX-20261019091851.md",
+      "github_path": "archive/TX-20261019091851.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
