@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-20T03:33:30.457643",
+  "generated_at": "2026-10-20T03:37:04.046566",
   "source": "archive/*.md",
   "total_count": 492,
   "items": [
@@ -12533,10 +12533,10 @@
         "太素天尊",
         "天訊文",
         "素行",
+        "生活",
         "呼吸",
         "飲食",
         "睡眠",
-        "生活選擇",
         "生命自在"
       ],
       "keywords": [
@@ -12544,15 +12544,15 @@
         "太素天尊",
         "天訊文",
         "素行",
+        "生活",
         "呼吸",
         "飲食",
         "睡眠",
-        "生活選擇",
         "生命自在"
       ],
       "publish_status": "已發布",
       "related_ids": [],
-      "meta_description": "一天大人示曰：活著是根本，生活是選擇；不要讓可以選擇的事，奪走生命真正需要的自在。",
+      "meta_description": "一天大人示曰：人這一生真正必要的只有規律呼吸、適當飲食與充足睡眠；活著是根本，生活是選擇。",
       "file_name": "TX-20261020110446.md",
       "github_path": "archive/TX-20261020110446.md",
       "content_status": "published",
@@ -12565,18 +12565,8 @@
       "subject": "TX-20261020110507",
       "show_time": "2026-10-20T11:05:07+08:00",
       "category": [],
-      "tags": [
-        "一天大人",
-        "太素天尊",
-        "天訊文",
-        "素行"
-      ],
-      "keywords": [
-        "一天大人",
-        "太素天尊",
-        "天訊文",
-        "素行"
-      ],
+      "tags": [],
+      "keywords": [],
       "publish_status": "已發布",
       "related_ids": [],
       "meta_description": [],
