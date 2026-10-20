@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-19T07:25:19.983406",
-  "total_missing_items": 490,
+  "generated_at": "2026-10-20T03:33:30.520013",
+  "total_missing_items": 492,
   "missing_field_counts": {
-    "editor_intro": 408,
-    "open_question": 407,
-    "related_ids": 408,
+    "editor_intro": 410,
+    "open_question": 409,
+    "related_ids": 410,
     "keywords": 1,
-    "meta_description": 1,
-    "og_image": 490,
+    "meta_description": 2,
+    "og_image": 492,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -2030,6 +2030,20 @@
       ]
     },
     {
+      "tx_id": "TX-20261020110507",
+      "subject": "TX-20261020110507",
+      "category": "",
+      "show_time": "2026-10-20T11:05:07+08:00",
+      "file": "archive/TX-20261020110507.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "meta_description",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260418110345",
       "subject": "生活從來不設限，設限的是人；",
       "category": "短偈金句",
@@ -2478,6 +2492,19 @@
       "category": "破與強・新時代",
       "show_time": "'2026-02-06T13:39:50'",
       "file": "archive/TX-20260206133950.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261020110446",
+      "subject": "活著是根本，生活是選擇",
+      "category": "財富平衡",
+      "show_time": "2026-10-20T11:04:46+08:00",
+      "file": "archive/TX-20261020110446.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
