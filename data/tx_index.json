@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-21T09:59:03.703585",
+  "generated_at": "2026-10-22T06:15:14.590004",
   "source": "archive/*.md",
-  "total_count": 494,
+  "total_count": 496,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12646,6 +12646,56 @@
       "meta_description": "一天大人將《無樣》的生命覺知延伸至宇宙，提醒人不把任何關於生命終極狀態的說法視為全部真相。",
       "file_name": "TX-20261021131250.md",
       "github_path": "archive/TX-20261021131250.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261022134850",
+      "subject": "互動而不依賴，珍惜而不執著",
+      "show_time": "2026-10-22T13:48:50+08:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "依賴",
+        "自在",
+        "珍惜",
+        "執著",
+        "人際互動"
+      ],
+      "keywords": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "依賴"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人指出：人在互動與情感之中，能夠珍惜而不依賴、自在而不執著，才不失去自己。",
+      "file_name": "TX-20261022134850.md",
+      "github_path": "archive/TX-20261022134850.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261022134918",
+      "subject": "TX-20261022134918",
+      "show_time": "2026-10-22T13:49:18+08:00",
+      "category": [],
+      "tags": [],
+      "keywords": [],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": [],
+      "file_name": "TX-20261022134918.md",
+      "github_path": "archive/TX-20261022134918.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
