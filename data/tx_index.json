@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-22T06:15:35.007392",
+  "generated_at": "2026-10-24T02:18:31.048029",
   "source": "archive/*.md",
-  "total_count": 496,
+  "total_count": 499,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12696,6 +12696,85 @@
       "meta_description": [],
       "file_name": "TX-20261022134918.md",
       "github_path": "archive/TX-20261022134918.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261023164903",
+      "subject": "知人性而不受控，具德性而不束人",
+      "show_time": "2026-10-23T16:49:03+08:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "人性",
+        "德性",
+        "觀心",
+        "自在",
+        "眾生",
+        "素行"
+      ],
+      "keywords": [
+        "人性",
+        "德性",
+        "觀心",
+        "自在",
+        "眾生"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人談知人性與修養德性：德性用來要求自己，人性用來理解眾生，讓人不受人性操控，也不以自己的標準束縛他人。",
+      "file_name": "TX-20261023164903.md",
+      "github_path": "archive/TX-20261023164903.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261023164926",
+      "subject": "TX-20261023164926",
+      "show_time": "2026-10-23T16:49:26+08:00",
+      "category": [],
+      "tags": [],
+      "keywords": [],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": [],
+      "file_name": "TX-20261023164926.md",
+      "github_path": "archive/TX-20261023164926.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261024100206",
+      "subject": "人生～活出自己的好",
+      "show_time": "2026-10-24T10:02:06+08:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "自在",
+        "比較",
+        "觀心",
+        "靜定",
+        "簡單",
+        "順隨",
+        "生活",
+        "素行"
+      ],
+      "keywords": [
+        "自在",
+        "比較",
+        "觀心",
+        "靜定",
+        "簡單"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人談活出自己的好：不以他人的成功與標準衡量自己，在靜定、簡單、觀心與順隨中，各自精彩、自在前行。",
+      "file_name": "TX-20261024100206.md",
+      "github_path": "archive/TX-20261024100206.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
