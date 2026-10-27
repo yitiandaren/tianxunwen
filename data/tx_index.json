@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-10-24T02:19:23.616734",
+  "generated_at": "2026-10-27T05:02:46.413990",
   "source": "archive/*.md",
-  "total_count": 499,
+  "total_count": 501,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12775,6 +12775,55 @@
       "meta_description": "一天大人談活出自己的好：不以他人的成功與標準衡量自己，在靜定、簡單、觀心與順隨中，各自精彩、自在前行。",
       "file_name": "TX-20261024100206.md",
       "github_path": "archive/TX-20261024100206.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261027095645-001",
+      "subject": "TX-20261027095645-001",
+      "show_time": "2026-10-27T09:56:45+08:00",
+      "category": [],
+      "tags": [],
+      "keywords": [],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": [],
+      "file_name": "TX-20261027095645-001.md",
+      "github_path": "archive/TX-20261027095645-001.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261027095645-002",
+      "subject": "放下過去，才能走向未來",
+      "show_time": "2026-10-27T09:56:45+08:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "放下執著",
+        "當下",
+        "生命實踐",
+        "自在"
+      ],
+      "keywords": [
+        "一天大人",
+        "放下過去",
+        "走向未來",
+        "當下而行",
+        "生命實踐"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人談放下對過去的執著，不以未來空想取代當下行動，從此刻走出自己的生命道路。",
+      "file_name": "TX-20261027095645-002.md",
+      "github_path": "archive/TX-20261027095645-002.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
