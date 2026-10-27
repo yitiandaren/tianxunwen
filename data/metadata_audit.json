@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-24T02:19:23.701266",
-  "total_missing_items": 499,
+  "generated_at": "2026-10-27T05:02:59.070888",
+  "total_missing_items": 501,
   "missing_field_counts": {
-    "editor_intro": 417,
-    "open_question": 416,
-    "related_ids": 417,
-    "keywords": 4,
-    "meta_description": 4,
-    "og_image": 499,
+    "editor_intro": 419,
+    "open_question": 418,
+    "related_ids": 419,
+    "keywords": 5,
+    "meta_description": 5,
+    "og_image": 501,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -3563,6 +3563,19 @@
       ]
     },
     {
+      "tx_id": "TX-20261027095645-002",
+      "subject": "放下過去，才能走向未來",
+      "category": "修行與覺醒",
+      "show_time": "2026-10-27T09:56:45+08:00",
+      "file": "archive/TX-20261027095645-002.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260412112160",
       "subject": "行動的本質：從做事到產生結果",
       "category": "短偈金句",
@@ -6113,6 +6126,21 @@
         "editor_intro",
         "open_question",
         "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261027095645-001",
+      "subject": "TX-20261027095645-001",
+      "category": "",
+      "show_time": "2026-10-27T09:56:45+08:00",
+      "file": "archive/TX-20261027095645-001.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "keywords",
+        "meta_description",
         "og_image"
       ]
     },
