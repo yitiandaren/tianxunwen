@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-10-30T00:47:38.767616",
+  "generated_at": "2026-11-01T21:50:06.192098",
   "total_missing_items": 502,
   "missing_field_counts": {
     "editor_intro": 420,
