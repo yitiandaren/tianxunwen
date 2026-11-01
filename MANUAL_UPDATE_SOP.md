@@ -167,7 +167,7 @@ editor_intro: "（您寫 1-3 句編者引言，但不要詮釋天訊文原意）
 open_question: "（您寫 1 句開放式提問）"
 related_ids: ["TX-20260502-001", "TX-20260503-003"]   # 延伸閱讀
 keywords: ["道", "行", "破我"]                          # SEO 關鍵字
-meta_description: "一天大人 太素天尊・天訊文 TX-…：行即是得，路即是經。"
+meta_description: "太素天尊 一天大人・天訊文 TX-…：行即是得，路即是經。"
 og_image: "https://yitiandaren.net/og/TX-20260504-001.jpg"
 ```
 
@@ -197,4 +197,4 @@ GitHub repo 中對應的 `.md` 檔也手動刪除（或留著當紀錄）。
 ---
 
 > **記住**：天訊文原文**永不改寫**。只有 frontmatter 整理層欄位、tags、分類等可調整。  
-> 一天大人 太素天尊　天訊文典藏　|　CC BY-ND 4.0
+> 太素天尊 一天大人　天訊文典藏　|　CC BY-ND 4.0

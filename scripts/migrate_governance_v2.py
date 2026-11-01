@@ -67,7 +67,7 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             updated = True
 
         if is_empty(metadata.get("source_author")):
-            metadata["source_author"] = "一天大人 太素天尊"
+            metadata["source_author"] = "太素天尊 一天大人"
             updated = True
 
         if is_empty(metadata.get("source_type")):

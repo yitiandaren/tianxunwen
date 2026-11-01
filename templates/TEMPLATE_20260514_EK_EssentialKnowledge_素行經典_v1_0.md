@@ -8,7 +8,7 @@
 # 【身份識別】
 ek_id: EK-BOOKCODE-CHAPTER-SECTION-v1.0
 source_type: EK
-source_author: 一天大人 太素天尊
+source_author: 太素天尊 一天大人
 canonical: true
 
 # 【書籍資訊】
@@ -57,7 +57,7 @@ reviewed_by: ''
 reviewed_at: ''
 ---
 
-# EK-BOOKCODE-CHAPTER-SECTION-v1.0｜經典名稱｜一天大人 太素天尊
+# EK-BOOKCODE-CHAPTER-SECTION-v1.0｜經典名稱｜太素天尊 一天大人
 
 ## 基本資料
 
@@ -90,7 +90,7 @@ reviewed_at: ''
 
 ## 來源標注
 
-一天大人 太素天尊
+太素天尊 一天大人
 素行經典 EK-BOOKCODE-CHAPTER-SECTION-v1.0
 
 ## 授權聲明

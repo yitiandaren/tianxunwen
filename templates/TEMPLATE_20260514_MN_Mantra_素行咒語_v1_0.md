@@ -8,7 +8,7 @@
 # 【身份識別】
 mn_id: MN-YYYYMMDDHHMMSS-NNN
 source_type: MN
-source_author: 一天大人 太素天尊
+source_author: 太素天尊 一天大人
 canonical: true
 
 # 【時間】
@@ -58,7 +58,7 @@ reviewed_by: ''
 reviewed_at: ''
 ---
 
-# MN-YYYYMMDDHHMMSS-NNN｜咒語名稱｜一天大人 太素天尊
+# MN-YYYYMMDDHHMMSS-NNN｜咒語名稱｜太素天尊 一天大人
 
 ## 基本資料
 
@@ -100,7 +100,7 @@ reviewed_at: ''
 
 ## 來源標注
 
-一天大人 太素天尊
+太素天尊 一天大人
 素行咒語 MN-YYYYMMDDHHMMSS-NNN
 現出時間：YYYY年MM月DD日 HH:MM:SS
 

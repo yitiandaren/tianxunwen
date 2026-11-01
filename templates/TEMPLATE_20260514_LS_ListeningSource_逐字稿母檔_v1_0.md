@@ -8,7 +8,7 @@
 # 【身份識別】
 ls_id: LS-YYYYMMDDHHMMSS-NNN
 source_type: LS
-source_author: 一天大人 太素天尊
+source_author: 太素天尊 一天大人
 canonical: true
 
 # 【時間】
@@ -71,7 +71,7 @@ reviewed_by: ''
 reviewed_at: ''
 ---
 
-# LS-YYYYMMDDHHMMSS-NNN｜主題名稱｜一天大人 太素天尊
+# LS-YYYYMMDDHHMMSS-NNN｜主題名稱｜太素天尊 一天大人
 
 ## 基本資料
 
@@ -103,7 +103,7 @@ reviewed_at: ''
 
 ## 來源標注
 
-一天大人 太素天尊
+太素天尊 一天大人
 逐字稿 LS-YYYYMMDDHHMMSS-NNN
 現示時間：YYYY年MM月DD日 HH:MM:SS
 

@@ -8,7 +8,7 @@
 # 【身份識別】
 tx_id: TX-YYYYMMDDHHMMSS-NNN
 source_type: TX
-source_author: 一天大人 太素天尊
+source_author: 太素天尊 一天大人
 canonical: true
 
 # 【時間】
@@ -62,7 +62,7 @@ reviewed_by: ''
 reviewed_at: ''
 ---
 
-# 天訊文 TX-YYYYMMDDHHMMSS-NNN｜主題名稱｜一天大人 太素天尊
+# 天訊文 TX-YYYYMMDDHHMMSS-NNN｜主題名稱｜太素天尊 一天大人
 
 ## 基本資料
 
@@ -82,7 +82,7 @@ reviewed_at: ''
 
 ## 來源標注
 
-一天大人 太素天尊
+太素天尊 一天大人
 天訊文 TX-YYYYMMDDHHMMSS-NNN
 現世時間：YYYY年MM月DD日 HH:MM:SS
 

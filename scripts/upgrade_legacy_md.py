@@ -113,7 +113,7 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             "tx_id": tx_id,
             "old_id": "",
             "subject": subject,
-            "source_author": "一天大人 太素天尊",
+            "source_author": "太素天尊 一天大人",
             "source_type": "天訊文",
             "show_time": show_time,
             "publish_code": publish_code_from_show_time(show_time),

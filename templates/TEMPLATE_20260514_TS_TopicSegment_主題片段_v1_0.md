@@ -9,7 +9,7 @@
 ts_id: TS-YYYYMMDDHHMMSS-NNN
 ls_id: LS-YYYYMMDDHHMMSS-NNN
 source_type: TS
-source_author: 一天大人 太素天尊
+source_author: 太素天尊 一天大人
 canonical: false
 source_file: ''
 
@@ -71,7 +71,7 @@ reviewed_by: ''
 reviewed_at: ''
 ---
 
-# TS-YYYYMMDDHHMMSS-NNN｜主題名稱｜一天大人 太素天尊
+# TS-YYYYMMDDHHMMSS-NNN｜主題名稱｜太素天尊 一天大人
 
 ## 基本資料
 
