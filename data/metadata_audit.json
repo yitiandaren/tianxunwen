@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-11-01T21:50:15.601190",
-  "total_missing_items": 502,
+  "generated_at": "2026-11-02T01:37:34.724379",
+  "total_missing_items": 503,
   "missing_field_counts": {
-    "editor_intro": 420,
-    "open_question": 419,
-    "related_ids": 420,
+    "editor_intro": 421,
+    "open_question": 420,
+    "related_ids": 421,
     "keywords": 5,
     "meta_description": 5,
-    "og_image": 502,
+    "og_image": 503,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -1990,6 +1990,19 @@
       "category": "愛自己・愛地球・愛眾生",
       "show_time": "2026-10-13T13:10:04",
       "file": "archive/TX-20261013131004.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261101101419",
+      "subject": "靜穩，好運到",
+      "category": "修行與覺醒",
+      "show_time": "2026-11-01T10:14:19+08:00",
+      "file": "archive/TX-20261101101419.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
