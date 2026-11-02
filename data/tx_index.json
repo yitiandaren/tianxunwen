@@ -1,7 +1,7 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-11-02T02:27:58.101484",
+  "generated_at": "2026-11-02T07:50:36.591583",
   "source": "archive/*.md",
   "total_count": 504,
   "items": [
@@ -1682,7 +1682,6 @@
       ],
       "publish_status": "",
       "related_ids": [
-        "TX-20260225125218",
         "TX-20260218101153",
         "TX-20260217115829"
       ],
@@ -1845,8 +1844,7 @@
       "publish_status": "",
       "related_ids": [
         "TX-20260220140924",
-        "TX-20260429130434",
-        "TX-20260225125218"
+        "TX-20260429130434"
       ],
       "meta_description": "'# 天訊文 TX-20260220134824｜素行生基安命咒｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容 | |",
       "file_name": "TX-20260220134824.md",
@@ -1958,7 +1956,6 @@
       ],
       "publish_status": "",
       "related_ids": [
-        "TX-20260225125218",
         "TX-20260326204022",
         "TX-20260322123655"
       ],
@@ -2020,25 +2017,18 @@
     },
     {
       "tx_id": "TX-20260225102300",
-      "subject": "多數不是方向，清明才是方向。清明創造多數人遵循的規則。",
-      "show_time": "'2026-02-25T10:23:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《多數不是方向，清明才是方向。清明創造多數人遵循的規則。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225102300.md",
       "github_path": "archive/TX-20260225102300.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
@@ -2215,654 +2205,443 @@
     },
     {
       "tx_id": "TX-20260225121400",
-      "subject": "最可怕的不是騙子，而是被騙後還去說服別人的人",
-      "show_time": "'2026-02-25T12:14:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《最可怕的不是騙子，而是被騙後還去說服別人的人》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121400.md",
       "github_path": "archive/TX-20260225121400.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121401",
-      "subject": "所謂「大家都這樣」，常常只是被製造出來的",
-      "show_time": "'2026-02-25T12:14:01'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《所謂「大家都這樣」，常常只是被製造出來的》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121401.md",
       "github_path": "archive/TX-20260225121401.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121435",
-      "subject": "最可怕的不是騙子，而是被騙後還去說服別人的人",
-      "show_time": "'2026-02-25T12:14:35'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121435｜最可怕的不是騙子，而是被騙後還去說服別人的人｜太素天尊 一天大人 ## 基本資料",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121435.md",
       "github_path": "archive/TX-20260225121435.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121447",
-      "subject": "所謂「大家都這樣」，常常只是被製造出來的",
-      "show_time": "'2026-02-25T12:14:47'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121447｜所謂「大家都這樣」，常常只是被製造出來的｜太素天尊 一天大人 ## 基本資料 |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121447.md",
       "github_path": "archive/TX-20260225121447.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121500",
-      "subject": "歷史上最錯的事，幾乎都曾是「大家都這樣」",
-      "show_time": "'2026-02-25T12:15:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《歷史上最錯的事，幾乎都曾是「大家都這樣」》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121500.md",
       "github_path": "archive/TX-20260225121500.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121513",
-      "subject": "歷史上最錯的事，幾乎都曾是「大家都這樣」",
-      "show_time": "'2026-02-25T12:15:13'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121513｜歷史上最錯的事，幾乎都曾是「大家都這樣」｜太素天尊 一天大人 ## 基本資料 |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121513.md",
       "github_path": "archive/TX-20260225121513.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121543",
-      "subject": "太素護法一天行如何操作大家，而不成為大家",
-      "show_time": "'2026-02-25T12:15:43'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121543｜太素護法一天行如何操作大家，而不成為大家｜太素天尊 一天大人 ## 基本資料 |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121543.md",
       "github_path": "archive/TX-20260225121543.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121600",
-      "subject": "多數只能證明恐懼一致，不能證明真理存在。",
-      "show_time": "'2026-02-25T12:16:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《多數只能證明恐懼一致，不能證明真理存在。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121600.md",
       "github_path": "archive/TX-20260225121600.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121644",
-      "subject": "多數只能證明恐懼一致，不能證明真理存在。",
-      "show_time": "'2026-02-25T12:16:44'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121644｜多數只能證明恐懼一致，不能證明真理存在。｜太素天尊 一天大人 ## 基本資料 |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121644.md",
       "github_path": "archive/TX-20260225121644.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121700",
-      "subject": "當所有人都說一樣的話，",
-      "show_time": "'2026-02-25T12:17:00'",
-      "category": "本元覺醒",
-      "tags": [
-        "本元覺醒",
-        "素行"
-      ],
-      "keywords": [
-        "本元覺醒",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《當所有人都說一樣的話，》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121700.md",
       "github_path": "archive/TX-20260225121700.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121701",
-      "subject": "透過利用大家，創造大家，達成祂的任務",
-      "show_time": "'2026-02-25T12:17:01'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《透過利用大家，創造大家，達成祂的任務》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121701.md",
       "github_path": "archive/TX-20260225121701.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121702",
-      "subject": "群體可以提供安全，不能提供真相。",
-      "show_time": "'2026-02-25T12:17:02'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《群體可以提供安全，不能提供真相。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121702.md",
       "github_path": "archive/TX-20260225121702.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121717",
-      "subject": "群體可以提供安全，不能提供真相。",
-      "show_time": "'2026-02-25T12:17:17'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121717｜群體可以提供安全，不能提供真相。｜太素天尊 一天大人 ## 基本資料 | 欄位 |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121717.md",
       "github_path": "archive/TX-20260225121717.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121750",
-      "subject": "透過利用大家，創造大家，達成祂的任務",
-      "show_time": "'2026-02-25T12:17:50'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121750｜透過利用大家，創造大家，達成祂的任務｜太素天尊 一天大人 ## 基本資料 | 欄位",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121750.md",
       "github_path": "archive/TX-20260225121750.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121800",
-      "subject": "多數不是方向，清明才是方向",
-      "show_time": "'2026-02-25T12:18:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《多數不是方向，清明才是方向》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225121800.md",
       "github_path": "archive/TX-20260225121800.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225121855",
-      "subject": "多數不是方向，清明才是方向",
-      "show_time": "'2026-02-25T12:18:55'",
-      "category": "本元覺醒",
-      "tags": [
-        "清明",
-        "天訊文"
-      ],
-      "keywords": [
-        "清明",
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260225122005",
-        "TX-20260326203758",
-        "TX-20260326203712"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225121855｜多數不是方向，清明才是方向｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225121855.md",
       "github_path": "archive/TX-20260225121855.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225122000",
-      "subject": "清明創造多數人遵循的規則",
-      "show_time": "'2026-02-25T12:20:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《清明創造多數人遵循的規則》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225122000.md",
       "github_path": "archive/TX-20260225122000.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225122005",
-      "subject": "清明創造多數人遵循的規則",
-      "show_time": "'2026-02-25T12:20:05'",
-      "category": "本元覺醒",
-      "tags": [
-        "清明",
-        "天訊文"
-      ],
-      "keywords": [
-        "清明",
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260225121855",
-        "TX-20260326203758",
-        "TX-20260326203712"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225122005｜清明創造多數人遵循的規則｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225122005.md",
       "github_path": "archive/TX-20260225122005.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125000",
-      "subject": "看清世界而不被拖走",
-      "show_time": "'2026-02-25T12:50:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《看清世界而不被拖走》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225125000.md",
       "github_path": "archive/TX-20260225125000.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125057",
-      "subject": "看清世界而不被拖走",
-      "show_time": "'2026-02-25T12:50:57'",
-      "category": "本元覺醒",
-      "tags": [
-        "世界",
-        "天訊文"
-      ],
-      "keywords": [
-        "世界",
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260322123655",
-        "TX-20260318101834",
-        "TX-20260318100404"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225125057｜看清世界而不被拖走｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容 | |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225125057.md",
       "github_path": "archive/TX-20260225125057.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125100",
-      "subject": "不爭公平，也不製造不公；<br>不操控眾生，也不逃避眾生。",
-      "show_time": "'2026-02-25T12:51:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《不爭公平，也不製造不公；<br>不操控眾生，也不逃避眾生。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225125100.md",
       "github_path": "archive/TX-20260225125100.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125114",
-      "subject": "不爭公平，也不製造不公；",
-      "show_time": "'2026-02-25T12:51:14'",
-      "category": "眾生與守地",
-      "tags": [
-        "公平",
-        "天訊文"
-      ],
-      "keywords": [
-        "公平",
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260318101944",
-        "TX-20260318101757",
-        "TX-20260318092103"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225125114｜不爭公平，也不製造不公；｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225125114.md",
       "github_path": "archive/TX-20260225125114.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125200",
-      "subject": "若真為眾生好，<br>不必操控，也不必放任；<br>只需建立一個<br>讓清醒者能清醒、<br>迷者",
-      "show_time": "'2026-02-25T12:52:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《若真為眾生好，<br>不必操控，也不必放任；<br>只需建立一個<br>讓清醒者能清醒、<br>迷者》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225125200.md",
       "github_path": "archive/TX-20260225125200.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225125218",
-      "subject": "若真為眾生好，",
-      "show_time": "'2026-02-25T12:52:18'",
-      "category": "眾生與守地",
-      "tags": [
-        "素行",
-        "生命",
-        "世界",
-        "醒者",
-        "天訊文"
-      ],
-      "keywords": [
-        "素行",
-        "生命",
-        "世界",
-        "醒者",
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260318101944",
-        "TX-20260318101757",
-        "TX-20260318092103"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225125218｜若真為眾生好，｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容 | |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225125218.md",
       "github_path": "archive/TX-20260225125218.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225130800",
-      "subject": "有人疾行，<br>有人緩步，<br>有人停歇，<br>有人回望。<br>只要不離方向，皆在路上。",
-      "show_time": "'2026-02-25T13:08:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《有人疾行，<br>有人緩步，<br>有人停歇，<br>有人回望。<br>只要不離方向，皆在路上。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260225130800.md",
       "github_path": "archive/TX-20260225130800.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260225130859",
-      "subject": "有人疾行，",
-      "show_time": "'2026-02-25T13:08:59'",
-      "category": "本元覺醒",
-      "tags": [
-        "天訊文"
-      ],
-      "keywords": [
-        "天訊文"
-      ],
+      "subject": "一天大人所傳（2026-02-25）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
       "publish_status": "",
-      "related_ids": [
-        "TX-20260326203758",
-        "TX-20260326203712",
-        "TX-20260322123655"
-      ],
-      "meta_description": "'# 天訊文 TX-20260225130859｜有人疾行，｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容 | |",
+      "related_ids": [],
+      "meta_description": "",
       "file_name": "TX-20260225130859.md",
       "github_path": "archive/TX-20260225130859.md",
-      "content_status": "",
-      "visibility": "",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
@@ -4549,8 +4328,7 @@
       "publish_status": "",
       "related_ids": [
         "TX-20260318101944",
-        "TX-20260318092103",
-        "TX-20260225125218"
+        "TX-20260318092103"
       ],
       "meta_description": "'# 天訊文 TX-20260318101757｜讓我們再一次聽見，世界的聲音；｜太素天尊 一天大人 ## 基本資料 | 欄位 |",
       "file_name": "TX-20260318101757.md",
@@ -4609,8 +4387,7 @@
       "publish_status": "",
       "related_ids": [
         "TX-20260318101757",
-        "TX-20260318092103",
-        "TX-20260225125218"
+        "TX-20260318092103"
       ],
       "meta_description": "'# 天訊文 TX-20260318101944｜讓我們再一次聽見，世界的聲音，那不只是喧囂，而是萬物振動｜太素天尊 一天大人 ##",
       "file_name": "TX-20260318101944.md",
@@ -4975,25 +4752,18 @@
     },
     {
       "tx_id": "TX-20260326204000",
-      "subject": "退，非退也，乃轉位也。離其名，守其實；去其位，存其道。",
-      "show_time": "'2026-03-26T20:40:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-03-26）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《退，非退也，乃轉位也。離其名，守其實；去其位，存其道。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260326204000.md",
       "github_path": "archive/TX-20260326204000.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
@@ -5052,8 +4822,7 @@
       "publish_status": "",
       "related_ids": [
         "TX-20260326204022",
-        "TX-20260214142120",
-        "TX-20260225125114"
+        "TX-20260214142120"
       ],
       "meta_description": "'# 天訊文 TX-20260326204252｜不再需要公平，才真正自由｜太素天尊 一天大人 ## 基本資料 | 欄位 | 內容",
       "file_name": "TX-20260326204252.md",
@@ -5090,48 +4859,34 @@
     {
       "tx_id": "TX-20260328101306",
       "subject": "人常以為，退，是失去",
-      "show_time": "'2026-03-28T10:13:06'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《人常以為，退，是失去》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260328101306.md",
       "github_path": "archive/TX-20260328101306.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260328101307",
-      "subject": "一天大人曰：人常以為，退，是失去；卻不知，真正的失去，是被局困而不自知。",
-      "show_time": "'2026-03-28T10:13:07'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "人常以為，退，是失去",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《一天大人曰：人常以為，退，是失去；卻不知，真正的失去，是被局困而不自知。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260328101307.md",
       "github_path": "archive/TX-20260328101307.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
@@ -5714,120 +5469,85 @@
     {
       "tx_id": "TX-20260412112158",
       "subject": "行動與結果系統",
-      "show_time": "'2026-04-12T11:21:58'",
-      "category": "行動系統",
-      "tags": [
-        "行動系統",
-        "素行"
-      ],
-      "keywords": [
-        "行動系統",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《行動與結果系統》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260412112158.md",
       "github_path": "archive/TX-20260412112158.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260412112159",
-      "subject": "做事，會消耗時間；結果，才會累積價值。消耗型行動 vs 累積型行動。",
-      "show_time": "'2026-04-12T11:21:59'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-04-12）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《做事，會消耗時間；結果，才會累積價值。消耗型行動 vs 累積型行動。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260412112159.md",
       "github_path": "archive/TX-20260412112159.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260412112160",
-      "subject": "行動的本質：從做事到產生結果",
-      "show_time": "'2026-04-12T11:21:60'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "行動與結果系統",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《行動的本質：從做事到產生結果》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260412112160.md",
       "github_path": "archive/TX-20260412112160.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414104319",
       "subject": "角度、真話與權力",
-      "show_time": "'2026-04-14T10:43:19'",
-      "category": "權力與真實",
-      "tags": [
-        "權力與真實",
-        "素行"
-      ],
-      "keywords": [
-        "權力與真實",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《角度、真話與權力》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260414104319.md",
       "github_path": "archive/TX-20260414104319.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260414104320",
-      "subject": "在人的世界裡，沒有一句話是中立的。每一句話，都是一個位置的延伸。",
-      "show_time": "'2026-04-14T10:43:20'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-04-14）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《在人的世界裡，沒有一句話是中立的。每一句話，都是一個位置的延伸。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260414104320.md",
       "github_path": "archive/TX-20260414104320.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
@@ -9649,49 +9369,35 @@
     },
     {
       "tx_id": "TX-20260720093930",
-      "subject": "看見相同，態度不同；態度決定方向，方向決定命運。",
-      "show_time": "'2026-07-20T09:39:30'",
-      "category": "天訊文",
-      "tags": [
-        "天訊文",
-        "素行"
-      ],
-      "keywords": [
-        "天訊文",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-07-20）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《看見相同，態度不同；態度決定方向，方向決定命運。》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260720093930.md",
       "github_path": "archive/TX-20260720093930.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
       "tx_id": "TX-20260720093931",
-      "subject": "態度決定方向，方向決定命運",
-      "show_time": "'2026-07-20T09:39:31'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
+      "subject": "一天大人所傳（2026-07-20）",
+      "show_time": "",
+      "category": "",
+      "tags": [],
+      "keywords": [],
+      "publish_status": "",
       "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《態度決定方向，方向決定命運》天訊文典藏。不刪減、不改寫、不詮釋。'",
+      "meta_description": "",
       "file_name": "TX-20260720093931.md",
       "github_path": "archive/TX-20260720093931.md",
-      "content_status": "published",
-      "visibility": "public",
+      "content_status": "restricted-stub",
+      "visibility": "restricted",
       "topic_family": "",
       "semantic_cluster": []
     },

@@ -44,7 +44,13 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             errors.append(f"{path}: 缺少 YAML frontmatter")
             continue
 
+        # TX-TAKEDOWN-20261102 的附錄 A 為完整受控替換頁；為避免回填任何
+        # 原文 metadata，restricted-stub 只要求其最小識別與裁定欄位。
+        is_restricted_stub = metadata.get("content_status") == "restricted-stub"
+        restricted_stub_omitted_fields = {"source_type", "show_time", "keywords", "related_ids"}
         for field in required_fields:
+            if is_restricted_stub and field in restricted_stub_omitted_fields:
+                continue
             value = metadata.get(field)
             if value is None and field in compatibility_defaults:
                 value = compatibility_defaults[field]
@@ -68,7 +74,7 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
 
         content_status = metadata.get("content_status")
 
-        if content_status and content_status not in allowed_content_status:
+        if content_status and content_status not in [*allowed_content_status, "restricted-stub"]:
             errors.append(f"{path}: content_status 不合法：{content_status}")
 
         visibility = metadata.get("visibility")
@@ -77,6 +83,8 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             errors.append(f"{path}: visibility 不合法：{visibility}")
 
         for field in required_array_fields:
+            if is_restricted_stub and field in restricted_stub_omitted_fields:
+                continue
             value = metadata.get(field)
             if value is None and field in compatibility_defaults:
                 value = compatibility_defaults[field]

@@ -51,6 +51,16 @@ for root, dirs, files in os.walk(ARCHIVE_DIR):
             "date": parse_date(metadata.get("show_time", ""))
         })
 
+def is_restricted_candidate(item):
+    metadata = item["metadata"]
+    visibility = str(metadata.get("visibility", "")).strip().lower()
+    content_status = str(metadata.get("content_status", "")).strip().lower()
+    return visibility in {"restricted", "private", "internal"} or content_status in {
+        "restricted", "restricted-stub", "archived_internal"
+    }
+
+eligible_items = [item for item in items if not is_restricted_candidate(item)]
+
 def score_related(a, b):
     if a["tx_id"] == b["tx_id"]:
         return -1
@@ -80,6 +90,10 @@ updated_count = 0
 for item in items:
     metadata = item["metadata"]
 
+    # 受限／下架內容既不作為關聯來源，也不得被重新補上推測關聯。
+    if is_restricted_candidate(item):
+        continue
+
     existing_related = metadata.get("related_ids")
 
     if isinstance(existing_related, list) and len(existing_related) > 0:
@@ -87,7 +101,7 @@ for item in items:
 
     scored = []
 
-    for other in items:
+    for other in eligible_items:
         score = score_related(item, other)
         if score >= 0:
             scored.append((score, other["show_time"], other["tx_id"]))
