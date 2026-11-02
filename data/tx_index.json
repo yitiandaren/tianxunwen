@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-11-02T02:27:58.101484",
+  "generated_at": "2026-11-02T07:46:53.784781",
   "source": "archive/*.md",
-  "total_count": 504,
+  "total_count": 503,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -1292,9 +1292,9 @@
       "semantic_cluster": []
     },
     {
-      "tx_id": "TX-20260211112400",
+      "tx_id": "TX-20260211112431",
       "subject": "元素人生 · 活出五形平衡<br><br>土｜承載（根）<br><br>土，是你的身體、生活結構、穩",
-      "show_time": "'2026-02-11T11:24:00'",
+      "show_time": "'2026-02-11T11:24:31'",
       "category": "短偈金句",
       "tags": [
         "短偈金句",
@@ -1308,17 +1308,17 @@
       "publish_status": "'已發布'",
       "related_ids": [],
       "meta_description": "'太素天尊 一天大人《元素人生 · 活出五形平衡<br><br>土｜承載（根）<br><br>土，是你的身體、生活結構、穩》天訊文典藏。不刪減、不改寫、不詮釋。'",
-      "file_name": "TX-20260211112400.md",
-      "github_path": "archive/TX-20260211112400.md",
+      "file_name": "TX-20260211112431.md",
+      "github_path": "archive/TX-20260211112431.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
       "semantic_cluster": []
     },
     {
-      "tx_id": "TX-20260214100400",
+      "tx_id": "TX-20260214100424",
       "subject": "人可以不喜一個制度，<br>卻不必憎一片土地。<br><br>制度會變，政權會更，<br>思想會起落",
-      "show_time": "'2026-02-14T10:04:00'",
+      "show_time": "'2026-02-14T10:04:24'",
       "category": "短偈金句",
       "tags": [
         "短偈金句",
@@ -1332,8 +1332,8 @@
       "publish_status": "'已發布'",
       "related_ids": [],
       "meta_description": "'太素天尊 一天大人《人可以不喜一個制度，<br>卻不必憎一片土地。<br><br>制度會變，政權會更，<br>思想會起落》天訊文典藏。不刪減、不改寫、不詮釋。'",
-      "file_name": "TX-20260214100400.md",
-      "github_path": "archive/TX-20260214100400.md",
+      "file_name": "TX-20260214100424.md",
+      "github_path": "archive/TX-20260214100424.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
@@ -1614,9 +1614,9 @@
       "semantic_cluster": []
     },
     {
-      "tx_id": "TX-20260214154300",
+      "tx_id": "TX-20260214154332",
       "subject": "未來人類精神支柱將是什麼<br><br>當傳統宗教逐漸式微，科技與資本又無法提供終極意義，人類將面臨",
-      "show_time": "'2026-02-14T15:43:00'",
+      "show_time": "'2026-02-14T15:43:32'",
       "category": "短偈金句",
       "tags": [
         "短偈金句",
@@ -1630,8 +1630,8 @@
       "publish_status": "'已發布'",
       "related_ids": [],
       "meta_description": "'太素天尊 一天大人《未來人類精神支柱將是什麼<br><br>當傳統宗教逐漸式微，科技與資本又無法提供終極意義，人類將面臨》天訊文典藏。不刪減、不改寫、不詮釋。'",
-      "file_name": "TX-20260214154300.md",
-      "github_path": "archive/TX-20260214154300.md",
+      "file_name": "TX-20260214154332.md",
+      "github_path": "archive/TX-20260214154332.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",
@@ -3952,30 +3952,6 @@
       "github_path": "archive/TX-20260310110301.md",
       "content_status": "",
       "visibility": "",
-      "topic_family": "",
-      "semantic_cluster": []
-    },
-    {
-      "tx_id": "TX-20260310113300",
-      "subject": "《AI泡沫與能源文明》<br><br>一天大人觀世而語：泡沫必然發生。<br><br>因為人類正在經",
-      "show_time": "'2026-03-10T11:33:00'",
-      "category": "短偈金句",
-      "tags": [
-        "短偈金句",
-        "素行"
-      ],
-      "keywords": [
-        "短偈金句",
-        "素行",
-        "一天大人"
-      ],
-      "publish_status": "'已發布'",
-      "related_ids": [],
-      "meta_description": "'太素天尊 一天大人《《AI泡沫與能源文明》<br><br>一天大人觀世而語：泡沫必然發生。<br><br>因為人類正在經》天訊文典藏。不刪減、不改寫、不詮釋。'",
-      "file_name": "TX-20260310113300.md",
-      "github_path": "archive/TX-20260310113300.md",
-      "content_status": "published",
-      "visibility": "public",
       "topic_family": "",
       "semantic_cluster": []
     },

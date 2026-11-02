@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-11-02T02:27:58.154414",
-  "total_missing_items": 504,
+  "generated_at": "2026-11-02T07:46:53.834930",
+  "total_missing_items": 503,
   "missing_field_counts": {
-    "editor_intro": 422,
-    "open_question": 421,
-    "related_ids": 422,
+    "editor_intro": 421,
+    "open_question": 420,
+    "related_ids": 421,
     "keywords": 5,
     "meta_description": 5,
-    "og_image": 504,
+    "og_image": 503,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -629,6 +629,19 @@
       ]
     },
     {
+      "tx_id": "TX-20260211112431",
+      "subject": "元素人生 · 活出五形平衡<br><br>土｜承載（根）<br><br>土，是你的身體、生活結構、穩",
+      "category": "短偈金句",
+      "show_time": "'2026-02-11T11:24:31'",
+      "file": "archive/TX-20260211112431.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
       "tx_id": "TX-20260209100649",
       "subject": "未來信仰不依附",
       "category": "本元覺醒",
@@ -851,19 +864,6 @@
       "category": "短偈金句",
       "show_time": "'2026-02-15T22:54:00'",
       "file": "archive/TX-20260215225400.md",
-      "missing_fields": [
-        "editor_intro",
-        "open_question",
-        "related_ids",
-        "og_image"
-      ]
-    },
-    {
-      "tx_id": "TX-20260214100400",
-      "subject": "人可以不喜一個制度，<br>卻不必憎一片土地。<br><br>制度會變，政權會更，<br>思想會起落",
-      "category": "短偈金句",
-      "show_time": "'2026-02-14T10:04:00'",
-      "file": "archive/TX-20260214100400.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -1660,6 +1660,19 @@
       "category": "短偈金句",
       "show_time": "'2026-04-14T10:45:54'",
       "file": "archive/TX-20260414104554.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20260214100424",
+      "subject": "人可以不喜一個制度，<br>卻不必憎一片土地。<br><br>制度會變，政權會更，<br>思想會起落",
+      "category": "短偈金句",
+      "show_time": "'2026-02-14T10:04:24'",
+      "file": "archive/TX-20260214100424.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
@@ -2648,19 +2661,6 @@
       ]
     },
     {
-      "tx_id": "TX-20260211112400",
-      "subject": "元素人生 · 活出五形平衡<br><br>土｜承載（根）<br><br>土，是你的身體、生活結構、穩",
-      "category": "短偈金句",
-      "show_time": "'2026-02-11T11:24:00'",
-      "file": "archive/TX-20260211112400.md",
-      "missing_fields": [
-        "editor_intro",
-        "open_question",
-        "related_ids",
-        "og_image"
-      ]
-    },
-    {
       "tx_id": "TX-20260318102306",
       "subject": "新觀世音",
       "category": "眾生與守地",
@@ -2669,6 +2669,19 @@
       "missing_fields": [
         "og_image",
         "published_platforms"
+      ]
+    },
+    {
+      "tx_id": "TX-20260214154332",
+      "subject": "未來人類精神支柱將是什麼<br><br>當傳統宗教逐漸式微，科技與資本又無法提供終極意義，人類將面臨",
+      "category": "短偈金句",
+      "show_time": "'2026-02-14T15:43:32'",
+      "file": "archive/TX-20260214154332.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
       ]
     },
     {
@@ -5792,19 +5805,6 @@
       ]
     },
     {
-      "tx_id": "TX-20260310113300",
-      "subject": "《AI泡沫與能源文明》<br><br>一天大人觀世而語：泡沫必然發生。<br><br>因為人類正在經",
-      "category": "短偈金句",
-      "show_time": "'2026-03-10T11:33:00'",
-      "file": "archive/TX-20260310113300.md",
-      "missing_fields": [
-        "editor_intro",
-        "open_question",
-        "related_ids",
-        "og_image"
-      ]
-    },
-    {
       "tx_id": "TX-20260503124654",
       "subject": "學得會的，是知識",
       "category": "短偈金句",
@@ -5969,19 +5969,6 @@
       "missing_fields": [
         "og_image",
         "published_platforms"
-      ]
-    },
-    {
-      "tx_id": "TX-20260214154300",
-      "subject": "未來人類精神支柱將是什麼<br><br>當傳統宗教逐漸式微，科技與資本又無法提供終極意義，人類將面臨",
-      "category": "短偈金句",
-      "show_time": "'2026-02-14T15:43:00'",
-      "file": "archive/TX-20260214154300.md",
-      "missing_fields": [
-        "editor_intro",
-        "open_question",
-        "related_ids",
-        "og_image"
       ]
     },
     {
