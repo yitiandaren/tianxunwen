@@ -1,9 +1,9 @@
 {
   "schema_name": "suxing_tx_index",
   "version": "1.0",
-  "generated_at": "2026-11-02T01:37:34.676938",
+  "generated_at": "2026-11-02T02:27:58.101484",
   "source": "archive/*.md",
-  "total_count": 503,
+  "total_count": 504,
   "items": [
     {
       "tx_id": "TX-20260104111331",
@@ -12883,6 +12883,39 @@
       "meta_description": "一天大人在這則天訊文中指出，心靜、心穩與心定，使心念、能量與行動在素行生活中自然相互契合。",
       "file_name": "TX-20261101101419.md",
       "github_path": "archive/TX-20261101101419.md",
+      "content_status": "published",
+      "visibility": "public",
+      "topic_family": "",
+      "semantic_cluster": []
+    },
+    {
+      "tx_id": "TX-20261102092713",
+      "subject": "真正影響你生活的，始終是你的那顆心。",
+      "show_time": "2026-11-02T09:27:13+08:00",
+      "category": "修行與覺醒",
+      "tags": [
+        "一天大人",
+        "太素天尊",
+        "天訊文",
+        "素行",
+        "觀心",
+        "靜定",
+        "心境",
+        "自在",
+        "生活"
+      ],
+      "keywords": [
+        "真正影響你生活的，始終是你的那顆心。",
+        "觀心",
+        "心靜",
+        "心寬",
+        "心自在"
+      ],
+      "publish_status": "已發布",
+      "related_ids": [],
+      "meta_description": "一天大人在這則天訊文中指出，外在世界與生活條件雖會影響處境，而心境決定生命的感受、回應與前行。",
+      "file_name": "TX-20261102092713.md",
+      "github_path": "archive/TX-20261102092713.md",
       "content_status": "published",
       "visibility": "public",
       "topic_family": "",

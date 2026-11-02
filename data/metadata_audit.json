@@ -1,15 +1,15 @@
 {
   "schema_name": "suxing_metadata_audit",
   "version": "1.1",
-  "generated_at": "2026-11-02T01:37:34.724379",
-  "total_missing_items": 503,
+  "generated_at": "2026-11-02T02:27:58.154414",
+  "total_missing_items": 504,
   "missing_field_counts": {
-    "editor_intro": 421,
-    "open_question": 420,
-    "related_ids": 421,
+    "editor_intro": 422,
+    "open_question": 421,
+    "related_ids": 422,
     "keywords": 5,
     "meta_description": 5,
-    "og_image": 503,
+    "og_image": 504,
     "published_platforms": 82
   },
   "checked_fields": [
@@ -1046,6 +1046,19 @@
       "category": "天訊文",
       "show_time": "'2026-07-28T10:49:45'",
       "file": "archive/TX-20260728104945.md",
+      "missing_fields": [
+        "editor_intro",
+        "open_question",
+        "related_ids",
+        "og_image"
+      ]
+    },
+    {
+      "tx_id": "TX-20261102092713",
+      "subject": "真正影響你生活的，始終是你的那顆心。",
+      "category": "修行與覺醒",
+      "show_time": "2026-11-02T09:27:13+08:00",
+      "file": "archive/TX-20261102092713.md",
       "missing_fields": [
         "editor_intro",
         "open_question",
